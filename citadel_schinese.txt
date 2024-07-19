@@ -649,7 +649,7 @@
 		"Citadel_DamageType_CITADEL_DAMAGETYPE_POISON"				"流血伤害"
 
 		"Citadel_AttackerClass_CLASS_TROOPER"						"蜡烛兵"
-		"Citadel_AttackerClass_CLASS_TROOPER_NEUTRAL"				"居民"
+		"Citadel_AttackerClass_CLASS_TROOPER_NEUTRAL"				"中立生物"
 		"Citadel_AttackerClass_CLASS_TROOPER_BOSS"					"守卫者"
 		"Citadel_AttackerClass_CLASS_BOSS_BARRACKS"					"基地守卫者"
 		"Citadel_AttackerClass_CLASS_BOSS_TIER_2"					"步行者"
@@ -4439,12 +4439,12 @@
 
 		"modifier_unstoppable"							"势不可挡"
 		
-		"ActiveBonusMoveSpeed_label"					"增加移速"
+		"ActiveBonusMoveSpeed_label"					"移速"
 		"ActiveBonusMoveSpeed_prefix"					"{s:sign}"
 		"ActiveBonusMoveSpeed_postfix"					"m/s"
 		"ActiveItemUse_conditional"					"激活后"
 
-		BuffMoveSpeedBonus_label						"增加移速"
+		BuffMoveSpeedBonus_label						"移速"
 		BuffMoveSpeedBonus_postfix						"m/s"
 		BuffMoveSpeedBonus_prefix						"{s:sign}"
 
@@ -5058,7 +5058,7 @@
 		"ActiveBulletDamageReduction_postfix"			"%"
 
 		"BonusMoveSpeed_prefix"							"{s:sign}"
-		"BonusMoveSpeed_label"						"增加移速"
+		"BonusMoveSpeed_label"						"移速"
 		"BonusMoveSpeed_postfix"						" m/s"
 
 		"RunSpeed_postfix"						" m/s"
@@ -5068,7 +5068,7 @@
 
 		"BonusMoveSpeedPercent_prefix"					"{s:sign}"
 		"BonusMoveSpeedPercent_postfix"					"%"
-		"BonusMoveSpeedPercent_label"					"增加移速"
+		"BonusMoveSpeedPercent_label"					"移速"
 
 		"SlowResistancePercent_prefix"					"{s:sign}"
 		"SlowResistancePercent_label"					"减少移速抗性"
@@ -5616,13 +5616,13 @@
 		"HealthDrainedPerSecond_label"				"Health Drain"
 		"HealthDrainedPerSecond_postfix"				" per second"
 
-		"DebuffDurationReductionPercentage_label"		"Debuff Duration Reduction"
+		"DebuffDurationReductionPercentage_label"		"减益持续缩短"
 		"DebuffDurationReductionPercentage_postfix"		"%"
 
 		"HealthCost_label"							"Health Cost"
 
 		"ZipLineSpeedPercent_prefix"					"{s:sign}"
-		"ZipLineSpeedPercent_label"					"Hyperline Speed"
+		"ZipLineSpeedPercent_label"					"缆线速度"
 		"ZipLineSpeedPercent_postfix"					"%"
 		
 		"ZiplineJumpBonusDuration_label"					"Jump Off Duration"
@@ -5632,7 +5632,7 @@
 		"ZiplineJumpBonusMoveSpeed_postfix"					"m/s"
 
 		"BonusZipLineSpeed_prefix"						"{s:sign}"
-		"BonusZipLineSpeed_label"						"Hyperline Speed"
+		"BonusZipLineSpeed_label"						"缆线速度"
 
 		"MaxProjectiles_label"						"Projectile Count"
 
@@ -5641,7 +5641,7 @@
 		"TackleDurationMax_label"						"Max Tackle Duration"
 
 		"MoveSpeedBonus_prefix"							"{s:sign}"
-		"MoveSpeedBonus_label"							"增加移速"
+		"MoveSpeedBonus_label"							"移速"
 		"MoveSpeedBonus_postfix"						"m/s"
 
 		"MoveSpeedFriendlyBuff_prefix"			""
