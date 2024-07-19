@@ -658,16 +658,16 @@
 		"BonusBaseWeaponDamageTaken_postfix"	"%"
 
 		"upgrade_fleetfoot_boots"				"机动步行"
-		"upgrade_fleetfoot_boots_active_desc"	"使用后在持续时间内获得 <span class=\"highlight\">额外移动速度</span> 和 <span class=\"highlight\">基础弹匣增加</span> 。"
+		"upgrade_fleetfoot_boots_active_desc"	"使用后在持续时间内获得 <span class=\"highlight\">额外移动速度</span> 和 <span class=\"highlight\">增加基础弹匣容量</span> 。"
 		"upgrade_fleetfoot_boots_passive_desc"	"移除射击时 <span class=\"highlight\">移动速度惩罚</span> 。"
 		modifier_fleetfoot_boots				"机动步行"
 
 		"upgrade_kinetic_sash"			"动感冲刺"
-		"upgrade_kinetic_sash_desc"		"你的下一次 <span class=\"highlight\">冲刺跳跃</span> 不消耗额外耐力，并且获得 <span class=\"highlight\">射击速度</span> 和 <span class=\"highlight\">暂时额外基础弹药</span> 直到你下次装填。 或持续 {s:AbilityDuration} 秒。"
+		"upgrade_kinetic_sash_desc"		"每隔一段时间，你的下一次 <span class=\"highlight\">闪躲跳跃</span> 不消耗额外耐力，并且获得 <span class=\"highlight\">射击速度</span> 和 <span class=\"highlight\">暂时额外基础弹药</span> 直到你下次装填。 或持续 {s:AbilityDuration} 秒。"
 		modifier_kinetic_sash_triggered	"动感冲刺"
 
 		"upgrade_active_reload"			"主动装填"
-		"upgrade_active_reload_desc"	"装弹时，在高亮显示的部分按下 [{s:key_reload}]，会<span class=\"highlight\">立即完成装弹并获得射速和子弹吸血</span>。"
+		"upgrade_active_reload_desc"	"每隔一段时间，装填时，在高亮显示的部分按下 [{s:key_reload}]，会<span class=\"highlight\">立即完成装填并获得射速和子弹吸血</span>。"
 		"upgrade_active_reload/buff"	"主动装填"
 		
 		"upgrade_arcane_medallion"		"秘法胸针"
@@ -697,7 +697,7 @@
 		SpiritPower_prefix					"+"
 
 		"upgrade_self_bubble"				"飘渺护罩"
-		"upgrade_self_bubble_desc"			"使用后在持续时间内<span class=\"highlight\">无敌</span>，在此期间，你不能移动或执行任何操作。当效果结束 你会获得<span class=\"highlight\">重装弹匣</span>以及获得 <span class=\"highlight\">额外魂力</span>。"
+		"upgrade_self_bubble_desc"			"使用后在持续时间内<span class=\"highlight\">无敌</span>，在此期间，你不能移动或执行任何操作。当效果结束 你会获得<span class=\"highlight\">装填弹匣</span>以及获得 <span class=\"highlight\">额外魂力</span>。"
 		ShiftingVeilDuration_label			"无敌持续"
 		ShiftingVeilDuration_postfix		"s"
 		BonusSpiritDuration_label			"魂力加成持续时间"
@@ -941,9 +941,11 @@
 		RespawnDelay_postfix						"s"
 
 		"upgrade_phantom_strike"				"幻影突袭"
-		"upgrade_phantom_strike_desc"			"选定一个敌方英雄目标，使用后<span class=\"highlight\">传送</span>敌人目标跟前，造成 <span class=\"highlight\">魂力伤害</span>并且施加 <span class=\"highlight\">减少移速和缴械</span>。"
+		"upgrade_phantom_strike_desc"			"选定一个敌方英雄目标，使用后<span class=\"highlight\">传送</span>敌人目标跟前，造成 <span class=\"highlight\">魂力伤害</span>并且施加<span class=\"highlight\">减少移速和缴械</span>。"
 		"BarrierDuration_label"					"护盾持续"
 		"BarrierDuration_postfix"				"s"
+		PhantomStrikeDebuffDuration_label		"缴械和减速持续"
+		PhantomStrikeDebuffDuration_postfix		"s"
 		
 		"upgrade_rebirth"						"灵魂重生"
 		"upgrade_rebirth_passive"				"如果持有者死亡，在 {s:RespawnDelay}s 延迟后，将<span class=\"highlight\">以部分生命值状态在死亡地点重生</span>。"
@@ -998,7 +1000,7 @@
 		"upgrade_frenzy/modifier_frenzy_aura/modifier_frenzy_kill"		"Killed Frenzy"
 
 		upgrade_unstoppable						"势不可挡"
-		upgrade_unstoppable_desc				"使用后在持续时间内<span class=\"highlight\">免疫负面状态效果</span>，免疫眩晕、沉默、睡眠、缠绕、缴械和链接效果。"
+		upgrade_unstoppable_desc				"使用后在持续时间内<span class=\"highlight\">免疫负面状态效果</span>，免疫眩晕、沉默、睡眠、束缚、缴械和链接效果。"
 		
 		upgrade_colossus				"化身巨人"
 		upgrade_colossus_desc			"使用后在持续时间内获得<span class=\"highlight\">子弹和魂力抗性</span>，并<span class=\"highlight\">对附近的敌方目标减少移速</span>。你的模型大小增加10%。"
