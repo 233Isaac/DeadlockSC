@@ -295,8 +295,8 @@
 		"Citadel_ShopFilter_Disruption"								"干扰"
 
 		"Citadel_Ability_IsImbued"									"技能已被模组浸染"
-		"Citadel_ComponentRequired"									"上一级:"
-		"Citadel_ComponentOwned"									"已购买"
+		"Citadel_ComponentRequired"									"所需模组:"
+		"Citadel_ComponentOwned"									"已拥有"
 		"Citadel_ItemOwnedBy"										"已购买:"
 		"Citadel_ItemModifies"										"增强"
 		"Citadel_ComponentUseIn"									"模组升级:"
@@ -557,7 +557,7 @@
 		"Citadel_HUD_RejuvCaptured"									"得到了复生晶石"
 		"Citadel_HUD_RejuvStolen"									"窃取了复生晶石!"
 		"Citadel_HUD_IdolPickedUp"									"魂瓮已捡起!"
-		"Citadel_HUD_IdolReturned"									"已归还魂瓮!"
+		"Citadel_HUD_IdolReturned"									"已送达魂瓮!"
 		"Citadel_HUD_DamageSummary_Title"							"伤害 <i>来源</i>"
 		"Citadel_HUD_DamageSummary_Hint"							"按住 <span class=\"keybind\">[{s:key_extra_info}]</span> 来查看详情"
 
@@ -658,12 +658,12 @@
 		"Citadel_AttackerClass_CLASS_ZAP_TRIGGER"					"环境闪电"
 
 		"Citadel_HUD_DamageReport_Title"							"伤害明细"
-		"Citadel_HUD_DamageReport_DamageReceived"					"受到伤害"
+		"Citadel_HUD_DamageReport_DamageReceived"					"受伤数据"
 		"Citadel_HUD_DamageReport_DamageDealt"						"输出伤害"
-		"Citadel_HUD_DamageReport_TopDamageSources"					"最高{i:num_damage_rows}伤害来源"
+		"Citadel_HUD_DamageReport_TopDamageSources"					"最高的{i:num_damage_rows}个伤害来源"
 		"Citadel_HUD_DamageReport_ShowMore"							"显示更多"
 		
-		"Citadel_HUD_DamageReport_LastRespawn"						"当前生命值"
+		"Citadel_HUD_DamageReport_LastRespawn"						"本次生命"
 		"Citadel_HUD_DamageReport_Time600"							"10 分钟"
 		"Citadel_HUD_DamageReport_Time300"							"5 分钟"
 		"Citadel_HUD_DamageReport_Time180"							"3 分钟"
@@ -674,7 +674,7 @@
 		"Citadel_HUD_DamageReport_AllHeroDamageReceived"			"所有英雄造成的伤害"
 		"Citadel_HUD_DamageReport_HeroDamageDealt"					"对英雄造成的伤害"
 		"Citadel_HUD_DamageReport_AllHeroDamageDealt"				"对所有英雄造成的伤害"
-		"Citadel_HUD_DamageReport_Total"							"总伤害:"
+		"Citadel_HUD_DamageReport_Total"							"总受到伤害:"
 		"Citadel_HUD_DamageReport_TotalTaken"						"英雄受到的伤害:"
 		"Citadel_HUD_DamageReport_TotalDamageValue"					"{d:total_damage}"
 		"Citadel_HUD_DamageReport_DamagePercentWeapon"				"{i:weapon_damage_percent}%"
@@ -4740,7 +4740,7 @@
 
         "hero_akimbo_playstyle"         "Akimbo 擅长近距离作战，他依靠速度、锥形攻击和大量子弹尽可能多地击中目标。"
         "hero_astro_playstyle"          "Astro 依靠她的神枪手技能，射击被她弹到空中的东西。只要瞄准得当，她就能造成重创。她的移动技能可以让她孤立敌人或仓皇撤退。"
-        "hero_atlas_playstyle"          "Abrams斯拥有强壮的体格和持久力，可以从前方带队，经常冲到敌人中间，看着他们四散奔逃。如果敌人将火力浪费在他身上，他的后排队友可以肆无忌惮地造成伤害。"
+        "hero_atlas_playstyle"          "Abrams斯拥有强壮的体格和持久力，可以从前方带队，冲到敌阵，使得他们四散奔逃。如果敌人将火力浪费在他身上，他的后排队友可以肆无忌惮地造成伤害。"
         "hero_ballista_playstyle"       "你知道人们讨厌什么吗？ 被猎枪击退。 你知道他们更讨厌什么吗？ 被打回雷区。 你知道他们更讨厌什么吗？ 被核聚变炸弹原子化。 Ballista把战场变成了一个爆炸装置"
         "hero_bebop_playstyle"          "Bebop 能以多种方式将自己的技能串联起来。扰乱敌人阵地、拯救盟友或造成爆发性伤害。当情况不需要细腻操作时，他的巨型激光仍能解决很多问题。"
 		"hero_wrecker_playstyle"		"通过打捞和拆卸零件，Wrecker 可以拆解部队，用他的 “破坏球 ”粉碎敌人，并用他的 “停滞陷阱 ”捕获所有敌人。"
@@ -4941,7 +4941,7 @@
 		"BaseAttackDamage_label"						"基础伤害"
 
 		"BonusHealth_prefix"							"{s:sign}"
-		"BonusHealth_label"							"额外生命值"
+		"BonusHealth_label"							"生命值"
 
 		"MaxHealth_prefix"							"{s:sign}"
 		"MaxHealth_label"							"最大生命值"
