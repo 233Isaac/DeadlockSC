@@ -454,7 +454,7 @@
 		"upgrade_fervor"			"狂暴"
 		"upgrade_fervor_passive"	"当 <span class=\"highlight\">低于 {s:LowHealthThreshold}% 血量</span> 时，获得增益。"
 		"FervorTechResist_postfix"  "%"
-		"upgrade_tech_defense_shredders"		"碎魂子弹"
+		"upgrade_tech_defense_shredders"		"碎魂弹药"
 		"upgrade_tech_defense_shredders_desc"	"你的子弹会对敌人附加 <span class=\"highlight\">魂力伤害增幅</span> 和 <span class=\"highlight\">魂力吸血</span> 减益状态。"
 		ShreddersTechAmp_label				"魂力伤害增幅"
 		ShreddersTechAmp_postfix			"%"
@@ -477,11 +477,11 @@
 		ActiveBonusLifesteal_label		"子弹吸血"
 		ActiveBonusLifesteal_postfix	"%"
 
-		"upgrade_siphon_bullets"				"虹吸子弹"
+		"upgrade_siphon_bullets"				"虹吸弹药"
 		"upgrade_siphon_bullets_desc_passive1"	"当目标在你的 <span class=\"highlight\">近距离</span>时，对该目标造成<span class=\"highlight\">额外子弹伤害</span>."
 		"upgrade_siphon_bullets_desc_passive2"	"你的子弹击中敌人时 <span class=\"highlight\">窃取最大生命值</span> . 减益状态结束后敌人会恢复被窃取的生命值。"
-		modifier_siphon_bullets_health_gain		"虹吸子弹"
-		modifier_siphon_bullets_health_loss		"虹吸子弹"
+		modifier_siphon_bullets_health_gain		"虹吸弹药"
+		modifier_siphon_bullets_health_loss		"虹吸弹药"
 		HealthSteal_label						"每颗子弹的最大 生命 窃取量"
 
 		"upgrade_weapon_overdrive_clip"					"超频弹夹"
