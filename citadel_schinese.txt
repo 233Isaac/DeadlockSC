@@ -1334,7 +1334,7 @@
 		"citadel_ability_bull_leap_desc"		"使用技能后<span class=\"highlight\">跳向空中</span>并选择一个要砸向地面的位置。当你砸向地面时，<span class=\"highlight\">范围内的所有敌方目标都会受到伤害并眩晕</span>。<br>按下 [{s:iv_attack}] 提前冲击地面。"
 		"modifier_citadel_bull_leap"			"加速"
 		citadel_ability_bull_leap_t2_desc		"每击中一个英雄获得{s:BonusMaxHealthPerHero}最大生命值和增加{s:BonusFireRatePerHero}%射速-持续{s:LandingBonusesDuration}s."
-		citadel_ability_bull_leap_t3_desc		"落地后，获得<span class=\"highlight\">不可阻挡增益</span>，免疫眩晕、沉默、睡眠、束缚、缴械和链接效果。持续{s:ImmunityDuration}s"
+		citadel_ability_bull_leap_t3_desc		"使用技能后，获得<span class=\"highlight\">不可阻挡增益</span>，免疫眩晕、沉默、睡眠、束缚、缴械和链接效果。落地后持续{s:ImmunityDuration}s"
 		AbilityButtonHint_BullLeapCrash			"冲击"
 		modifier_abrams_immunity				"势不可挡"
 		
