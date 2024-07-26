@@ -366,11 +366,11 @@
 		"upgrade_fire_rate_aura"			"射速光环"
 		"upgrade_fire_rate_aura_desc"	"为你和附近的队友提供<span class=\"highlight\">射速</span>加成。对非英雄单位的加成不同。"
 
-		"upgrade_warp_stone"		"传送石"
+		"upgrade_warp_stone"		"传送符石"
 		"upgrade_warp_stone_desc"	"使用后向瞄准的地方<span class=\"highlight\">传送</span> 一小段距离，获得额外 <span class=\"highlight\">子弹抗性</span>。"
 		WarpStoneRange_label		"传送距离"
 		WarpStoneRange_postfix		"m"
-		modifier_warp_stone_caster	"传送石"
+		modifier_warp_stone_caster	"传送符石"
 		CasterBuffDuration_label	"增益持续时间"
 		CasterBuffDuration_postfix	"s"
 		CasterSlowPercent_label		"自我减速"
@@ -384,7 +384,7 @@
 		MagicBurstDamage_label		"额外伤害"
 
 		"upgrade_magic_shock"	"高阶迸发"
-		"upgrade_magic_shock_desc"	"如果技能在单次造成 {s:MinimumDamage} 或更多伤害，则会造成<span class=\"highlight\">额外伤害和减少移速</span>。目标在受到高阶迸发伤害后的<span class=\"highlight\">{s:ReProcLockoutTime}s</span>内免疫高阶迸发的效果。"
+		"upgrade_magic_shock_desc"	"如果造成的魂力伤害在单次造成{s:MinimumDamage}或更多伤害，则会增加<span class=\"highlight\">额外伤害和减少移速</span>。目标在受到高阶迸发伤害后的<span class=\"highlight\">{s:ReProcLockoutTime}s</span>内免疫高阶迸发的效果。"
 		MagicShockDamage_label		"最大生命值伤害"
 		MagicShockDamage_postfix	"%"
 
@@ -1041,7 +1041,7 @@
 		AmbushBonusTechPower_prefix					"+"
 		AmbushBonusTechPower_label					"影袭 魂力"
 		AmbushBonusFireRate_prefix					"+"
-		AmbushBonusFireRate_label					"影袭 开火速率"
+		AmbushBonusFireRate_label					"影袭 射速"
 		AmbushBonusFireRate_postfix					"%"
 		AmbushDuration_label						"影袭 持续时间"
 		AmbushDuration_postfix						"s"
