@@ -2,13 +2,13 @@
 
 如何使用
 
-下载这两个文件：
-citadel_common_schinese.txt
-citadel_schinese.txt
+下载项目为压缩包
+将game 文件夹解压至游戏目录
 
-放到Project8Staging\game\citadel\resource 并且覆盖原文件
-
-游戏属性中需要在启动项放入 -language schinese
+非中文需要在游戏属性中需要在启动项放入
+-language schinese
+繁体启动项
+-language tchinese
 
 [非官方] Deadlock 中文社区QQ群 985561206 598982984
 
