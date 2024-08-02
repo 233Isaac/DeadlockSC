@@ -1,0 +1,13 @@
+需要在启动项内加入
+-language schinese
+
+
+\Project8Staging\game\citadel\resource
+覆盖
+
+[非官方] Deadlock 交流群
+群号287992539
+
+在发布到deadlock官方前任何分享均是未被允许的
+
+作者:233Isaac ,gaGABadabaduduEN
