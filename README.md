@@ -1,17 +1,10 @@
-# DeadlockSC
+# Deadlock 台灣繁體
 
-如何使用
+原翻譯 https://github.com/233Isaac/DeadlockSC
+Fork修改為台灣用語
 
-下载项目为压缩包
-将game 文件夹解压至游戏目录
+下載項目為壓縮包
+將game 資料夾解壓縮至遊戲根目錄
 
-非中文需要在游戏属性中需要在启动项放入
--language schinese
-繁体启动项
--language tchinese
-
-[非官方] Deadlock 中文社区QQ群 985561206 598982984
-
-禁止修改后去除署名以及盈利化的行为
 
 
