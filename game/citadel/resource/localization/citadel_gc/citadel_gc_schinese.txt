@@ -405,7 +405,7 @@
 		"upgrade_magic_storm"					"澎湃動力"
 		"upgrade_suppressor"					"秘法抑制"
 		"upgrade_quick_silver"					"迅銀速裝"
-		"upgrade_magic_carpet"					"奧秘飛毯"
+		"upgrade_magic_carpet"					"魔毯"
 
 
 		//-----------------------------------------------------------------------------
