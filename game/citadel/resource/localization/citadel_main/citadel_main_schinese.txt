@@ -2053,8 +2053,8 @@
 		"Citadel_Confirm_Discord_InMatch_Title"		"現在無法領取"
 		"Citadel_Confirm_Discord_InMatch_Body"		"請於不在隊伍中及不在匹配中時領取你的 Discord 連結"
 
-		"menu_exit_db_page"							"後退"
-		"menu_settings"								"設置"
+		"menu_exit_db_page"							"返回"
+		"menu_settings"								"設定"
 		"menu_profile"								"個人資料"
 		"menu_sandbox"								"沙盒模式"
 		"menu_hero_grid"							"英雄"
@@ -2093,7 +2093,7 @@
 
 		"item_info_abilities"						"技能"
 		"item_info_flex_slots"						"額外槽位"
-		"item_info_active"							"啟用"
+		"item_info_active"							"主動"
 		"item_info_new"								"新"
 		"item_info_sell"							"出售"
 		"item_info_no_shop"							"附近沒有商店"
