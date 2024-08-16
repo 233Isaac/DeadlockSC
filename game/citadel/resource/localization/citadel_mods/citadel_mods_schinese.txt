@@ -612,9 +612,9 @@
 		"modifier_quick_silver_buff"				"額外射速"
 
 		// Magic carpet
-		"upgrade_magic_carpet_desc"				"召喚飛毯，讓你飛走。飛行時獲得子彈護盾和精神護盾。 召喚飛毯時無法使用技能。 飛行時，任何操作都會解除魔毯。"
-		"modifier_magiccarpet"					"奧秘飛毯"
-		"modifier_summon_magiccarpet"			"召喚奧秘飛毯"
+		"upgrade_magic_carpet_desc"				"召喚一張魔毯帶你飛行。飛行時獲得子彈與魂力護盾。召喚魔毯時無法使用其他能力。飛行過程中進行任何動作都會解除魔毯效果。"
+		"modifier_magiccarpet"					"魔毯"
+		"modifier_summon_magiccarpet"			"召喚魔毯"
 		"MagicCarpetMoveSpeed_prefix"			"+"
 		"MagicCarpetMoveSpeed_label"			"額外飛行速度"
 		"MagicCarpetMoveSpeed_postfix"			"m/s"
