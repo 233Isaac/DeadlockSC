@@ -7,6 +7,7 @@ Fork修改為台灣用語
 
 將game 資料夾解壓縮至遊戲根目錄
 
-遊戲中選用簡體中文
+啟動選項
+``language -tchinese``
 
 
