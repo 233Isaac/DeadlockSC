@@ -2044,7 +2044,7 @@
 		"menu_training"								"練習"
 		"menu_browseshop"							"瀏覽模組"
 		"menu_social"								"隊伍"
-		"Citadel_Exit_Game_Confirm"					"確定要退出Deadlock？[本漢化補丁由愛好者自行製作免費提供與授權 如果你是從其他渠道付費下載了該補丁請退款 謹防上當受騙]"
+		"Citadel_Exit_Game_Confirm"					"確定要退出Deadlock？[本漢化補丁由愛好者自行製作免費提供與授權 如果你是從任何管道付費下載了該補丁請退款 謹防上當受騙]"
 		"menu_exit"									"退出遊戲"
 		"Citadel_Confirm_Discord"					"你準備好創建 Discord 邀請了嗎？此邀請僅可使用 2 小時，你將無法創建其他邀請。"
 		"Citadel_Confirm_Discord_Create"			"創建 Discord 邀請"
