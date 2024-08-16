@@ -821,7 +821,7 @@
 		"Citadel_Party_Context_ShowCode"							"顯示隊伍代碼"
 		"Citadel_Party_Context_HideCode"							"隱藏隊伍代碼"
 
-		"Citadel_Main_EarlyDevBuild"								"早期測試版 請勿直播和錄影"
+		"Citadel_Main_EarlyDevBuild"								"早期測試版 (請勿直播和錄影)"
 		"Citadel_Main_ViewProfile"									"查看檔案"
 		"Citadel_Main_PlayMode"										"選擇遊玩模式:"
 
@@ -2039,8 +2039,8 @@
 		"menu_control_zoo"							"控制動物園"
 		"menu_getstarted"							"基礎教學"
 		"menu_bot_practice"							"私人BOT匹配"
-		"menu_learn"								"教學 請勿直播和錄影"
-		"menu_resources"							"物品 直播錄影檢舉封號"
+		"menu_learn"								"教學 (請勿直播和錄影)"
+		"menu_resources"							"物品 (直播錄影檢舉封鎖)"
 		"menu_training"								"練習"
 		"menu_browseshop"							"瀏覽模組"
 		"menu_social"								"隊伍"
