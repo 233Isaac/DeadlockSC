@@ -335,6 +335,7 @@
 		"upgrade_reinforcing_casings"			"狂暴韌性"
 		"upgrade_critshot"						"幸運射擊"
 		"upgrade_veil_walker"					"面紗行者"
+		"upgrade_high_velocity_mag"				"高速彈藥"
 
 
 		//-----------------------------------------------------------------------------
