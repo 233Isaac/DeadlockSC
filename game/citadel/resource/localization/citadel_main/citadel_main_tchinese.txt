@@ -1,6 +1,6 @@
 ﻿"lang" 
 { 
-	"Language" "schinese" 
+	"Language" "tchinese" 
 	"Tokens" 
 	{
 		"Citadel_Dashboard_BuildVersion"	"漢化233Isaac 版本 {d:buildNumber} - {s:buildTime}"
