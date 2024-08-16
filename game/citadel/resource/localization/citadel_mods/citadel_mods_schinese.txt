@@ -9,42 +9,42 @@
 		//-----------------------------------------------------------------------------
 
 		//Basic Magazine
-		"upgrade_clip_size_desc"			"增加 <span class=\"highlight\">基础弹匣</span>."
+		"upgrade_clip_size_desc"			"增加 <span class=\"highlight\">基礎彈匣</span>."
 
 		//Extended Magazine
-		"upgrade_clip_size_fixed_desc"		"增加 <span class=\"highlight\">基础弹匣</span>."
+		"upgrade_clip_size_fixed_desc"		"增加 <span class=\"highlight\">基礎彈匣</span>."
 
 		//Extra Large Magazine
-		"upgrade_clip_size_fixed_t3_desc"		"大幅增加 <span class=\"highlight\">基础弹匣</span>."
+		"upgrade_clip_size_fixed_t3_desc"		"大幅增加 <span class=\"highlight\">基礎彈匣</span>."
 
 		//Big Clip
-		"upgrade_clip_size_2_desc"			"大增加 <span class=\"highlight\">基础弹匣</span>."
+		"upgrade_clip_size_2_desc"			"大增加 <span class=\"highlight\">基礎彈匣</span>."
 
 		//Extra Large Magazine
-		"upgrade_clip_size_3_desc"			"大幅增加 <span class=\"highlight\">基础弹匣</span>."
+		"upgrade_clip_size_3_desc"			"大幅增加 <span class=\"highlight\">基礎彈匣</span>."
 
 		//Ammo Scavenger
-		"upgrade_ammo_scavenger_desc"		"每次<span class=\"highlight\"> 正补 或 反补 魂灵球 </span>时，都会<span class=\"highlight\">回复些许弹药和获得额外魂力</span>。可以叠加。"
-		"AmmoPerSoul_label"					"每个魂灵球弹药"
-		"SpiritPowerPerSoul_label"			"每个魂灵球魂力"
-		"AmmoScavengerDuration_label"			"持续时间"
+		"upgrade_ammo_scavenger_desc"		"每次<span class=\"highlight\"> 正補 或 反補 魂靈球 </span>時，都會<span class=\"highlight\">回復些許彈藥和獲得額外魂力</span>。可以疊加。"
+		"AmmoPerSoul_label"					"每個魂靈球彈藥"
+		"SpiritPowerPerSoul_label"			"每個魂靈球魂力"
+		"AmmoScavengerDuration_label"			"持續時間"
 		"AmmoScavengerDuration_postfix"		"s"
 
 		//Stabilizer
 		"upgrade_stabilizer_desc"		"Removes the <span class=\"highlight\">movement speed penalty</span> while shooting, and increases <span class=\"highlight\">bullet speed</span>."
 
 		//Melee Lifesteal
-		"upgrade_lifestrike_gauntlets_desc"	"每隔一段时间你对敌方单位的<span class=\"highlight\">近战攻击</span>会<span class=\"highlight\">治疗你所造成的近战伤害的{s:LifestrikeHealPercent}%</span>加上{s:LifestrikeHeal}。对非英雄目标的治疗率为 {s:NonHeroHealPct}%。"
+		"upgrade_lifestrike_gauntlets_desc"	"每隔一段時間你對敵方單位的<span class=\"highlight\">近戰攻擊</span>會<span class=\"highlight\">治療你所造成的近戰傷害的{s:LifestrikeHealPercent}%</span>加上{s:LifestrikeHeal}。對非英雄目標的治療率為 {s:NonHeroHealPct}%。"
 
 		//Tesla Bullets
-		"upgrade_chain_lightning_desc"	"你的子弹有几率<span class=\"highlight\">电击</span>你的目标。 电击会跳到附近的敌人身上。"
+		"upgrade_chain_lightning_desc"	"你的子彈有機率<span class=\"highlight\">電擊</span>你的目標。 電擊會跳到附近的敵人身上。"
 
 		//Galvanic Storm
-		"upgrade_galvanic_storm_passive1"	"你的子弹有几率 <span class=\"highlight\">电击</span> 目标。电击会跳到附近的敌人身上。"
-		"upgrade_galvanic_storm_passive2"	"当你的魂力护盾被破坏时，你会获得 <span class=\"highlight\">{s:BuffDamageMult}倍电击伤害</span> 和增加的 <span class=\"highlight\">移动速度</span>"
-		"BuffDamageMult_label"							"电击倍率"
+		"upgrade_galvanic_storm_passive1"	"你的子彈有機率 <span class=\"highlight\">電擊</span> 目標。電擊會跳到附近的敵人身上。"
+		"upgrade_galvanic_storm_passive2"	"當你的魂力護盾被破壞時，你會獲得 <span class=\"highlight\">{s:BuffDamageMult}倍電擊傷害</span> 和增加的 <span class=\"highlight\">移動速度</span>"
+		"BuffDamageMult_label"							"電擊倍率"
 		"BuffDamageMult_postfix"							"x"
-		"GalvanicBuffDuration_label"						"持续"
+		"GalvanicBuffDuration_label"						"持續"
 		"GalvanicBuffDuration_postfix"					"s"
 
 		//Fire Rate
@@ -54,17 +54,17 @@
 		"upgrade_small_attack_speed_desc"	"增加你的 <span class=\"highlight\">射速</span>。"
 
 		//Silence Glyph
-		"upgrade_targeted_silence_desc"	"选定一个敌方英雄目标，使用后发射一发投射物，击中敌方英雄目标时施加 <span class=\"highlight\">沉默</span> 并且施加 <span class=\"highlight\">减少魂力抗性</span>。"
+		"upgrade_targeted_silence_desc"	"選定一個敵方英雄目標，使用後發射一發投射物，擊中敵方英雄目標時施加 <span class=\"highlight\">沉默</span> 並且施加 <span class=\"highlight\">減少魂力抗性</span>。"
 
 		//EMP Bullets
-		"upgrade_proc_silence_desc"		"你的子弹会给敌方英雄施加 <span class=\"highlight\">EMP电荷</span>，使其 <span class=\"highlight\">无法使用技能</span>。效果消失后，目标在 <span class=\"highlight\">{s:ImmunityDuration}秒</span> 内对EMP弹药免疫。"
-		"upgrade_proc_silence/modifier_citadel_silence_proc_watcher/modifier_citadel_base_buildup"	"沉默堆叠中..."
+		"upgrade_proc_silence_desc"		"你的子彈會給敵方英雄施加 <span class=\"highlight\">EMP電荷</span>，使其 <span class=\"highlight\">無法使用技能</span>。效果消失後，目標在 <span class=\"highlight\">{s:ImmunityDuration}秒</span> 內對EMP彈藥免疫。"
+		"upgrade_proc_silence/modifier_citadel_silence_proc_watcher/modifier_citadel_base_buildup"	"沉默堆疊中..."
 
 		//Silencer
-		"upgrade_silencer_active"		"使用后在接下来的 {s:AbilityDuration}秒内, <span class=\"highlight\">所有子弹击中敌人造成沉默</span>。 沉默会阻止目标使用能力。 沉默不会中断持续施法技能。"
-		"upgrade_silencer_passive1"		"你的子弹会对消声目标造成额外<span class=\"highlight\">+{s:BonusBulletDamageToEMPTargets}% 伤害</span>."
-		"upgrade_silencer_passive2"		"你的子弹会在敌方英雄身上形成 <span class=\"highlight\">EMP</span> , 阻止他们使用能力。"
-		"SilencerSlowPercent_label"		"子弹减速"
+		"upgrade_silencer_active"		"使用後在接下來的 {s:AbilityDuration}秒內, <span class=\"highlight\">所有子彈擊中敵人造成沉默</span>。 沉默會阻止目標使用能力。 沉默不會中斷持續施法技能。"
+		"upgrade_silencer_passive1"		"你的子彈會對消聲目標造成額外<span class=\"highlight\">+{s:BonusBulletDamageToEMPTargets}% 傷害</span>."
+		"upgrade_silencer_passive2"		"你的子彈會在敵方英雄身上形成 <span class=\"highlight\">EMP</span> , 阻止他們使用能力。"
+		"SilencerSlowPercent_label"		"子彈減速"
 		"SilencerSlowPercent_postfix"	"%"
 		"SilencerSlowPercent_prefix"	"+"
 
@@ -72,13 +72,13 @@
 		"upgrade_proc_tech_damage_desc"	"Your bullets also deal your <span class=\"highlight\">base bullet damage [{s:BaseDamagePerShot}] </span> as spirit damage.  Magitech Rounds receives <span class=\"highlight\">{s:SpellAmplificationMultiplier}x</span> amplification from <span class=\"highlight\">Spirit Power</span>. Shotguns split the damage between each pellet. This effect can only happen once every {s:ProcCooldown}s."
 		
 		//Slowing Bullets
-		"upgrade_slowing_bullets_desc"	"你的子弹附加 <span class=\"highlight\">减少移速</span> 。"
-		"upgrade_slowing_bullets/modifier_slowing_bullets_proc/modifier_slow_base"					"移速减速"
+		"upgrade_slowing_bullets_desc"	"你的子彈附加 <span class=\"highlight\">減少移速</span> 。"
+		"upgrade_slowing_bullets/modifier_slowing_bullets_proc/modifier_slow_base"					"移速減速"
 
 		//Inhibitor
-		"upgrade_inhibitor_desc"	"你的子弹击中敌人时附加 <span class=\"highlight\">减少移速</span> 和减少目标 <span class=\"highlight\">输出伤害</span> 减益状态。"
-		"modifier_inhibitor_debuff"	"抑制弹药"
-		"OutgoingAbilityDamagePenaltyPercent_label"	"伤害惩罚"
+		"upgrade_inhibitor_desc"	"你的子彈擊中敵人時附加 <span class=\"highlight\">減少移速</span> 和減少目標 <span class=\"highlight\">輸出傷害</span> 減益狀態。"
+		"modifier_inhibitor_debuff"	"抑制彈藥"
+		"OutgoingAbilityDamagePenaltyPercent_label"	"傷害懲罰"
 		"OutgoingAbilityDamagePenaltyPercent_postfix"	"%"
 
 		//Armor Piercing Rounds
@@ -99,20 +99,20 @@
 		"upgrade_leveler_innate_desc"	"Close Range<br>Detention Rounds"
 
 		//Hunter's Aura
-		"upgrade_bullet_armor_reduction_aura_desc"		"降低附近敌人的<span class=\"highlight\">物理抗性和射速</span>。如果附近只有一名敌方英雄，<span class=\"highlight\">则效果为三倍</span>。"
-		"modifier_bullet_armor_reduction"							"物理抗性减少"
-		"upgrade_bullet_armor_reduction_aura/modifier_bullet_armor_reduction_aura/modifier_bullet_armor_reduction"	"物理抗性减少"
+		"upgrade_bullet_armor_reduction_aura_desc"		"降低附近敵人的<span class=\"highlight\">物理抗性和射速</span>。如果附近只有一名敵方英雄，<span class=\"highlight\">則效果為三倍</span>。"
+		"modifier_bullet_armor_reduction"							"物理抗性減少"
+		"upgrade_bullet_armor_reduction_aura/modifier_bullet_armor_reduction_aura/modifier_bullet_armor_reduction"	"物理抗性減少"
 
 		//Adrenaline Rush
 		"upgrade_nearby_enemy_boost_desc"	"Gain bonus <span class=\"highlight\">Weapon Damage</span> and <span class=\"highlight\">Fire Rate</span> when there are two or more enemy heroes nearby."
 
 		//Heroic Aura
-		"upgrade_dps_aura_active_desc"	"使用后在持续时间内为你和的附近友军增加<span class=\"highlight\">额外移动速度</span> 和 <span class=\"highlight\">射速</span> 。"
-		"upgrade_dps_aura_desc"			"被动为范围内的召唤物增加额外<span class=\"highlight\">射速</span> 。"
-		"modifier_dps_aura_active"		"英雄光环开启"
-		"modifier_dps_aura_player"		"英雄光环射速"
+		"upgrade_dps_aura_active_desc"	"使用後在持續時間內為你和的附近友軍增加<span class=\"highlight\">額外移動速度</span> 和 <span class=\"highlight\">射速</span> 。"
+		"upgrade_dps_aura_desc"			"被動為範圍內的召喚物增加額外<span class=\"highlight\">射速</span> 。"
+		"modifier_dps_aura_active"		"英雄光環開啟"
+		"modifier_dps_aura_player"		"英雄光環射速"
 
-		"BonusBaseDamage_label"			"基础子弹和近战伤害"
+		"BonusBaseDamage_label"			"基礎子彈和近戰傷害"
 		"BonusBaseDamage_postfix"		"%"
 
 		//Fire Rate Aura
@@ -120,37 +120,37 @@
 		"upgrade_fire_rate_aura/modifier_fire_rate_aura/modifier_fire_rate_aura_target"		"Fire Rate Aura"
 
 		//Warp Stone
-		"upgrade_warp_stone_desc"	"使用后向瞄准的地方<span class=\"highlight\">传送</span> 一小段距离，获得额外 <span class=\"highlight\">物理抗性</span>。"
-		"WarpStoneRange_label"		"传送距离"
+		"upgrade_warp_stone_desc"	"使用後向瞄準的地方<span class=\"highlight\">傳送</span> 一小段距離，獲得額外 <span class=\"highlight\">物理抗性</span>。"
+		"WarpStoneRange_label"		"傳送距離"
 		"WarpStoneRange_postfix"		"m"
-		"modifier_warp_stone_caster"	"传送符石"
-		"CasterBuffDuration_label"	"增益持续时间"
+		"modifier_warp_stone_caster"	"傳送符石"
+		"CasterBuffDuration_label"	"增益持續時間"
 		"CasterBuffDuration_postfix"	"s"
-		"CasterSlowPercent_label"		"自我减速"
+		"CasterSlowPercent_label"		"自我減速"
 		"CasterSlowPercent_postfix"	"%"
 
 		//Torment Pulse
-		"upgrade_tech_damage_pulse_desc"	"定期对附近最近的<span class=\"highlight\">两个敌方目标造成魂力伤害</span>。"
+		"upgrade_tech_damage_pulse_desc"	"定期對附近最近的<span class=\"highlight\">兩個敵方目標造成魂力傷害</span>。"
 
 		//Mystic Burst
-		"upgrade_magic_burst_desc"	"如果技能在单次造成 {s:MinimumDamage} 或更多伤害，则会造成<span class=\"highlight\">额外伤害</span>。"
-		"MagicBurstDamage_label"		"额外伤害"
+		"upgrade_magic_burst_desc"	"如果技能在單次造成 {s:MinimumDamage} 或更多傷害，則會造成<span class=\"highlight\">額外傷害</span>。"
+		"MagicBurstDamage_label"		"額外傷害"
 
 		//Improved Burst
-		"upgrade_magic_shock_desc"	"如果造成的魂力伤害在单次造成{s:MinimumDamage}或更多伤害，则会增加<span class=\"highlight\">额外伤害和减少移速</span>。目标在受到高阶迸发伤害后的<span class=\"highlight\">{s:ReProcLockoutTime}s</span>内免疫高阶迸发的效果。"
-		"MagicShockDamage_label"		"最大生命值伤害"
+		"upgrade_magic_shock_desc"	"如果造成的魂力傷害在單次造成{s:MinimumDamage}或更多傷害，則會增加<span class=\"highlight\">額外傷害和減少移速</span>。目標在受到高階迸發傷害後的<span class=\"highlight\">{s:ReProcLockoutTime}s</span>內免疫高階迸發的效果。"
+		"MagicShockDamage_label"		"最大生命值傷害"
 		"MagicShockDamage_postfix"	"%"
 
 		//Mystic Reverb
-		"upgrade_tech_bleed_desc" "浸染一个技能，对目标范围内敌人施加减少移速，在短暂延迟后对目标周围半径内造成额外 <span class=\"highlight\"> {s:TechDamagePercent}% 的伤害</span> 。"
-		"upgrade_tech_bleed/modifier_tech_bleed_proc/modifier_tech_bleed"			"秘法回响"	
+		"upgrade_tech_bleed_desc" "浸染一個技能，對目標範圍內敵人施加減少移速，在短暫延遲後對目標周圍半徑內造成額外 <span class=\"highlight\"> {s:TechDamagePercent}% 的傷害</span> 。"
+		"upgrade_tech_bleed/modifier_tech_bleed_proc/modifier_tech_bleed"			"秘法迴響"	
 
 		//Toxic Bullets
-		"upgrade_toxic_bullets_desc"	"你的子弹会对敌人造成流血减益状态，使他们收到 <span class=\"highlight\">当前生命百分比</span> 的持续伤害. 并且在减益效果持续时间内 <span class=\"highlight\">降低目标的治疗效果</span> 。"
-		"upgrade_toxic_bullets_buildup"					"毒素堆叠..."
-		"upgrade_bleeding_bullets_buildup"				"流血堆叠..."
-		"upgrade_hemorrhage_buildup"					"破裂堆叠..."
-		"upgrade_bleeding_bullets/modifier_item_bleeding_bullets_active/modifier_item_bleeding_bullets_damageovertime"		"碎魂子弹"
+		"upgrade_toxic_bullets_desc"	"你的子彈會對敵人造成流血減益狀態，使他們收到 <span class=\"highlight\">當前生命百分比</span> 的持續傷害. 並且在減益效果持續時間內 <span class=\"highlight\">降低目標的治療效果</span> 。"
+		"upgrade_toxic_bullets_buildup"					"毒素堆疊..."
+		"upgrade_bleeding_bullets_buildup"				"流血堆疊..."
+		"upgrade_hemorrhage_buildup"					"破裂堆疊..."
+		"upgrade_bleeding_bullets/modifier_item_bleeding_bullets_active/modifier_item_bleeding_bullets_damageovertime"		"碎魂子彈"
 		"modifier_hemorrhage"																								"Eviscerator Rounds"
 		"modifier_item_burning_bullets_damageovertime" 	"流血"
 		"upgrade_hemorrhage/modifier_item_hemorrhage/modifier_hemorrhage" "流血"
@@ -159,7 +159,7 @@
 		"upgrade_attack_speed_2_desc"	"Increases your <span class=\"highlight\">Fire Rate</span>."
 
 		//Spiritual Overflow
-		"upgrade_tech_overflow_desc"	"用子弹向敌方英雄<span class=\"highlight\">射击充能</span>，获得魂力加成。"
+		"upgrade_tech_overflow_desc"	"用子彈向敵方英雄<span class=\"highlight\">射擊充能</span>，獲得魂力加成。"
 		"modifier_tech_overflow"		"魂力溢出"
 		"modifier_tech_overflow_building" "魂力溢出中..."
 
@@ -171,55 +171,55 @@
 		"upgrade_drum_magazine_desc"		"Provides a large <span class=\"highlight\">ammo bonus</span>, and <span class=\"highlight\">increased reload speed</span>"
 
 		//Ricochet
-		"upgrade_ricochet_desc"		"你的子弹射击敌人时将会附加 <span class=\"highlight\">跳弹</span> 效果，<span class=\"highlight\">可应用于任何子弹技能</span>，<span class=\"highlight\">跳弹会造成原始伤害的百分比</span> 。"
-		"RicochetTargetsTooltipOnly_label"			"反弹目标数量"
-		"RicochetDamagePercent_label"					"跳弹伤害"
+		"upgrade_ricochet_desc"		"你的子彈射擊敵人時將會附加 <span class=\"highlight\">跳彈</span> 效果，<span class=\"highlight\">可應用於任何子彈技能</span>，<span class=\"highlight\">跳彈會造成原始傷害的百分比</span> 。"
+		"RicochetTargetsTooltipOnly_label"			"反彈目標數量"
+		"RicochetDamagePercent_label"					"跳彈傷害"
 		"RicochetDamagePercent_postfix"					"%"
-		"RicochetRadius_label"							"跳弹范围"
+		"RicochetRadius_label"							"跳彈範圍"
 		"RicochetRadius_postfix"							"m"
 
 		//Height Advantage
 		"upgrade_height_advantage_desc"	"Gain additional <span class=\"highlight_weapon\">{s:HighGroundBonusWeaponPower}% Weapon Damage</span> when attacking targets that are <span class=\"highlight\">below you</span>."
 
 		//Close Quarters
-		"upgrade_close_range_desc"	"当目标在你的<span class=\"highlight\">近距离</span>时，对该目标造成<span class=\"highlight\">额外子弹伤害</span>。"
-		"upgrade_close_quarter_combat/modifier_cqc_proc/modifier_slow_base"			"减速"
+		"upgrade_close_range_desc"	"當目標在你的<span class=\"highlight\">近距離</span>時，對該目標造成<span class=\"highlight\">額外子彈傷害</span>。"
+		"upgrade_close_quarter_combat/modifier_cqc_proc/modifier_slow_base"			"減速"
 
 		//Long Range
-		"upgrade_long_range_desc"	"当目标在你的<span class=\"highlight\">远距离</span>时，对该目标造成<span class=\"highlight\">额外子弹伤害</span>。"
+		"upgrade_long_range_desc"	"當目標在你的<span class=\"highlight\">遠距離</span>時，對該目標造成<span class=\"highlight\">額外子彈傷害</span>。"
 
 		//Mystic Shot
-		"upgrade_crackshot_desc"	"每隔一段时间你的下一次射击会附加 <span class=\"highlight\">额外魂力伤害</span> 。"
+		"upgrade_crackshot_desc"	"每隔一段時間你的下一次射擊會附加 <span class=\"highlight\">額外魂力傷害</span> 。"
 		"ProcBonusMagicDamage_prefix"	"{s:sign}"
-		"ProcBonusMagicDamage_label"	"魂力伤害"
+		"ProcBonusMagicDamage_label"	"魂力傷害"
 
 		//Restorative Shot
-		"upgrade_medic_bullets_desc"	"每隔一段时间下一发子弹将会根据你击中的目标来 <span class=\"highlight\">治疗</span> 你。"
-		"HealFromHero_label"	"击中英雄回复"
-		"HealFromNPC_label"	 "击中非英雄回复"
+		"upgrade_medic_bullets_desc"	"每隔一段時間下一發子彈將會根據你擊中的目標來 <span class=\"highlight\">治療</span> 你。"
+		"HealFromHero_label"	"擊中英雄回復"
+		"HealFromNPC_label"	 "擊中非英雄回復"
 
 		//Point Blank
-		"upgrade_close_quarter_combat_desc"	"当目标在你的 <span class=\"highlight\">近距离</span> 时，对该目标造成 <span class=\"highlight\">额外子弹伤害 </span> 并且施加 <span class=\"highlight\">减少移速</span> 。"
+		"upgrade_close_quarter_combat_desc"	"當目標在你的 <span class=\"highlight\">近距離</span> 時，對該目標造成 <span class=\"highlight\">額外子彈傷害 </span> 並且施加 <span class=\"highlight\">減少移速</span> 。"
 
 		//Headshot Booster
-		"upgrade_headshot_booster_desc"		"每隔一段时间 <span class=\"highlight\">爆头时</span> 造成额外伤害。"
+		"upgrade_headshot_booster_desc"		"每隔一段時間 <span class=\"highlight\">爆頭時</span> 造成額外傷害。"
 
 		//Sharpshooter
-		"upgrade_sharpshooter_desc"				"当目标在你的 <span class=\"highlight\">远距离</span> 时，对该目标造成 <span class=\"highlight\">额外子弹伤害</span> 。"
-		"upgrade_sharpshooter_headshots_desc"	"每隔一段时间 <span class=\"highlight\">爆头</span> 造成额外伤害。"
+		"upgrade_sharpshooter_desc"				"當目標在你的 <span class=\"highlight\">遠距離</span> 時，對該目標造成 <span class=\"highlight\">額外子彈傷害</span> 。"
+		"upgrade_sharpshooter_headshots_desc"	"每隔一段時間 <span class=\"highlight\">爆頭</span> 造成額外傷害。"
 
 		//Crippling Headshot
-		"upgrade_banshee_slugs_headshots_desc"	"<span class=\"highlight\">爆头</span> 会减少目标 <span class=\"highlight\">子弹以及魂力抗性</span>."
-		"BulletResistReduction_label"		"物理抗性减少"
+		"upgrade_banshee_slugs_headshots_desc"	"<span class=\"highlight\">爆頭</span> 會減少目標 <span class=\"highlight\">子彈以及魂力抗性</span>."
+		"BulletResistReduction_label"		"物理抗性減少"
 		"BulletResistReduction_postfix"	"%"
-		"MagicResistReduction_label"		"魂力抗性减少"
+		"MagicResistReduction_label"		"魂力抗性減少"
 		"MagicResistReduction_postfix"	"%"
 
 		//Berserker
-		"upgrade_berserker_desc"		"你的 <span class=\"highlight\">子弹伤害</span> 会随着你受到的伤害持续增加。"
+		"upgrade_berserker_desc"		"你的 <span class=\"highlight\">子彈傷害</span> 會隨著你受到的傷害持續增加。"
 
 		//Frenzy
-		"upgrade_fervor_passive"	"当 <span class=\"highlight\">低于 {s:LowHealthThreshold}% 血量</span> 时，获得增益。"
+		"upgrade_fervor_passive"	"當 <span class=\"highlight\">低於 {s:LowHealthThreshold}% 血量</span> 時，獲得增益。"
 		"FervorTechResist_postfix"  "%"
 
 		//Old Frenzy
@@ -229,23 +229,23 @@
 		"upgrade_frenzy/modifier_frenzy_aura/modifier_frenzy_kill"		"Killed Frenzy"
 
 		//Soul Shredder Bullets
-		"upgrade_tech_defense_shredders_desc"	"你的子弹会对敌人附加 <span class=\"highlight\">魂力伤害增幅</span> 和 <span class=\"highlight\">魂力吸血</span> 减益状态。"
-		"ShreddersTechAmp_label"				"魂力伤害增幅"
+		"upgrade_tech_defense_shredders_desc"	"你的子彈會對敵人附加 <span class=\"highlight\">魂力傷害增幅</span> 和 <span class=\"highlight\">魂力吸血</span> 減益狀態。"
+		"ShreddersTechAmp_label"				"魂力傷害增幅"
 		"ShreddersTechAmp_postfix"			"%"
-		"modifier_tech_defense_shredders_debuff"																"碎魂弹药"
-		"upgrade_tech_defense_shredders/modifier_tech_defense_shredders_proc/modifier_base"						"魂力抗性减少"
+		"modifier_tech_defense_shredders_debuff"																"碎魂彈藥"
+		"upgrade_tech_defense_shredders/modifier_tech_defense_shredders_proc/modifier_base"						"魂力抗性減少"
 		"modifier_tech_defense_shredders"		"Spirit Armor Reduced"
 
 		//Monster Rounds
-		"upgrade_non_player_bonus_desc"		"对<span class=\"highlight\">蜡烛兵</span>，<span class=\"highlight\">中立魔物</span> 和 <span class=\"highlight\">Mid boss</span>额外造成 <span class=\"highlight_weapon\">{s:NonPlayerBonusWeaponPower}% 子弹伤害</span>."
+		"upgrade_non_player_bonus_desc"		"對<span class=\"highlight\">蠟燭兵</span>，<span class=\"highlight\">中立魔物</span> 和 <span class=\"highlight\">Mid boss</span>額外造成 <span class=\"highlight_weapon\">{s:NonPlayerBonusWeaponPower}% 子彈傷害</span>."
 
 		//Hollow Point Ward
-		"upgrade_hollow_point_rounds_desc"				"当你 <span class=\"highlight\"> 高于 {s:LifeThreshold}% 生命</span> 时, 获得额外 <span class=\"highlight\">子弹伤害</span> 。"
-		"upgrade_hollow_point_rounds_shield_desc"		"获得<span class=\"highlight\">魂力护盾</span>可阻挡魂力伤害。脱离战斗后一段时间，护盾会恢复。"
+		"upgrade_hollow_point_rounds_desc"				"當你 <span class=\"highlight\"> 高於 {s:LifeThreshold}% 生命</span> 時, 獲得額外 <span class=\"highlight\">子彈傷害</span> 。"
+		"upgrade_hollow_point_rounds_shield_desc"		"獲得<span class=\"highlight\">魂力護盾</span>可阻擋魂力傷害。脫離戰鬥後一段時間，護盾會恢復。"
 
 		// Pristine Emblem
-		"upgrade_pristine_emblem_desc"	"攻击会对<span class=\"highlight\">生命值高于 {s:EnemyLifeThreshold}% 的敌方目标造成额外的子弹伤害</span>。"
-		"BaseAttackDamagePercentBonus_label"	"子弹伤害"
+		"upgrade_pristine_emblem_desc"	"攻擊會對<span class=\"highlight\">生命值高於 {s:EnemyLifeThreshold}% 的敵方目標造成額外的子彈傷害</span>。"
+		"BaseAttackDamagePercentBonus_label"	"子彈傷害"
 		"BaseAttackDamagePercentBonus_prefix"	"+"
 		"BaseAttackDamagePercentBonus_postfix"	"%"
 
@@ -253,22 +253,22 @@
 		"upgrade_proc_disarm_desc"		"Your bullets <span class=\"highlight\">disarm</span> enemies, them preventing them from shooting their weapon.  Victims are immune to disarming bullets for <span class=\"highlight\">{s:ImmunityDuration}s</span> after application expires."
 
 		//Glass Cannon
-		"upgrade_glass_cannon_desc"		"每次击杀英雄会<span class=\"highlight\">永久增加 {s:BonusClipPerKill} 弹匣容量</span> (最多增加 {s:MaxClipBonus} )."
+		"upgrade_glass_cannon_desc"		"每次擊殺英雄會<span class=\"highlight\">永久增加 {s:BonusClipPerKill} 彈匣容量</span> (最多增加 {s:MaxClipBonus} )."
 
 		//Vampiric Burst
-		"upgrade_surging_power_active"	"使用后立即装填部分弹匣并在短暂时间内获得 <span class=\"highlight\">子弹吸血加成</span> 和 <span class=\"highlight\">射速加成</span>."
-		"ActiveBonusLifesteal_label"		"子弹吸血"
+		"upgrade_surging_power_active"	"使用後立即裝填部分彈匣並在短暫時間內獲得 <span class=\"highlight\">子彈吸血加成</span> 和 <span class=\"highlight\">射速加成</span>."
+		"ActiveBonusLifesteal_label"		"子彈吸血"
 		"ActiveBonusLifesteal_postfix"	"%"
-		"upgrade_surging_power/surge/windup"					"澎湃动力"
-		"upgrade_surging_power/surge/active"					"澎湃动力"
-		"upgrade_surging_power/surge"					"澎湃动力"
+		"upgrade_surging_power/surge/windup"					"澎湃動力"
+		"upgrade_surging_power/surge/active"					"澎湃動力"
+		"upgrade_surging_power/surge"					"澎湃動力"
 
 		//Siphon Bullets
-		//"upgrade_siphon_bullets_desc_passive1"	"当目标在你的 <span class=\"highlight\">近距离</span>时，对该目标造成<span class=\"highlight\">额外子弹伤害</span>."
-		"upgrade_siphon_bullets_desc_passive2"	"你的子弹击中敌人时 <span class=\"highlight\">窃取最大生命值</span> . 减益状态结束后敌人会恢复被窃取的生命值。"
-		"modifier_siphon_bullets_health_gain"		"虹吸弹药"
-		"modifier_siphon_bullets_health_loss"		"虹吸弹药"
-		"HealthSteal_label"						"每颗子弹的最大 生命 窃取量"
+		//"upgrade_siphon_bullets_desc_passive1"	"當目標在你的 <span class=\"highlight\">近距離</span>時，對該目標造成<span class=\"highlight\">額外子彈傷害</span>."
+		"upgrade_siphon_bullets_desc_passive2"	"你的子彈擊中敵人時 <span class=\"highlight\">竊取最大生命值</span> . 減益狀態結束後敵人會恢復被竊取的生命值。"
+		"modifier_siphon_bullets_health_gain"		"虹吸彈藥"
+		"modifier_siphon_bullets_health_loss"		"虹吸彈藥"
+		"HealthSteal_label"						"每顆子彈的最大 生命 竊取量"
 
 		//Overdrive Clip
 		"upgrade_weapon_overdrive_clip_desc"			"<span class=\"highlight\">Deal non-lethal damage based on your max health to yourself</span> and <span class=\"highlight\">reload bullets in your clip equal to your max ammo, no matter how many bullets are left.</span>  The bullets in this clip have additional <span class=\"highlight\">courage</span>."
@@ -292,16 +292,16 @@
 		"BaseBonusWeaponPower_prefix"					"+"
 
 		//Lifestrike
-		"upgrade_boxing_glove_desc"						"每隔一段时间你对敌方英雄的<span class=\"highlight\">近战攻击</span>会对目标造成<span class=\"highlight\">减少移速</span>和<span class=\"highlight\">治疗你所造成的近战伤害的{s:LifestealHealPercent}%</span>加上{s:LifestealHeal}。对非英雄目标的治疗率为 {s:NonHeroHealPct}%。"
-		"BonusMeleeSpeed_label"							"伤害增幅"
+		"upgrade_boxing_glove_desc"						"每隔一段時間你對敵方英雄的<span class=\"highlight\">近戰攻擊</span>會對目標造成<span class=\"highlight\">減少移速</span>和<span class=\"highlight\">治療你所造成的近戰傷害的{s:LifestealHealPercent}%</span>加上{s:LifestealHeal}。對非英雄目標的治療率為 {s:NonHeroHealPct}%。"
+		"BonusMeleeSpeed_label"							"傷害增幅"
 		"BonusMeleeSpeed_prefix"						"+"
 		"BonusMeleeSpeed_postfix"						"%"
-		"DisarmDuration_label"							"持续时间"
+		"DisarmDuration_label"							"持續時間"
 		"DisarmDuration_postfix"						"s"
 
 		//Belt-Fed Magazine
-		"upgrade_belt_fed_magazine_desc"				"你的武器配备了一个<span class=\"highlight\">更大容量的弹链</span>，但这需要<span class=\"isNegative\">一段预热时间</span>，初始射速较慢，随着预热时间的推移射速会逐渐提升。"
-		"SpinUpTime_label"								"预热时间"
+		"upgrade_belt_fed_magazine_desc"				"你的武器配備了一個<span class=\"highlight\">更大容量的彈鏈</span>，但這需要<span class=\"isNegative\">一段預熱時間</span>，初始射速較慢，隨著預熱時間的推移射速會逐漸提升。"
+		"SpinUpTime_label"								"預熱時間"
 		"SpinUpTime_postfix"							"秒"
 		"InitialFireRateDecrease_label"					"初始射速降低"
 		"InitialFireRateDecrease_prefix"				"-"
@@ -309,7 +309,7 @@
 		"MaxFireRateIncrease_prefix"					"+"
 		"MaxFireRateIncrease_label"						"最大射速提升"
 		"MaxFireRateIncrease_postfix"							"%"
-		"BonusReloadTime_label"							"额外装填时间"
+		"BonusReloadTime_label"							"額外裝填時間"
 		"BonusReloadTime_postfix"						"秒"
 
 		//Stabilizing Tripod
@@ -323,44 +323,44 @@
 		"modifier_stabilizing_tripod_self_debuff"				"Field Sentry"
 
 		//Burst Fire
-		"upgrade_burst_fire_desc"						"每隔一段时间射击到敌方英雄时获得额外 <span class=\"highlight\">射击速度和移动速度</span> 。"
-		"upgrade_burst_fire/modifier_burst_fire_buff"	"爆发开火"
+		"upgrade_burst_fire_desc"						"每隔一段時間射擊到敵方英雄時獲得額外 <span class=\"highlight\">射擊速度和移動速度</span> 。"
+		"upgrade_burst_fire/modifier_burst_fire_buff"	"爆發開火"
 	
 		//Arcane Eater
-		"upgrade_arcane_eater_desc"					"你的子弹能够从敌方英雄身上<span class=\"highlight\">吸取魂力</span>。爆头射击时额外吸取{s:HeadshotBonusSteal}魂力。此效果可以叠加。"
+		"upgrade_arcane_eater_desc"					"你的子彈能夠從敵方英雄身上<span class=\"highlight\">吸取魂力</span>。爆頭射擊時額外吸取{s:HeadshotBonusSteal}魂力。此效果可以疊加。"
 		"modifier_arcane_eater_debuff"					"魂力虹吸"
 		"modifier_arcane_eater_buff"					"魂力虹吸"
-		"SpiritStolePerHit_label"						"每次击中吸取的魂力"
+		"SpiritStolePerHit_label"						"每次擊中吸取的魂力"
 
 		//Predator Precision
 		"upgrade_predator_precision_desc"				"Gain additional <span class=\"highlight\">weapon damage</span> against enemy Heroes that are <span class=\"highlight\">low health</span>"
 		"modifier_predator_vision"									"Predator Vision"
 
 		//Intensifying Magazine
-		"upgrade_intensifying_clip_desc"				"持续射击时增加 <span class=\"highlight\">子弹伤害</span> 。 "
-		"BaseAttackDamagePercentAtMaxDuration_label"		"最大增加伤害"
+		"upgrade_intensifying_clip_desc"				"持續射擊時增加 <span class=\"highlight\">子彈傷害</span> 。 "
+		"BaseAttackDamagePercentAtMaxDuration_label"		"最大增加傷害"
 		"BaseAttackDamagePercentAtMaxDuration_postfix"		"%"
-		"ShootDurationForMax_label"						"最大伤害所需时间"
+		"ShootDurationForMax_label"						"最大傷害所需時間"
 		"ShootDurationForMax_postfix"							"s"
 		
 		//Escalating Resilience
-		"upgrade_reinforcing_casings_desc"    "击中敌方英雄时暂时获得可叠加的 <span class=\"highlight\">物理抗性</span> 。 <span class=\"highlight\">每次射击击中可以获得一层。</span>"
-		"modifier_reinforcing_casings"			"狂暴韧性"	
-		"MaxArmorStacks_label"				"最多可获得的物理抗性"
+		"upgrade_reinforcing_casings_desc"    "擊中敵方英雄時暫時獲得可疊加的 <span class=\"highlight\">物理抗性</span> 。 <span class=\"highlight\">每次射擊擊中可以獲得一層。</span>"
+		"modifier_reinforcing_casings"			"狂暴韌性"	
+		"MaxArmorStacks_label"				"最多可獲得的物理抗性"
 		"MaxArmorStacks_postfix"				"%"
-		"BulletResistPerStack_label"				"每层可获得物理抗性"
+		"BulletResistPerStack_label"				"每層可獲得物理抗性"
 		"BulletResistPerStack_postfix"			"%"
-		"BulletResistDuration_label"				"每层持续时间"
+		"BulletResistDuration_label"				"每層持續時間"
 		"BulletResistDuration_postfix"			"s"
 
 		//Lucky Shot
-		"upgrade_critshot_desc"				"你的子弹有几率造成 <span class=\"highlight\">额外伤害</span> 以及 <span class=\"highlight\">减少移速</span> 。"
-		"CritDamagePercent_label"				"额外伤害"
+		"upgrade_critshot_desc"				"你的子彈有機率造成 <span class=\"highlight\">額外傷害</span> 以及 <span class=\"highlight\">減少移速</span> 。"
+		"CritDamagePercent_label"				"額外傷害"
 		"CritDamagePercent_postfix"			"%"
 
 		//Veil Walker
-		"upgrade_veil_walker_desc"			"穿过宇宙之纱可<span class=\"highlight\">回复子弹护盾和魂力护盾</span>，并且<span class=\"highlight\">，获得短暂的移动<span class=\"highlight\">速度提升和隐身</span>效果，并为下一个弹匣提供额外的<span class=\"highlight\">射速</span>。"
-		"VeilWalker_MoveSpeed_label"			"隐身移速"
+		"upgrade_veil_walker_desc"			"穿過宇宙之紗可<span class=\"highlight\">回復子彈護盾和魂力護盾</span>，並且<span class=\"highlight\">，獲得短暫的移動<span class=\"highlight\">速度提升和隱身</span>效果，並為下一個彈匣提供額外的<span class=\"highlight\">射速</span>。"
+		"VeilWalker_MoveSpeed_label"			"隱身移速"
 		"VeilWalker_MoveSpeed_postfix"		"m/s"
 
 
@@ -375,82 +375,82 @@
 		"NonHeroAbilityLifestealTooltipOnly_postfix"		"%"
 		
 		//Mystic Vulnerability
-		"upgrade_magic_vulnerability_desc"	"当目标受到来自你的 <span class=\"highlight\">魂力伤害</span>时, 目标在持续时间内也会受到<span class=\"highlight\">魂力抗性</span>减少."
+		"upgrade_magic_vulnerability_desc"	"當目標受到來自你的 <span class=\"highlight\">魂力傷害</span>時, 目標在持續時間內也會受到<span class=\"highlight\">魂力抗性</span>減少."
 
 		//Healbane
-		"upgrade_healbane_desc"	"你的魂力伤害会对敌人附加一个<span class=\"highlight\">减少治疗</span>的减益状态，当敌人在这个减益状态死亡的时候<span class=\"highlight\">大量治疗你</span>"
-		"HealOnKill_label"		"死亡时治疗"
+		"upgrade_healbane_desc"	"你的魂力傷害會對敵人附加一個<span class=\"highlight\">減少治療</span>的減益狀態，當敵人在這個減益狀態死亡的時候<span class=\"highlight\">大量治療你</span>"
+		"HealOnKill_label"		"死亡時治療"
 
 		//Mystic Slow
-		"upgrade_magic_slow_desc"	"当目标受到你的 <span class=\"highlight\">魂力伤害时</span>,目标在持续时间内也会受到<span class=\"highlight\">减少移速</span> 和 <span class=\"highlight\">减少射速</span> 。"
+		"upgrade_magic_slow_desc"	"當目標受到你的 <span class=\"highlight\">魂力傷害時</span>,目標在持續時間內也會受到<span class=\"highlight\">減少移速</span> 和 <span class=\"highlight\">減少射速</span> 。"
 
 		//Escalating Exposure
-		"upgrade_escalating_exposure_desc"	"当对目标敌方造成 <span class=\"highlight\">魂力伤害</span> 时 施加 <span class=\"highlight\">一层魂力伤害增幅</span> 增加你对他们造成的魂力伤害。第一次施加恶化暴露触发二次。"
-		"upgrade_escalating_exposure/modifier_proc_watcher/modifier_debuff"		"减少魂力抗性"
-		"EscalatingExposureProcCooldown_label"	"每个单位最高触发频率"
+		"upgrade_escalating_exposure_desc"	"當對目標敵方造成 <span class=\"highlight\">魂力傷害</span> 時 施加 <span class=\"highlight\">一層魂力傷害增幅</span> 增加你對他們造成的魂力傷害。第一次施加惡化暴露觸發二次。"
+		"upgrade_escalating_exposure/modifier_proc_watcher/modifier_debuff"		"減少魂力抗性"
+		"EscalatingExposureProcCooldown_label"	"每個單位最高觸發頻率"
 		"EscalatingExposureProcCooldown_postfix"	"s"
-		"EscalatingExposureTechArmorDamageReduction_label"	"魂力伤害减少魂力抗性"
+		"EscalatingExposureTechArmorDamageReduction_label"	"魂力傷害減少魂力抗性"
 		"EscalatingExposureTechArmorDamageReduction_postfix"	"%"
 
 		//Mystic Reach
-		"upgrade_magic_reach_desc"			"增加技能和模组的<span class=\"highlight\">范围</span> 和 <span class=\"highlight\">效果范围</span>。"
+		"upgrade_magic_reach_desc"			"增加技能和模組的<span class=\"highlight\">範圍</span> 和 <span class=\"highlight\">效果範圍</span>。"
 
 		//Improved Reach
-		"upgrade_tech_range_desc"			"增加技能和模组的<span class=\"highlight\">范围</span> 和 <span class=\"highlight\">效果范围</span>。"
+		"upgrade_tech_range_desc"			"增加技能和模組的<span class=\"highlight\">範圍</span> 和 <span class=\"highlight\">效果範圍</span>。"
 
 		//Omni Spirit
 		"upgrade_long_range_slowing_tech_desc"		"Applies a <span class=\"highlight\">movement slow</span> to enemies when dealing spirit damage."
 		"upgrade_long_range_slowing_tech/modifier_long_range_slowing_tech_proc/modifier_slow_base"	"Slowed"
 
 		//Full Spectrum
-		"upgrade_full_spectrum_passive"	"对于你魂力伤害技能或能力击中的每个英雄，增加<span class=\"highlight\">额外伤害</span>，并施加<span class=\"highlight\">移动减缓</span>效果。"
+		"upgrade_full_spectrum_passive"	"對於你魂力傷害技能或能力擊中的每個英雄，增加<span class=\"highlight\">額外傷害</span>，並施加<span class=\"highlight\">移動減緩</span>效果。"
 
 		//Mystic Range
-		"upgrade_tech_range_2_desc"		"提高你的魂力技能和物品<span class=\"highlight\">范围</span>、<span class=\"highlight\">光环范围</span>和<span class=\"highlight\">效果范围</span>。"
+		"upgrade_tech_range_2_desc"		"提高你的魂力技能和物品<span class=\"highlight\">範圍</span>、<span class=\"highlight\">光環範圍</span>和<span class=\"highlight\">效果範圍</span>。"
 		
 		//Improved Cooldown
-		"upgrade_magic_tempo_desc"	"减少技能和模组的<span class=\"highlight\">冷却时间</span>"
+		"upgrade_magic_tempo_desc"	"減少技能和模組的<span class=\"highlight\">冷卻時間</span>"
 
 		//Superior Cooldown
-		"upgrade_cooldown_reduction_desc"	"减少技能和模组的<span class=\"highlight\">冷却时间</span>"
+		"upgrade_cooldown_reduction_desc"	"減少技能和模組的<span class=\"highlight\">冷卻時間</span>"
 
 		//Spiritual Recharge
-		"upgrade_recharge_duration_reduction_desc"		"减少<span class=\"highlight\">技能充能时间</span>。"
+		"upgrade_recharge_duration_reduction_desc"		"減少<span class=\"highlight\">技能充能時間</span>。"
 
 		//Extra Charge
-		"upgrade_extra_charge_desc"	"为你的充能技能增加一点 <span class=\"highlight\">充能</span>。"
+		"upgrade_extra_charge_desc"	"為你的充能技能增加一點 <span class=\"highlight\">充能</span>。"
 		"BonusSpiritForChargedAbilities_prefix"						"+"
 		"BonusSpiritForChargedAbilities_label"						"增加充能技能的魂力"
 
 		//Hyper Charge
-		"upgrade_bonus_ability_charge_3_desc"	"增加<span class=\"highlight\">+{s:BonusAbilityCharges}</span>到你的最大技能<span class=\"highlight\">充能次数</span>。"
+		"upgrade_bonus_ability_charge_3_desc"	"增加<span class=\"highlight\">+{s:BonusAbilityCharges}</span>到你的最大技能<span class=\"highlight\">充能次數</span>。"
 
 		//Charge Mastery
-		"upgrade_charge_mastery_passive"	"充能技能拥有<span class=\"highlight\">{s:BonusChargedAbilityDamage}%</span>的伤害提升和<span class=\"highlight\">{s:BonusChargedCooldownReduction}%</span>的冷却时间减少。"
+		"upgrade_charge_mastery_passive"	"充能技能擁有<span class=\"highlight\">{s:BonusChargedAbilityDamage}%</span>的傷害提升和<span class=\"highlight\">{s:BonusChargedCooldownReduction}%</span>的冷卻時間減少。"
 
 		//Rapid Recharge
-		"CooldownReductionOnChargedAbilities_label"	"降低充能技能的冷却时间"
+		"CooldownReductionOnChargedAbilities_label"	"降低充能技能的冷卻時間"
 		"CooldownReductionOnChargedAbilities_postfix" "%"
 		"CooldownReductionOnChargedAbilities_prefix" "+"
 
 		//Alchemical Fire
-		"upgrade_thermal_detonator_desc"		"使用后丢出一个接触到物体就会爆炸的烧瓶,创造一个会造成伤害并且 <span class=\"highlight\">每秒增加伤害</span> 和 <span class=\"highlight\">增幅子弹伤害</span>的区域，<br>对非玩家单位伤害只有{s:NonHeroReductionPercent}%。"
+		"upgrade_thermal_detonator_desc"		"使用後丟出一個接觸到物體就會爆炸的燒瓶,創造一個會造成傷害並且 <span class=\"highlight\">每秒增加傷害</span> 和 <span class=\"highlight\">增幅子彈傷害</span>的區域，<br>對非玩家單位傷害只有{s:NonHeroReductionPercent}%。"
 		"BonusBaseWeaponDamageTaken_prefix"		"+"
-		"BonusBaseWeaponDamageTaken_label"		"子弹伤害增幅"
+		"BonusBaseWeaponDamageTaken_label"		"子彈傷害增幅"
 		"BonusBaseWeaponDamageTaken_postfix"	"%"
 
 		//Fleetfoot
-		"upgrade_fleetfoot_boots_active_desc"	"使用后在持续时间内获得 <span class=\"highlight\">额外移动速度</span> 和 <span class=\"highlight\">增加基础弹匣容量</span> 。"
-		"upgrade_fleetfoot_boots_passive_desc"	"移除射击时 <span class=\"highlight\">移动速度惩罚</span> 。"
-		"modifier_fleetfoot_boots"				"机动步行"
+		"upgrade_fleetfoot_boots_active_desc"	"使用後在持續時間內獲得 <span class=\"highlight\">額外移動速度</span> 和 <span class=\"highlight\">增加基礎彈匣容量</span> 。"
+		"upgrade_fleetfoot_boots_passive_desc"	"移除射擊時 <span class=\"highlight\">移動速度懲罰</span> 。"
+		"modifier_fleetfoot_boots"				"機動步行"
 
 		//Kinetic Dash
-		"upgrade_kinetic_sash_desc"		"每隔一段时间，你的下一次 <span class=\"highlight\">冲刺跳跃</span> 不消耗额外耐力，并且获得 <span class=\"highlight\">射击速度</span> 和 <span class=\"highlight\">暂时额外基础弹药</span> 直到你下次装填。 或持续 {s:AbilityDuration} 秒。"
-		"modifier_kinetic_sash_triggered"	"动感冲刺"
+		"upgrade_kinetic_sash_desc"		"每隔一段時間，你的下一次 <span class=\"highlight\">衝刺跳躍</span> 不消耗額外耐力，並且獲得 <span class=\"highlight\">射擊速度</span> 和 <span class=\"highlight\">暫時額外基礎彈藥</span> 直到你下次裝填。 或持續 {s:AbilityDuration} 秒。"
+		"modifier_kinetic_sash_triggered"	"動感衝刺"
 
 		//Active Reload
-		"upgrade_active_reload_desc"	"每隔一段时间，装填时，在高亮显示的部分按下 [{s:key_reload}]，会<span class=\"highlight\">立即完成装填并获得射速和子弹吸血</span>。"
-		"upgrade_active_reload/buff"	"主动装填"
+		"upgrade_active_reload_desc"	"每隔一段時間，裝填時，在高亮顯示的部分按下 [{s:key_reload}]，會<span class=\"highlight\">立即完成裝填並獲得射速和子彈吸血</span>。"
+		"upgrade_active_reload/buff"	"主動裝填"
 
 		//Arcane Medallion
 		"upgrade_arcane_medallion_desc"	"Whenever you deal <span class=\"highlight\">{s:MinimumDamage} Spirit damage</span> or more in a single hit against an enemy hero, gain <span class=\"highlight\">temporary Spirit Power</span>."
@@ -466,27 +466,27 @@
 		"upgrade_succor_desc"				"<span class=\"highlight\">Pulls</span> the targeted teammate out of battle and brings them next to you."
 		
 		//Slowing Hex
-		"upgrade_containment_desc"			"选定一个敌方英雄目标，使用后对敌方英雄目标造成<span class=\"highlight\">魂力伤害</span> 并且 <span class=\"highlight\">减少移速</span> ,同时 <span class=\"highlight\">沉默敌方英雄的移动技能</span>.<br>不影响目标的耐力使用。"
+		"upgrade_containment_desc"			"選定一個敵方英雄目標，使用後對敵方英雄目標造成<span class=\"highlight\">魂力傷害</span> 並且 <span class=\"highlight\">減少移速</span> ,同時 <span class=\"highlight\">沉默敵方英雄的移動技能</span>.<br>不影響目標的耐力使用。"
 
 		//Withering Whip
-		"upgrade_withering_whip_desc"		"选定一个敌方英雄目标，使用后在持续时间内缴械敌方英雄目标，并降低目标的的<span class=\"highlight\">物理抗性</span>。"
-		"modifier_withering_whip_debuff"		"缴械"
-		"MagicAmp_label"						"抗性减少"
+		"upgrade_withering_whip_desc"		"選定一個敵方英雄目標，使用後在持續時間內繳械敵方英雄目標，並降低目標的的<span class=\"highlight\">物理抗性</span>。"
+		"modifier_withering_whip_debuff"		"繳械"
+		"MagicAmp_label"						"抗性減少"
 		"MagicAmp_postfix"					"%"
-		"WitheringWhipDisarmDuration_label"	"缴械持续时间"
+		"WitheringWhipDisarmDuration_label"	"繳械持續時間"
 		"WitheringWhipDisarmDuration_postfix"	"s"
 		"SpiritPower_label"					"魂力"
 		"SpiritPower_prefix"					"+"
 
 		//Ethereal Shift
-		"upgrade_self_bubble_desc"			"使用后在持续时间内<span class=\"highlight\">无敌</span>，在此期间，你不能移动或执行任何操作。当效果结束 你会获得<span class=\"highlight\">装填弹匣</span>以及获得 <span class=\"highlight\">额外魂力</span>。"
-		"ShiftingVeilDuration_label"			"无敌持续"
+		"upgrade_self_bubble_desc"			"使用後在持續時間內<span class=\"highlight\">無敵</span>，在此期間，你不能移動或執行任何操作。當效果結束 你會獲得<span class=\"highlight\">裝填彈匣</span>以及獲得 <span class=\"highlight\">額外魂力</span>。"
+		"ShiftingVeilDuration_label"			"無敵持續"
 		"ShiftingVeilDuration_postfix"		"s"
-		"BonusSpiritDuration_label"			"魂力加成持续时间"
+		"BonusSpiritDuration_label"			"魂力加成持續時間"
 		"BonusSpiritDuration_postfix"			"s"
-		"modifier_shifting_veil_buff"			"飘渺护罩"
-		"shifting_veil_bonus_spirit"			"额外魂力"
-		"modifier_citadel_bubble"				"飘渺护罩"
+		"modifier_shifting_veil_buff"			"飄渺護罩"
+		"shifting_veil_bonus_spirit"			"額外魂力"
+		"modifier_citadel_bubble"				"飄渺護罩"
 
 		//Stasis Bomb
 		"upgrade_stasis_bomb_active1"		"Creates an <span class=\"highlight\">EMP aura</span> around you and become <span class=\"highlight\">invincible</span> for {s:AbilityDuration}s, during which it has {s:MoveSpeedMax}m/s move speed and cannot attack, use abilities, or use special moves. Can be self cast."
@@ -498,25 +498,25 @@
 		"upgrade_quarantine_desc"			"Quarantine an enemy Hero, making them <span class=\"highlight\">invincible</span> but also <span class=\"highlight\">silencing and disarming</span> them."
 		
 		//Rescue Beam
-		"upgrade_rescue_beam_desc"		"选定一个友方英雄目标，使用后<span class=\"highlight\">以目标友方英雄或自身的最大生命值的百分比治疗，</span>治疗时，你可以将 <span class=\"highlight\">目标拉向自身</span>。可对自身施放<br><span class=\"highlight\">{s:SelfModifier}%</span>效果 并且无需持续施法"
+		"upgrade_rescue_beam_desc"		"選定一個友方英雄目標，使用後<span class=\"highlight\">以目標友方英雄或自身的最大生命值的百分比治療，</span>治療時，你可以將 <span class=\"highlight\">目標拉向自身</span>。可對自身施放<br><span class=\"highlight\">{s:SelfModifier}%</span>效果 並且無需持續施法"
 		"SelfModifier_label"			"自我施放效果"
 		"SelfModifier_postfix"			"%"
-		"upgrade_rescue_beam_pull"		"牵引目标"
+		"upgrade_rescue_beam_pull"		"牽引目標"
 		"modifier_succor_move"			"救援光束"
 		
 		//[Deprecated] Duration Extender
 		"upgrade_duration_extender_desc"	"Increases <span class=\"highlight\">Duration</span> of your abilities and items by <span class=\"highlight\">{s:NonImbuedBonusDuration}%</span>."
 
 		//Slowing Spirit
-		"upgrade_slowing_tech_desc"		"你的魂力伤害使目标的<span class=\"highlight\">移动速度减慢</span>。"
-		"modifier_slowing_tech_slow"					"秘法减速"
-		"upgrade_slowing_tech/modifier_slowing_tech_proc/modifier_slow_base"						"移速减少"
+		"upgrade_slowing_tech_desc"		"你的魂力傷害使目標的<span class=\"highlight\">移動速度減慢</span>。"
+		"modifier_slowing_tech_slow"					"秘法減速"
+		"upgrade_slowing_tech/modifier_slowing_tech_proc/modifier_slow_base"						"移速減少"
 
 		//Energy
 		"upgrade_tech_3_desc"				"Large increase in <span class=\"highlight\">Energy</span>."
 		
 		//Refresher
-		"upgrade_ability_refresher_desc"	"使用后<span class=\"highlight\">重置你所有能力的冷却时间</span>以及<span class=\"highlight\">恢复你所有的充能</span>。"
+		"upgrade_ability_refresher_desc"	"使用後<span class=\"highlight\">重設你所有能力的冷卻時間</span>以及<span class=\"highlight\">恢復你所有的充能</span>。"
 		"upgrade_ability_refresher_innate_desc" "生命<br>魂力"
 
 		//Spirit Barrier Pulse
@@ -524,10 +524,10 @@
 		"upgrade_aoe_tech_shield/modifier_duration" "Spirit Barrier Pulse"
 		
 		//Cold Front
-		"upgrade_cold_front_desc"			"使用后从你的位置开始施放出一圈冰冻立场对附近的敌方目标造成 <span class=\"highlight\">魂力伤害</span> 并且 <span class=\"highlight\">减缓移动速度</span> 。"
+		"upgrade_cold_front_desc"			"使用後從你的位置開始施放出一圈冰凍立場對附近的敵方目標造成 <span class=\"highlight\">魂力傷害</span> 並且 <span class=\"highlight\">減緩移動速度</span> 。"
 		
 		//Knockdown
-		"upgrade_target_stun_desc"			"选定一个敌方英雄目标，使用后在<span class=\"highlight\">{s:StunDelay} 秒延迟</span>后<span class=\"highlight\">击倒</span> 并且 <span class=\"highlight\">眩晕</span> ，中断并暂时阻止他们采取任何行动。"
+		"upgrade_target_stun_desc"			"選定一個敵方英雄目標，使用後在<span class=\"highlight\">{s:StunDelay} 秒延遲</span>後<span class=\"highlight\">擊倒</span> 並且 <span class=\"highlight\">眩暈</span> ，中斷並暫時阻止他們採取任何行動。"
 		
 		//Vacuum Web
 		"upgrade_aoe_root_active"		"Throw a <span class=\"highlight\">vacuum</span> grenade, pulling all enemies into a small area where they remain <span class=\"highlight\">tethered</span>."
@@ -544,12 +544,12 @@
 		"upgrade_camouflage_desc"					"Go <span class=\"highlight\">invisible</span> and maintain invisibility by <span class=\"highlight\">not moving or attacking</span>.  Taking damage will not reveal the Hero.  Bonus Regen while Invisible."
 
 		//Curse
-		"upgrade_glitch_desc"					"选定一个敌方英雄目标，使用后在持续时间内诅咒目标--被诅咒的敌人会被<span class=\"highlight\">打断、沉默、缴械</span>，以及<span class=\"highlight\">阻止使用模组</span>。"
-		"upgrade_glitch/modifier_glitch_debuff"	"被诅咒!"
+		"upgrade_glitch_desc"					"選定一個敵方英雄目標，使用後在持續時間內詛咒目標--被詛咒的敵人會被<span class=\"highlight\">打斷、沉默、繳械</span>，以及<span class=\"highlight\">阻止使用模組</span>。"
+		"upgrade_glitch/modifier_glitch_debuff"	"被詛咒!"
 
 		//Bullet Resist Shredder
-		"upgrade_bullet_resist_shredder_desc"	"当对目标造成魂力伤害时，该目标在持续时间内也会受到 <span class=\"highlight\">物理抗性</span> 减少。"
-		"upgrade_bullet_resist_shredder/modifier_bullet_armor_shredder_proc/modifier_bullet_armor_shredder" "减少物理抗性"
+		"upgrade_bullet_resist_shredder_desc"	"當對目標造成魂力傷害時，該目標在持續時間內也會受到 <span class=\"highlight\">物理抗性</span> 減少。"
+		"upgrade_bullet_resist_shredder/modifier_bullet_armor_shredder_proc/modifier_bullet_armor_shredder" "減少物理抗性"
 
 		//Weapon Eater
 		"upgrade_weapon_eater_desc"				"Reduces Courage by <span class=\"highlight_weapon\">{s:BaseBonusCounter}</span>. <br>Gain <span class=\"highlight_weapon\">{s:WeaponPowerPerKill} Courage</span> (Up to <span class=\"highlight_weapon\">{s:MaxWeaponPower}</span>) for <span class=\"highlight\">killing an enemy Hero</span> but lose <span class=\"highlight_weapon\">{s:WeaponPowerPerDeath} gained Courage</span> on <span class=\"highlight\">Death</span>. Bonus applied if damage was done within {s:KillWindow}s of enemy killed. "
@@ -559,37 +559,37 @@
 		"upgrade_weapon_instant_reload_desc"	"Press the [Reload] key while reloading to instantly finish your reload"
 
 		//Echo Shard
-		"upgrade_ability_power_shard_active"	"使用后<span class=\"highlight\">重置你最近使用的非终极技能的冷却时间</span>"
+		"upgrade_ability_power_shard_active"	"使用後<span class=\"highlight\">重設你最近使用的非終極技能的冷卻時間</span>"
 
 		//Imbued Ability"
 		"upgrade_imbued_ability_passive1"		"Upon purchasing this mod, select an ability to imbue with <span class=\"highlight\">{s:ImbuedBonusDuration}% bonus duration</span> and <span class=\"highlight\">{s:ImbuedBonusDamage}% bonus damage</span>."
 		"upgrade_imbued_ability_passive2"		"Your spirit damage <span class=\"highlight\">slows</span> your target's movement."
 		
 		//Duration Extender
-		"upgrade_arcane_extension_desc"	"增加技能和模组的的 <span class=\"highlight\">持续时间</span>。"
+		"upgrade_arcane_extension_desc"	"增加技能和模組的的 <span class=\"highlight\">持續時間</span>。"
 
 		//Superior Duration
-		"upgrade_imbued_duration_extender_desc"	"增加技能和模组的的 <span class=\"highlight\">持续时间</span>。"
+		"upgrade_imbued_duration_extender_desc"	"增加技能和模組的的 <span class=\"highlight\">持續時間</span>。"
 
 		//Diviner's Kevlar
-		"upgrade_diviners_kevlar_desc"			"当施放 <span class=\"highlight\">终极技能时</span>获得暂时的 <span class=\"highlight\">护盾</span>以及 <span class=\"highlight\">额外魂力</span>。"
-		"BonusChannelTechPower_label"			"施法后魂力"
+		"upgrade_diviners_kevlar_desc"			"當施放 <span class=\"highlight\">終極技能時</span>獲得暫時的 <span class=\"highlight\">護盾</span>以及 <span class=\"highlight\">額外魂力</span>。"
+		"BonusChannelTechPower_label"			"施法後魂力"
 		"BonusChannelTechPower_prefix"			"+"
-		"BonusChannelTimePercentage_label"		"持续时间"
+		"BonusChannelTimePercentage_label"		"持續時間"
 		"BonusChannelTimePercentage_prefix"		"+"
 		"BonusChannelTimePercentage_postfix"	"%"
-		"ChannelBulletShield_label"				"施法后子弹护盾"
+		"ChannelBulletShield_label"				"施法後子彈護盾"
 
 		//Infuser
-		"upgrade_infuser_desc"			"使用后在持续时间内获得<span class=\"highlight\">额外魂力和魂力吸血</span>。"
+		"upgrade_infuser_desc"			"使用後在持續時間內獲得<span class=\"highlight\">額外魂力和魂力吸血</span>。"
 
 		//Spirit Strike
-		"upgrade_acolytes_glove_desc"			"当你对英雄进行 <span class=\"highlight\">轻或重近战攻击时</span>，造成<span class=\"highlight\">额外魂力伤害并且施加减少魂力抗性</span>。"
-		"SpiritDamage_label"						"魂力伤害"
-		"modifier_acolytes_glove_triggered"		"魂力猛击"
+		"upgrade_acolytes_glove_desc"			"當你對英雄進行 <span class=\"highlight\">輕或重近戰攻擊時</span>，造成<span class=\"highlight\">額外魂力傷害並且施加減少魂力抗性</span>。"
+		"SpiritDamage_label"						"魂力傷害"
+		"modifier_acolytes_glove_triggered"		"魂力猛擊"
 
 		//Melee Charge
-		"upgrade_melee_charge_desc"				"增加你的近战重击冲锋距离。对敌人进行<span class=\"highlight\">近战重击后</span>，武器会立即<span class=\"highlight\">重新装填</span>。"
+		"upgrade_melee_charge_desc"				"增加你的近戰重擊衝鋒距離。對敵人進行<span class=\"highlight\">近戰重擊後</span>，武器會立即<span class=\"highlight\">重新裝填</span>。"
 
 		//Charmed Wraps
 		"upgrade_charmed_wraps_desc"			"Your abilities get their <span class=\"highlight\">cooldowns reduced</span> when you perform a <span class=\"highlight\">heavy melee</span> attack against a hero (or <span class=\"highlight\">two light melee</span> attacks within {s:LightMeleeTimeWindow}s)."
@@ -600,23 +600,23 @@
 		"ClarityBonusSpirit_label"				"Next Ability Bonus Spirit Power"
 
 		//Surge of Power
-		"upgrade_magic_storm_desc"				"选定一个技能，增加该技能<span class=\"highlight\">额外魂力</span>并且当技能施放时获得 <span class=\"highlight\">额外移动速度</span> 。"
-		"modifier_upgrade_magic_storm"			"澎湃动力"
+		"upgrade_magic_storm_desc"				"選定一個技能，增加該技能<span class=\"highlight\">額外魂力</span>並且當技能施放時獲得 <span class=\"highlight\">額外移動速度</span> 。"
+		"modifier_upgrade_magic_storm"			"澎湃動力"
 
 		//Suppressor
-		"upgrade_suppressor_desc"					"当你对目标敌人造成<span class=\"highlight\">魂力伤害</span>时，也会受到<span class=\"highlight\">射击速度减缓</span>。"
-		"suppressor_debuff"						"射速减缓"
+		"upgrade_suppressor_desc"					"當你對目標敵人造成<span class=\"highlight\">魂力傷害</span>時，也會受到<span class=\"highlight\">射擊速度減緩</span>。"
+		"suppressor_debuff"						"射速減緩"
 
 		//Quicksilver Reload
-		"upgrade_quick_silver_desc"				"标记一个技能，该技能击中敌人第一次时获得 <span class=\"highlight\">额外伤害</span>并且 当技能使用的时候你的弹匣立即<span class=\"highlight\">重新装填</span> ，并为该弹匣带来<span class=\"highlight\">射击速度</span>奖励。"
-		"modifier_quick_silver_buff"				"额外射速"
+		"upgrade_quick_silver_desc"				"標記一個技能，該技能擊中敵人第一次時獲得 <span class=\"highlight\">額外傷害</span>並且 當技能使用的時候你的彈匣立即<span class=\"highlight\">重新裝填</span> ，並為該彈匣帶來<span class=\"highlight\">射擊速度</span>獎勵。"
+		"modifier_quick_silver_buff"				"額外射速"
 
 		// Magic carpet
-		"upgrade_magic_carpet_desc"				"召唤飞毯，让你飞走。飞行时获得子弹护盾和精神护盾。 召唤飞毯时无法使用技能。 飞行时，任何操作都会解除魔毯。"
-		"modifier_magiccarpet"					"奥秘飞毯"
-		"modifier_summon_magiccarpet"			"召唤奥秘飞毯"
+		"upgrade_magic_carpet_desc"				"召喚飛毯，讓你飛走。飛行時獲得子彈護盾和精神護盾。 召喚飛毯時無法使用技能。 飛行時，任何操作都會解除魔毯。"
+		"modifier_magiccarpet"					"奧秘飛毯"
+		"modifier_summon_magiccarpet"			"召喚奧秘飛毯"
 		"MagicCarpetMoveSpeed_prefix"			"+"
-		"MagicCarpetMoveSpeed_label"			"额外飞行速度"
+		"MagicCarpetMoveSpeed_label"			"額外飛行速度"
 		"MagicCarpetMoveSpeed_postfix"			"m/s"
 
 		//-----------------------------------------------------------------------------
@@ -627,27 +627,27 @@
 		"upgrade_toughness_3_desc"					    "Increases <span class=\"highlight\">Health</span> and <span class=\"highlight\">health regen</span>."
 
 		//Bullet Lifesteal
-		"upgrade_vampire_desc"							"你对敌人造成一定百分比的伤害 <span class=\"highlight\">子弹伤害会治疗你</span>。对非英雄效果减半。"
+		"upgrade_vampire_desc"							"你對敵人造成一定百分比的傷害 <span class=\"highlight\">子彈傷害會治療你</span>。對非英雄效果減半。"
 		
 		//Health Regen
 		"upgrade_health_regen_1_desc"					"Increases <span class=\"highlight\">health regen</span>."
 
 		//Healing Rite
-		"upgrade_health_stimpak_desc"					"选定一个友方英雄目标，使用后在持续时间内使目标<span class=\"highlight\">获得治疗和额外疾跑速度</span>如果该目标受到敌方英雄或建筑的伤害，再生会被驱散。可对自身施放。"
-		"upgrade_health_stimpak/modifier_stimpak_regen"			"疗愈仪式"
+		"upgrade_health_stimpak_desc"					"選定一個友方英雄目標，使用後在持續時間內使目標<span class=\"highlight\">獲得治療和額外疾跑速度</span>如果該目標受到敵方英雄或建築的傷害，再生會被驅散。可對自身施放。"
+		"upgrade_health_stimpak/modifier_stimpak_regen"			"療癒儀式"
 
 		//Divine Barrier
-		"upgrade_savior_desc"				"选定一个友方英雄目标，使用后为目标提供<span class=\"highlight\">子弹护盾、魂力护盾和移动速度</span>。可对自身施放。"
-		"SaviorBulletShieldHealth_label"		"子弹护盾" 
-		"SaviorMagicShieldHealth_label"		"魂力护盾"
-		"BuffDuration_label"					"持续时间"
+		"upgrade_savior_desc"				"選定一個友方英雄目標，使用後為目標提供<span class=\"highlight\">子彈護盾、魂力護盾和移動速度</span>。可對自身施放。"
+		"SaviorBulletShieldHealth_label"		"子彈護盾" 
+		"SaviorMagicShieldHealth_label"		"魂力護盾"
+		"BuffDuration_label"					"持續時間"
 		"BuffDuration_postfix"				"s"
 
 		//Restorative Locket
-		"upgrade_restorative_locket_passive_desc"		"当敌人在距离你 {s:Radius}m 范围内使用技能时，存储一个恢复层数。"
-		"upgrade_restorative_locket_active_desc"		"使用后消耗所有层数来<span class=\"highlight\">治疗选定的友军英雄</span>。可以对自身施放。"
-		"modifier_restorative_locket_stacks"				"修复项链"
-		"HealPerStack_label"								"每层数治疗"
+		"upgrade_restorative_locket_passive_desc"		"當敵人在距離你 {s:Radius}m 範圍內使用技能時，儲存一個恢復層數。"
+		"upgrade_restorative_locket_active_desc"		"使用後消耗所有層數來<span class=\"highlight\">治療選定的友軍英雄</span>。可以對自身施放。"
+		"modifier_restorative_locket_stacks"				"修復項鍊"
+		"HealPerStack_label"								"每層數治療"
 
 		//Bullet Deflector
 		"upgrade_health_bullet_deflector_desc"			"Prevents <span class=\"highlight\">{s:BulletDamageReductionPct}%</span> of incoming bullet damage, with a maximum of <span class=\"highlight\">{s:BulletDamageReductionPerSecond}</span> damage deflected per second."
@@ -656,13 +656,13 @@
 		"upgrade_health_regenerative_armor_desc"		"Automatically <span class=\"highlight\">restores health</span> lost from <span class=\"highlight\">bullet damage</span>, regenerating up to <span class=\"highlight\">{s:BulletDamageRecoveredPerSecond} health</span> per second."
 
 		//Bullet Armor
-		"upgrade_bullet_armor_desc"					"减少受到的 <span class=\"highlight\">子弹伤害</span> 。"
+		"upgrade_bullet_armor_desc"					"減少受到的 <span class=\"highlight\">子彈傷害</span> 。"
 
 		//Improved Bullet Armor
-		"upgrade_improved_bullet_armor_desc"			"减少受到的 <span class=\"highlight\">子弹伤害</span> 。"
+		"upgrade_improved_bullet_armor_desc"			"減少受到的 <span class=\"highlight\">子彈傷害</span> 。"
 
 		//Improved Bullet Armor
-		"upgrade_bullet_armor_2_desc"					"减少受到的 <span class=\"highlight\">子弹伤害</span> 。"
+		"upgrade_bullet_armor_2_desc"					"減少受到的 <span class=\"highlight\">子彈傷害</span> 。"
 
 		//Double-Jump
 		"upgrade_double_jump_desc"					"Allows you to perform an additional <span class=\"highlight\">jump</span> in mid-air."
@@ -679,7 +679,7 @@
 		"upgrade_cheat_death_unkillable_passive"	"When the owner would take otherwise lethal damage, they instead become <span class=\"highlight\">temporarily death immune</span>. While death immune, the rate of the damage pulse is greatly increased."
 
 		//Healing Booster
-		"upgrade_healing_booster_desc"				"提高你<span class=\"highlight\">{s:HealAmpRegenPercent}%</span>的<span class=\"highlight_armor\">治疗效果</span> ."
+		"upgrade_healing_booster_desc"				"提高你<span class=\"highlight\">{s:HealAmpRegenPercent}%</span>的<span class=\"highlight_armor\">治療效果</span> ."
 
 		//Extra Health
 		"upgrade_health_desc"							"Increase <span class=\"highlight\">health</span>."
@@ -688,11 +688,11 @@
 		"upgrade_proc_melee_stun_desc"					"The 3rd hit of your <span class=\"highlight\">melee combo</span> will <span class=\"highlight\">stun</span> enemies."
 
 		//Debuff Reducer
-		"upgrade_debuff_reducer_desc"			"减少<span class=\"highlight\">对你施加的所有负面效果的持续时间</span>。"
+		"upgrade_debuff_reducer_desc"			"減少<span class=\"highlight\">對你施加的所有負面效果的持續時間</span>。"
 
 		//Debuff Remover
-		"upgrade_reduce_debuff_duration_desc"			"减少你受到的所有减益状态的 <span class=\"highlight\">持续时间</span> 。"
-		"upgrade_reduce_debuff_duration_active_desc"	"使用后清除当前施加在你身上的<span class=\"highlight\">所有减益状态</span>。如果有任何减益被清除，则获得移动速度加成。<span class=\"highlight\"> 眩晕或睡眠时无法使用。 </span>"
+		"upgrade_reduce_debuff_duration_desc"			"減少你受到的所有減益狀態的 <span class=\"highlight\">持續時間</span> 。"
+		"upgrade_reduce_debuff_duration_active_desc"	"使用後清除當前施加在你身上的<span class=\"highlight\">所有減益狀態</span>。如果有任何減益被清除，則獲得移動速度加成。<span class=\"highlight\"> 眩暈或睡眠時無法使用。 </span>"
 
 		//High Impact Armor
 		"upgrade_high_impact_armor_desc"				"Provides protection against high-damage bullets. Any <span class=\"highlight\">bullet damage</span> portion above the threshold is reduced by {s:DamageReduction}%."
@@ -700,11 +700,11 @@
 		"damage_reduction_postfix"						"%"
 
 		//Decay
-		"upgrade_rupture_desc"				"选定一个敌方英雄目标，使用后在持续时间内对敌方英雄目标造成<span class=\"highlight\">治疗效果减少</span> 并且<span class=\"highlight\">根据敌人当前生命值造成持续流血伤害</span> <br>腐朽的伤害是非致命的."
+		"upgrade_rupture_desc"				"選定一個敵方英雄目標，使用後在持續時間內對敵方英雄目標造成<span class=\"highlight\">治療效果減少</span> 並且<span class=\"highlight\">根據敵人當前生命值造成持續流血傷害</span> <br>腐朽的傷害是非致命的."
 		"upgrade_rupture/modifier_rupture"	"腐朽"
-		"HealAmpReceivePenaltyPercent_label"		"减少治疗"
+		"HealAmpReceivePenaltyPercent_label"		"減少治療"
 		"HealAmpReceivePenaltyPercent_postfix"			"%"
-		"modifier_citadel_rupture"				"割裂 - 别动"
+		"modifier_citadel_rupture"				"割裂 - 別動"
 
 		//Discord
 		"upgrade_discord_desc"						"Apply an aura around enemy or friendly target that <span class=\"highlight\">damages enemies in the radius and suppresses their healing by {s:HealAmpReceivePenaltyPercent}%</span>. If cast on a friendly, it also heals them."
@@ -717,21 +717,21 @@
 		"upgrade_spell_absorb_desc"					"<span class=\"highlight\">Blocks</span> a targeted ability."
 		
 		//Spirit Armor
-		"upgrade_tech_armor_desc"						"减少受到的 <span class=\"highlight\">魂力伤害</span> 。"
+		"upgrade_tech_armor_desc"						"減少受到的 <span class=\"highlight\">魂力傷害</span> 。"
 
 		//Spirit Armor+
-		"upgrade_tech_armor_2_desc"					"减少受到的 <span class=\"highlight\">魂力伤害</span> 。"
+		"upgrade_tech_armor_2_desc"					"減少受到的 <span class=\"highlight\">魂力傷害</span> 。"
 		
 		//Bullet Deflector Shield
 		"upgrade_deflector_shield_desc"				"Adds <span class=\"highlight\">bullet armor</span>, and provides a shield that absorbs bullet damage. Shield regens out of combat (10s no damage)."
 		
 		//Fortitude
-		"upgrade_chonky_desc"							"在<span class=\"highlight\">{s:RestoreDelay}秒后</span>未受到伤害，获得<span class=\"highlight\">最大生命值 {s:HealLifePercentOutOfCombat}% 的恢复</span>."
-		"upgrade_chonky_high_health_passive_desc"		"当你生命值<span class=\"highlight\">高于 {s:HealthThreshold}% </span>, 你会获得额外的 <span class=\"highlight\">子弹伤害</span> 和 <span class=\"highlight\">移动速度</span> 。"
-		"upgrade_out_of_combat_health_regen/modifier_citadel_armor_out_of_combat_health_regen"		"代谢纳米"
+		"upgrade_chonky_desc"							"在<span class=\"highlight\">{s:RestoreDelay}秒後</span>未受到傷害，獲得<span class=\"highlight\">最大生命值 {s:HealLifePercentOutOfCombat}% 的恢復</span>."
+		"upgrade_chonky_high_health_passive_desc"		"當你生命值<span class=\"highlight\">高於 {s:HealthThreshold}% </span>, 你會獲得額外的 <span class=\"highlight\">子彈傷害</span> 和 <span class=\"highlight\">移動速度</span> 。"
+		"upgrade_out_of_combat_health_regen/modifier_citadel_armor_out_of_combat_health_regen"		"代謝奈米"
 
 		//Leech
-		"upgrade_damage_recycler_desc"				"增加<span class=\"highlight\">减少治疗效果抗性</span>。"
+		"upgrade_damage_recycler_desc"				"增加<span class=\"highlight\">減少治療效果抗性</span>。"
 		
 		//Rebirth
 		"upgrade_personal_rejuvenator_desc"		"Respawns the hero at the spot they died."
@@ -739,15 +739,15 @@
 		"RespawnDelay_postfix"						"s"
 
 		//Phantom Strike
-		"upgrade_phantom_strike_desc"			"选定一个敌方英雄目标，使用后<span class=\"highlight\">传送</span>敌人目标跟前，造成 <span class=\"highlight\">魂力伤害</span>并且施加<span class=\"highlight\">减少移速和缴械</span>。"
-		"BarrierDuration_label"					"护盾持续"
+		"upgrade_phantom_strike_desc"			"選定一個敵方英雄目標，使用後<span class=\"highlight\">傳送</span>敵人目標跟前，造成 <span class=\"highlight\">魂力傷害</span>並且施加<span class=\"highlight\">減少移速和繳械</span>。"
+		"BarrierDuration_label"					"護盾持續"
 		"BarrierDuration_postfix"				"s"
-		"PhantomStrikeDebuffDuration_label"		"缴械和减速持续"
+		"PhantomStrikeDebuffDuration_label"		"繳械和減速持續"
 		"PhantomStrikeDebuffDuration_postfix"		"s"
-		"modifier_phantom_strike_bulletshield"		"子弹护盾"
+		"modifier_phantom_strike_bulletshield"		"子彈護盾"
 
 		//Soul Rebirth
-		"upgrade_rebirth_passive"				"如果持有者死亡，在 {s:RespawnDelay}s 延迟后，将<span class=\"highlight\">以部分生命值状态在死亡地点重生</span>。"
+		"upgrade_rebirth_passive"				"如果持有者死亡，在 {s:RespawnDelay}s 延遲後，將<span class=\"highlight\">以部分生命值狀態在死亡地點重生</span>。"
 		
 		//Shield Rush
 		"upgrade_active_bullet_shield_desc"				 "Give temporary <span class=\"highlight\">bullet shield</span> for you and nearby allied Heros and their minions."
@@ -760,30 +760,30 @@
 		"upgrade_fire_rate_reduction_aura/modifier_base_aura/aura_target_modifier"	"Fire Rate Reduction Aura"
 		
 		//Return Fire
-		"upgrade_return_fire_desc"					"向任何使用技能或射击子弹对你造成伤害的攻击者<span class=\"highlight\">发射子弹</span> ."
-		"modifier_armor_return_fire"				"归还火力"
-		"ActiveFireRate_label"						"射击速度"
+		"upgrade_return_fire_desc"					"向任何使用技能或射擊子彈對你造成傷害的攻擊者<span class=\"highlight\">發射子彈</span> ."
+		"modifier_armor_return_fire"				"歸還火力"
+		"ActiveFireRate_label"						"射擊速度"
 		"ActiveFireRate_postfix"						"%"
-		"modifier_citadel_basicdamagereflect" 	"归还火力"
+		"modifier_citadel_basicdamagereflect" 	"歸還火力"
 
 		//Metal Skin
-		"upgrade_metal_skin_desc"						"使用后在持续时间内<span class=\"highlight\">对近战伤害和子弹伤害免疫</span>"
-		"AbilityApplyDelay_label"						"持续时间"
+		"upgrade_metal_skin_desc"						"使用後在持續時間內<span class=\"highlight\">對近戰傷害和子彈傷害免疫</span>"
+		"AbilityApplyDelay_label"						"持續時間"
 		"AbilityApplyDelay_postfix"						"s"
-		"modifier_citadel_metal_skin"								"金属皮肤"
+		"modifier_citadel_metal_skin"								"金屬皮膚"
 
 		//Regenerative Armor
 		"upgrade_regenerative_armor_desc"	"Gain a short burst of health regeneration when taking bullet damage from heroes"
 
 		//Combat Barrier
-		"upgrade_regenerating_bullet_shield_desc"	"当你有<span class=\"highlight\">子弹护盾</span>时，会获得额外<span class=\"highlight\">子弹伤害</span>."
-		"BonusBaseWeaponDamageWithShield_label"		"有子弹护盾时子弹伤害"
+		"upgrade_regenerating_bullet_shield_desc"	"當你有<span class=\"highlight\">子彈護盾</span>時，會獲得額外<span class=\"highlight\">子彈傷害</span>."
+		"BonusBaseWeaponDamageWithShield_label"		"有子彈護盾時子彈傷害"
 		"BonusBaseWeaponDamageWithShield_postfix"	"%"
 		"BonusBaseWeaponDamageWithShield_prefix"	"+"
 
 		//Enchanter's Barrier
-		"upgrade_magic_shield_desc"		"当你有<span class=\"highlight\">魂力护盾</span>时，会获得额外<span class=\"highlight\">魂力伤害</span>."
-		"BonusSpiritWithMagicShield_label"		"有魂力护盾时魂力伤害"
+		"upgrade_magic_shield_desc"		"當你有<span class=\"highlight\">魂力護盾</span>時，會獲得額外<span class=\"highlight\">魂力傷害</span>."
+		"BonusSpiritWithMagicShield_label"		"有魂力護盾時魂力傷害"
 		"BonusSpiritWithMagicShield_prefix"		"+"
 
 		//Aerial Assault
@@ -797,14 +797,14 @@
 
 		//Unstoppable - Deprecated
 		"upgrade_slow_immunity_desc"					"Purges any roots and chains on use and makes you immune to slows for the duration"
-		"modifier_slow_immunity"						"势不可挡"
+		"modifier_slow_immunity"						"勢不可擋"
 
 		//Unstoppable
-		"upgrade_unstoppable_desc"				"使用后在持续时间内<span class=\"highlight\">免疫负面状态效果</span>，免疫眩晕、沉默、睡眠、束缚、缴械和链接效果。"
-		"modifier_unstoppable"							"势不可挡"
+		"upgrade_unstoppable_desc"				"使用後在持續時間內<span class=\"highlight\">免疫負面狀態效果</span>，免疫眩暈、沉默、睡眠、束縛、繳械和連結效果。"
+		"modifier_unstoppable"							"勢不可擋"
 
 		//Colossus
-		"upgrade_colossus_desc"			"使用后在持续时间内获得<span class=\"highlight\">子弹和魂力抗性</span>，并<span class=\"highlight\">对附近的敌方目标减少移速</span>。你的模型大小增加10%。"
+		"upgrade_colossus_desc"			"使用後在持續時間內獲得<span class=\"highlight\">子彈和魂力抗性</span>，並<span class=\"highlight\">對附近的敵方目標減少移速</span>。你的模型大小增加10%。"
 
 		//Ablative Coat
 		"upgrade_ablative_coat_desc"			"Provides <span class=\"highlight\">Bullet Resist</span> but you lose some each time you take Weapon Damage. Loss can only happen once every {s:StackLossFrequency}s. Bullet Resist is restored when out of combat."
@@ -815,17 +815,17 @@
 		//----------------------------------------------------------------------------- 
 		
 		//Sprint Boots
-		"upgrade_sprint_booster_desc"				"在一段时间不受到攻击或攻击时增加你的<span class=\"highlight\">前进速度</span>。 受到攻击会有 <span class=\"highlight\">1.5s</span> 冷却 。"
+		"upgrade_sprint_booster_desc"				"在一段時間不受到攻擊或攻擊時增加你的<span class=\"highlight\">前進速度</span>。 受到攻擊會有 <span class=\"highlight\">1.5s</span> 冷卻 。"
 
 		//Superior Stamina
-		"upgrade_superior_stamina_passive"			"将着陆前可进行的<span class=\"highlight\">空中冲刺和空中跳跃</span>次数从<span class=\"highlight\"> 1 次增加到 2 次</span>。"
+		"upgrade_superior_stamina_passive"			"將著陸前可進行的<span class=\"highlight\">空中衝刺和空中跳躍</span>次數從<span class=\"highlight\"> 1 次增加到 2 次</span>。"
 
 		//Enduring Speed
-		"upgrade_cardio_calibrator_desc"			"降低敌人移动减少移速的效果。"
+		"upgrade_cardio_calibrator_desc"			"降低敵人移動減少移速的效果。"
 
 		//Health Nova
-		"upgrade_health_nova_desc"					"使用后<span class=\"highlight\">治疗</span> 自身和附近的友军。在持续时间内治疗每个友军最大生命值的 {s:HeroTargetBonus}% "
-		"modifier_health_nova"					"疗愈新星"
+		"upgrade_health_nova_desc"					"使用後<span class=\"highlight\">治療</span> 自身和附近的友軍。在持續時間內治療每個友軍最大生命值的 {s:HeroTargetBonus}% "
+		"modifier_health_nova"					"療癒新星"
 
 		//Fast Reload
 		"upgrade_reload_speed_desc"					"Increased <span class=\"highlight\">reload speed</span>."
@@ -837,23 +837,23 @@
 		"upgrade_cloaking_device_active/modifier_invis"												"Stealthed"
 
 		//Shadow Weave
-		"upgrade_cloaking_device_active_desc"		"使用后在持续时间内使自身 <span class=\"highlight\">隐形</span>。每当你在隐身状态下受到伤害时，你就会短暂地暴露。"
-		"upgrade_cloaking_device_active_ambush_desc"	"<br>攻击或使用任意技能将结束你的隐身并给自身施加<span class=\"highlight\">影袭</span>增益，暂时为你提供额外的<span class=\"highlight\">射速</span>和<span class=\"highlight\">魂力</span>加成。"
-		"modifier_cloaking_device_active_stealth"		"影织 - 隐身"
-		"modifier_cloaking_device_active_ambush"		"影织 - 影袭"
+		"upgrade_cloaking_device_active_desc"		"使用後在持續時間內使自身 <span class=\"highlight\">隱形</span>。每當你在隱身狀態下受到傷害時，你就會短暫地暴露。"
+		"upgrade_cloaking_device_active_ambush_desc"	"<br>攻擊或使用任意技能將結束你的隱身並給自身施加<span class=\"highlight\">影襲</span>增益，暫時為你提供額外的<span class=\"highlight\">射速</span>和<span class=\"highlight\">魂力</span>加成。"
+		"modifier_cloaking_device_active_stealth"		"影織 - 隱身"
+		"modifier_cloaking_device_active_ambush"		"影織 - 影襲"
 		"AmbushBonusTechPower_prefix"					"+"
-		"AmbushBonusTechPower_label"					"影袭 魂力"
+		"AmbushBonusTechPower_label"					"影襲 魂力"
 		"AmbushBonusFireRate_prefix"					"+"
-		"AmbushBonusFireRate_label"					"影袭 射速"
+		"AmbushBonusFireRate_label"					"影襲 射速"
 		"AmbushBonusFireRate_postfix"					"%"
-		"AmbushDuration_label"						"影袭 持续时间"
+		"AmbushDuration_label"						"影襲 持續時間"
 		"AmbushDuration_postfix"						"s"
-		"StealthDuration_label"						"隐身 持续时间"
+		"StealthDuration_label"						"隱身 持續時間"
 		"StealthDuration_postfix"						"s"
-		"SpottedRadius_label"						"破隐距离"
+		"SpottedRadius_label"						"破隱距離"
 		"SpottedRadius_postfix"						"m"
-		"modifier_aoe_smoke_bomb"					"烟雾"
-		"upgrade_aoe_smoke_bomb/modifier_invis"														"隐身中"
+		"modifier_aoe_smoke_bomb"					"煙霧"
+		"upgrade_aoe_smoke_bomb/modifier_invis"														"隱身中"
 
 		//Zip Line Mastery
 		"upgrade_zipine_mastery_desc"				"Zip line speed <span class=\"highlight\">accelerates</span> and allows you to use <span class=\"highlight\">neutral</span> zip lines and capture them while zip lining.  Provides a movement speed bonus when jumping off a zip line whose duration increases the longer you are on the zip line."
@@ -862,7 +862,7 @@
 		"upgrade_rocket_boots_desc"					"<span class=\"highlight\">Launch yourself</span> high into the air. Cannot be used for {s:InteruptCooldown}s if damaged by enemy Hero."
 		
 		//Majestic Leap
-		"upgrade_rocket_booster_desc"				"使用后<span class=\"highlight\">将自身发射到高空</span> . 在空中时, 可以再次使用装备以更快的速度下降.<br>如果被敌方英雄伤害，则无法在 {s:InteruptCooldown}秒 内使用。"
+		"upgrade_rocket_booster_desc"				"使用後<span class=\"highlight\">將自身發射到高空</span> . 在空中時, 可以再次使用裝備以更快的速度下降.<br>如果被敵方英雄傷害，則無法在 {s:InteruptCooldown}秒 內使用。"
 		"upgrade_rocket_booster_drop_down"			"快速下降"
 		
 		//Smoke
@@ -887,11 +887,11 @@
 		"modifier_citadel_active_disarm_spirit_steal"	"Drain Will"
 
 		//Reactive Barrier
-		"upgrade_vex_barrier_desc"		"当你被<span class=\"highlight\">眩晕、链接、束缚或睡眠</span>时自动获得一个临时的<span class=\"highlight\">护盾</span>"
-		"upgrade_vex_barrier_shield"	"反应式屏障"
-		"VexBarrierBulletMaxHealth_label"	"子弹护盾生命值"
-		"VexBarrierTechMaxHealth_label"		"魂力护盾生命值"
-		"VexBarrierShieldDuration_label"    "持续时间"
+		"upgrade_vex_barrier_desc"		"當你被<span class=\"highlight\">眩暈、連結、束縛或睡眠</span>時自動獲得一個臨時的<span class=\"highlight\">護盾</span>"
+		"upgrade_vex_barrier_shield"	"反應式屏障"
+		"VexBarrierBulletMaxHealth_label"	"子彈護盾生命值"
+		"VexBarrierTechMaxHealth_label"		"魂力護盾生命值"
+		"VexBarrierShieldDuration_label"    "持續時間"
 		"VexBarrierShieldDuration_postfix"	"s"
 
 
