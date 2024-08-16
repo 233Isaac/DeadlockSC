@@ -253,7 +253,7 @@
 		"upgrade_proc_disarm_desc"		"Your bullets <span class=\"highlight\">disarm</span> enemies, them preventing them from shooting their weapon.  Victims are immune to disarming bullets for <span class=\"highlight\">{s:ImmunityDuration}s</span> after application expires."
 
 		//Glass Cannon
-		"upgrade_glass_cannon_desc"		"每次擊殺英雄會<span class=\"highlight\">永久增加 {s:BonusClipPerKill} 彈匣容量</span> (最多增加 {s:MaxClipBonus} )."
+		"upgrade_glass_cannon_desc"		"每次擊殺英雄會獲得 <span class=\"highlight\">永久額外武器傷害</span> （最多可獲得 {s:MaxStacks} 次）。死亡會導致損失 1 層。"
 
 		//Vampiric Burst
 		"upgrade_surging_power_active"	"使用後立即裝填部分彈匣並在短暫時間內獲得 <span class=\"highlight\">子彈吸血加成</span> 和 <span class=\"highlight\">射速加成</span>."
