@@ -814,7 +814,7 @@
 
 		"ability_icepath"					"寒冰路徑"
 		"ability_icepath_quip"				"在漂浮的冰道上飛馳"
-		"ability_icepath_desc"				"使用後{s:hero_name}製造一條漂浮的<span class=\"highlight\">寒冰路徑</span>，為他和他的盟友提供移動加成。會在持續時間內獲得{s:SlowResistancePercent}%減速抗性，敵人也可以在寒冰路徑上行走。<br>在冰雪路徑中，按下[{s:key_innate_1}]/[{s:key_duck}]可以向上或向下移動。"
+		"ability_icepath_desc"				"使用後{s:hero_name}製造一條漂浮的<span class=\"highlight\">寒冰路徑</span>，為他和他的盟友提供移動加成。會在持續時間內獲得{s:SlowResistancePercent}%減速抗性，敵人也可以在寒冰路徑上行走。<br>在冰雪路徑中，按下[{s:key_innate_1}] / [{s:key_duck}]可以向上或向下移動。"
 		"ability_icepath_t3_desc"			"技能啟用後 每創建一公尺冰徑路徑可獲得{s:BonusSpiritMeter}魂力 最大為{s:BonusSpiritMax}"
 		"SprintSpeedBonus_label"				"疾跑速度"
 		"SprintSpeedBonus_prefix"				"+"
