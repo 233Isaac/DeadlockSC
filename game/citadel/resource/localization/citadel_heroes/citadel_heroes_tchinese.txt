@@ -1409,7 +1409,7 @@
 		"citadel_ability_tengu_airlift_desc"		"帶著友方英雄或炸彈起飛。友方英雄在飛行時獲得物理抗性。 投擲友方英雄或炸彈，<span class=\"highlight\">引發大爆炸，造成移動緩慢和沉默</span>。飛行結束時，<span class=\"highlight\">{s:hero_name}和盟友會獲得一個子彈護盾。</span><br>以友方英雄為目標時，施法時間更快、按住[{s:iv_attack}] 加快飛行速度。<br>按下[{s:iv_attack2}] 投下友方英雄或炸彈。"
 		"citadel_ability_tengu_airlift_t1_desc"		"增加<span class=\"highlight\">{s:AirDropBulletArmorReduction}%</span>物理抗性-持續<span class=\"highlight\">{s:AirDropDebuff02Duration}s</span>"
 		"citadel_ability_tengu_airlift_t2_desc"		"<span class=\"highlight\">+{s:AirDropBulletShield}</span>子彈護盾"
-		"citadel_ability_tengu_airlift_t3_desc"		"<span class=\"highlight\">增加{s:AirDropExplodeRadius}m</span>爆炸範圍和<span class=\"highlight\">{s:AirDropDebuffDuration}s</span> 沉默-減速持續"
+		"citadel_ability_tengu_airlift_t3_desc"		"對命中的敵人施加<span class="highlight">沉默</span>效果，持續時間為 <span class=\"highlight\">+{s:AirDropSilenceDuration}秒</span>"
 		"modifier_airlift_ally"						"空投 - [{s:in_mantle}]放下"
 
 		"AirDropDebuffDuration_label"		"沉默-減速持續"
