@@ -709,6 +709,7 @@
 		
 		"citadel_ability_lash_t2_desc"			"<span class=\"highlight\">增加{s:AbilityCastRange}m</span>施法距離和<span class=\"highlight\">增加{s:WeaponDamageBonus}</span>子彈傷害-持續{s:WeaponDamageBonusDuration}s"
 		"citadel_ability_lash_t3_desc"			"使用技能後<span class=\"highlight\">增加{s:WeaponFireRateBonus}%</span>射速"
+		
 		"LashDamage_label"						"爪鉤傷害"
 		"WeaponFireRateBonus_label"				"射速"
 		"WeaponFireRateBonus_prefix"				"+"
@@ -745,7 +746,8 @@
 		"ability_lash_flog"						"抽擊"
 		"ability_lash_flog_quip"				"吸取你面前的敵方單位生命值"
 		"ability_lash_flog_desc"					"使用後用鞭子猛擊敵人，並且<span class=\"highlight\">吸血</span>。"
-		"ability_lash_flog_t1_desc"				"對目標施加減少移速<span class=\"highlight\">{s:EnemySlowPct}%</span>-持續{s:EnemySlowDuration}s"		
+		"ability_lash_flog_t1_desc"				"對目標施加減少移速<span class=\"highlight\">{s:EnemySlowPct}%</span>-持續{s:EnemySlowDuration}s"	
+        "ability_lash_flog_t3_desc"				"+{s:Damage} 傷害以及 施加 {s:FireRateSlow}% 減少射速"	
 		"HealPctVsHeroes_label"					"英雄單位治療"
 		"HealPctVsHeroes_postfix"				"%"
 		"HealPctVsNonHeroes_label"				"非英雄單位治療"
