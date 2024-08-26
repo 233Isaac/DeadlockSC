@@ -1091,7 +1091,7 @@
 		"ability_intimidate"			"蔑視"
 		"ability_intimidate_quip"		"對附近的敵人造成傷害，每擊中一個敵人都會獲得治療"
 		"ability_intimidate_desc"		"使用後對附近敵人造成<span class=\"highlight\">傷害</span>，同時根據傷害來<span class=\"highlight\">治療</span>你，對英雄造成傷害時治療效果更強"
-		"ability_intimidate_t3_desc"	"為敵人添加一個減益，讓{s:hero_name} 對他們造成 <span class=\"highlight\">+{s:DamageBonus}% 傷害</span>。可疊加並持續{s:DebuffDuration}秒。"
+		"ability_intimidate_t3_desc"	"為敵人添加一個減益效果，讓{s:hero_name} 對他們造成 <span class=\"highlight\">+{s:DamageBonus}% 傷害</span>。此效果可疊加，並持續 {s:DebuffDuration} 秒。"
 		"DamageHealMult_label"			"英雄治療倍率"
 		"DamageHealMult_postfix"		"x"
 		"DamageHealMultNonHero_label"		"非英雄治療倍率"
@@ -1409,7 +1409,7 @@
 		"citadel_ability_tengu_airlift_desc"		"帶著友方英雄或炸彈起飛。友方英雄在飛行時獲得物理抗性。 投擲友方英雄或炸彈，<span class=\"highlight\">引發大爆炸，造成移動緩慢和沉默</span>。飛行結束時，<span class=\"highlight\">{s:hero_name}和盟友會獲得一個子彈護盾。</span><br>以友方英雄為目標時，施法時間更快、按住[{s:iv_attack}] 加快飛行速度。<br>按下[{s:iv_attack2}] 投下友方英雄或炸彈。"
 		"citadel_ability_tengu_airlift_t1_desc"		"增加<span class=\"highlight\">{s:AirDropBulletArmorReduction}%</span>物理抗性-持續<span class=\"highlight\">{s:AirDropDebuff02Duration}s</span>"
 		"citadel_ability_tengu_airlift_t2_desc"		"<span class=\"highlight\">+{s:AirDropBulletShield}</span>子彈護盾"
-		"citadel_ability_tengu_airlift_t3_desc"		"對命中的敵人施加<span class="highlight">沉默</span>效果，持續時間為 <span class=\"highlight\">+{s:AirDropSilenceDuration}秒</span>"
+		"citadel_ability_tengu_airlift_t3_desc"		"對命中的敵人施加 <span class=\"highlight\">沉默</span> 效果，持續時間為 <span class=\"highlight\">{s:AirDropSilenceDuration} 秒</span>。"
 		"modifier_airlift_ally"						"空投 - [{s:in_mantle}]放下"
 
 		"AirDropDebuffDuration_label"		"沉默-減速持續"
