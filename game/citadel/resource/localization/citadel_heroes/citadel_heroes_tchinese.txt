@@ -1091,7 +1091,7 @@
 		"ability_intimidate"			"蔑視"
 		"ability_intimidate_quip"		"對附近的敵人造成傷害，每擊中一個敵人都會獲得治療"
 		"ability_intimidate_desc"		"使用後對附近敵人造成<span class=\"highlight\">傷害</span>，同時根據傷害來<span class=\"highlight\">治療</span>你，對英雄造成傷害時治療效果更強"
-		"ability_intimidate_t3_desc"	"為敵人添加一個減益，讓{s:hero_name} 對他們造成<span class=\"highlight\">+{s:TechDamageBonus}% 魂力傷害</span>。可疊加並持續{s:DebuffDuration}s。"
+		"ability_intimidate_t3_desc"	"為敵人添加一個減益，讓{s:hero_name} 對他們造成 <span class=\"highlight\">+{s:DamageBonus}% 傷害</span>。可疊加並持續{s:DebuffDuration}秒。"
 		"DamageHealMult_label"			"英雄治療倍率"
 		"DamageHealMult_postfix"		"x"
 		"DamageHealMultNonHero_label"		"非英雄治療倍率"
