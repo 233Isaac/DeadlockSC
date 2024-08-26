@@ -1273,6 +1273,12 @@
 		"Citadel_HeroBuilds_UpdateAnnotationTitle"		"更新物品注釋"
 		"Citadel_HeroBuilds_UpdateAnnotationMessage"	"使用你的構築時，將在商店物品的工具提示中出現該注釋。"
 		
+        "Citadel_HeroBuilds_CurrenclyActive"			"當前啟用中"
+        "Citadel_HeroBuilds_AbilityBuildTitle"			"技能升級順序"
+        "Citadel_HeroBuilds_AbilityBuildReset"			"編輯"	
+        "Citadel_HeroBuilds_AbilityBuildInstructions"	"要設定建議的技能升級順序，請點擊編輯按鈕，然後按照你希望顯示給使用者的順序依次升級每個技能。"
+		
+		
 		"Citadel_HeroBuilds_PublishBuildTitle"			"發布英雄構築"
 		"Citadel_HeroBuilds_PublishBuildDesc"			"此構築將公開與其他玩家分享。"
 		"Citadel_HeroBuilds_BuildNameTitle"				"構築名稱"
@@ -1312,6 +1318,8 @@
 		"Citadel_HeroBuilds_EditingBuildSubheader"		"{s:selected_hero_build_name}"
 
 		"Citadel_HeroBuilds_AP_Next_Indicator"			"建議的"
+
+
 
 		// Unit names
 		"guardian_unit"							"守衛者"
