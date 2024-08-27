@@ -192,7 +192,7 @@
 		"StatDesc_CritDamageReceivedScale"				"暴擊減少"
 		"StatDesc_CritDamageReceivedScale_postfix"		"%"
 		"StatDesc_StaminaCooldown"						"耐力冷卻"
-		"StatDesc_StaminaCooldown_postfix"				"s"
+		"StatDesc_StaminaCooldown_postfix"				"秒"
 		"StatDesc_StaminaRegenIncrease_prefix"			"+"
 		"StatDesc_StaminaRegenIncrease"					"耐力恢復"
 		"StatDesc_StaminaRegenIncrease_postfix"			"%"
@@ -202,8 +202,8 @@
 		"StatDesc_BulletSpeedIncrease"					"子彈速度增加"
 		"StatDesc_BulletSpeedIncrease_postfix"			"%"
 		
-		"StatDesc_WeaponRangeFalloffMin_postfix"		"m"
-		"StatDesc_WeaponRangeFalloffMax_postfix"		"m"
+		"StatDesc_WeaponRangeFalloffMin_postfix"		"公尺"
+		"StatDesc_WeaponRangeFalloffMax_postfix"		"公尺"
 
 		"StatDesc_AttackPower"							"攻擊力"
 		"StatDesc_AbilityPower"							"技能強度"
@@ -252,13 +252,13 @@
 
 		"HealAmount_label"							"治療總量"
 		"HealInterval_label"						"治療間隔"
-		"HealInterval_postfix"						"s"
+		"HealInterval_postfix"						"秒"
 		
 		"SlowPercent_label"							"減少移速"
 		"SlowPercent_postfix"							"%"
 		"movement_slow"								"減少移速"
 		"SlowDurationPerStack_label"					"每層減少移速"
-		"SlowDurationPerStack_postfix"				"s"
+		"SlowDurationPerStack_postfix"				"秒"
 
 		"DroneLifetime_label"							"無人機存在時間"
 
@@ -286,19 +286,19 @@
 		"HealRate_postfix"								"/每秒"
 
 		"Radius_label"								"範圍"
-		"Radius_postfix"								"m"
+		"Radius_postfix"								"公尺"
 
 		"InactiveRadius_label"						"未啟用範圍"
-		"InactiveRadius_postfix"						"m"
+		"InactiveRadius_postfix"						"公尺"
 
 		"ActiveRadius_label"						"啟用範圍"
-		"ActiveRadius_postfix"						"m"
+		"ActiveRadius_postfix"						"公尺"
 
 		"MaxRadius_label"								"最大範圍"
-		"MaxRadius_postfix"								"m"
+		"MaxRadius_postfix"								"公尺"
 
 		"TackleRadius_label"							"鉤爪範圍"
-		"TackleRadius_postfix"							"m"
+		"TackleRadius_postfix"							"公尺"
 
 		"MovementDamagePercent_label"					"傷害"
 		"MovementDamagePercent_postfix"					" % 每移動 256 個單位造成傷害"
@@ -379,7 +379,7 @@
 		"BonusMeleeDamage_label"						"近戰傷害"
 
 		"FuseTime_label"								"延遲時間"
-		"FuseTime_postfix"								"s"
+		"FuseTime_postfix"								"秒"
 
 		"BonusAmmoRegen_prefix"							"{s:sign}"
 		"BonusAmmoRegen_postfix"						" 每秒"
@@ -389,10 +389,10 @@
 		"BonusAmmo_postfix"								"%"
 		"BonusAmmo_label"								"子彈"
 
-		"Lifetime_postfix"								"s"
+		"Lifetime_postfix"								"秒"
 		"Lifetime_label"								"存在時間"
 
-		"Distance_postfix"								"m"
+		"Distance_postfix"								"公尺"
 		"Distance_label"								"Distance"
 
 		"ChainDamageCoeff_postfix"						"% 的子彈傷害"
@@ -531,21 +531,21 @@
 		"SlowProcChance_postfix"						"%"
 
 		"SlowDuration_label"							"減少移速持續"
-		"SlowDuration_postfix"							"s"
+		"SlowDuration_postfix"							"秒"
 
 		"PoisonDamage_label"							"Poison Damage"
 		"PoisonDuration_label"							"持續"
-		"PoisonDuration_postfix"							"s"
+		"PoisonDuration_postfix"							"秒"
 
 
 		"DebuffDuration_label"						"減益持續"
-		"DebuffDuration_postfix"						"s"
+		"DebuffDuration_postfix"						"秒"
 
 		"DotHealthPercent_label"						"流血傷害"
 		"DotHealthPercent_postfix"						"%/每秒傷害"
 		
 		"FreezeDuration_label"							"Freeze Duration"
-		"FreezeDuration_postfix"							"s"
+		"FreezeDuration_postfix"							"秒"
 
 		"CooldownReduction_prefix"						"{s:sign}"
 		"CooldownReduction_postfix"						"%"
@@ -559,7 +559,7 @@
 		"NonImbuedCooldownReduction_postfix"			"%"
 		"NonImbuedCooldownReduction_label"				"未選定技能減少冷卻"
 
-		"CooldownReductionFlat_postfix"					"s"
+		"CooldownReductionFlat_postfix"					"秒"
 		"CooldownReductionFlat_label"					"冷卻減少"
 
 		"BonusAbilityCharges_prefix"					"{s:sign}"
@@ -599,7 +599,7 @@
 		"ActiveStatusResistancePercent_label"			"減益狀態抗性"
 
 		"StatusResistanceDuration_label"				"持續"
-		"StatusResistanceDuration_postfix"				"s"
+		"StatusResistanceDuration_postfix"				"秒"
 
 		"CleavePercentage_prefix"						"{s:sign}"
 		"CleavePercentage_label"						"濺射量"
@@ -640,17 +640,17 @@
 		"MeleeLifestealPercent_postfix"					"%"
 
 		"StunDuration_label"							"眩暈時間"
-		"StunDuration_postfix"							"s"
+		"StunDuration_postfix"							"秒"
 
 		"StunDelay_label"								"眩暈延遲"
-		"StunDelay_postfix"								"s"
+		"StunDelay_postfix"								"秒"
 
 		"MinStunDuration_prefix"						""
-		"MinStunDuration_postfix"						"s"
+		"MinStunDuration_postfix"						"秒"
 		"MinStunDuration_label"							"最小眩暈時間"
 
 		"MaxStunDuration_prefix"						""
-		"MaxStunDuration_postfix"						"s"
+		"MaxStunDuration_postfix"						"秒"
 		"MaxStunDuration_label"							"最大眩暈時間"
 
 		"MeleeDamageReduction_label"					"近戰抗性"
@@ -662,12 +662,12 @@
 		"DispenserHealth_label"						"生命值消失"
 
 		"ShotRegenTime_label"							"射擊恢復時間"
-		"ShotRegenTime_postfix"							"s"
+		"ShotRegenTime_postfix"							"秒"
 
 		"MaxShots_label"								"最大射擊"
 
 		"PathLength_label"							"雷射長度"
-		"PathLength_postfix"							"m"
+		"PathLength_postfix"							"公尺"
 
 		"ChainCount_label"							"彈射次數"
 		"BonusPerChain_label"						"跳躍時傷害"
@@ -791,13 +791,13 @@
 		"AbilityLifestealPercentNonHero_postfix"		"%"
 
 		"RegenDuration_label"							"恢復持續"
-		"RegenDuration_postfix"							"s"
+		"RegenDuration_postfix"							"秒"
 
 		"SpreadDuration_label"						"Spread Duration: "
-		"SpreadDuration_postfix"						"s"
+		"SpreadDuration_postfix"						"秒"
 		
 		"EndRadius_label"								"結束範圍"
-		"EndRadius_postfix"								"m"
+		"EndRadius_postfix"								"公尺"
 
 		"BulletPercentAsBurn_label"					"Bullet Damage as Burning"
 		"BulletPercentAsBurn_postfix"					"%"
@@ -805,7 +805,7 @@
 		"ItemInitialCharges_label"					"充能"
 
 		"AuraDuration_label"							"Aura Duration"
-		"AuraDuration_postfix"							"s"
+		"AuraDuration_postfix"							"秒"
 
 		"ApproachSpeed_label"							"Project Speed"
 
@@ -827,7 +827,7 @@
 		"ActiveAbilityDamageReduction_label"			"Active Ability Dmg Red"
 		"ActiveAbilityDamageReduction_postfix"			"%"
 
-		"BonusAttackRange_postfix"						"m"
+		"BonusAttackRange_postfix"						"公尺"
 		"BonusAttackRange_label"						"子彈衰減範圍"
 
 		"BonusAttackRangePercent_prefix"				"{s:sign}"
@@ -855,7 +855,7 @@
 		"MobileResupplyRegenMultiplier_postfix"			"x"
 
 		"HealRadius_label"								"治療範圍"
-		"HealRadius_postfix"								"m"
+		"HealRadius_postfix"								"公尺"
 
 		"BulletArmorReduction_prefix"					"{s:sign}"
 		"BulletArmorReduction_postfix"					"%"
@@ -906,7 +906,7 @@
 
 		"TroopersToSummon_label"						"Troopers created"
 		"TrooperLifetime_label"						"蠟燭人隊伍存在時間"
-		"TrooperLifetime_postfix"						"s"
+		"TrooperLifetime_postfix"						"秒"
 
 		"DamagePerChain_label"						"閃電傷害"
 		
@@ -934,16 +934,16 @@
 		"TechResistReduction_postfix"					"%"
 		"DamagePulseAmount_label"						"脈衝傷害"
 		"DamagePulseInterval_label"					"脈衝間隔"
-		"DamagePulseInterval_postfix"					"s"
+		"DamagePulseInterval_postfix"					"秒"
 		"DamagePulseRadius_label"						"脈衝範圍"
-		"DamagePulseRadius_postfix"					"m"
+		"DamagePulseRadius_postfix"					"公尺"
 
 		"CloseRangeBonusDamagePercent_prefix"			"+"
 		"CloseRangeBonusDamagePercent_label"			"子彈傷害"
 		"CloseRangeBonusDamagePercent_postfix"			"%"
 
 		"CloseRangeBonusDamageRange_label"				"近距離"
-		"CloseRangeBonusDamageRange_postfix"			"m"
+		"CloseRangeBonusDamageRange_postfix"			"公尺"
 
 		"CloseRangeBonusWeaponPower_prefix"				"{s:sign}"
 		"CloseRangeBonusWeaponPower_label"				"子彈傷害"
@@ -963,7 +963,7 @@
 		"SpiritStrike_conditional"						"近戰擊中後"
 
 		"LongRangeBonusWeaponPowerMinRange_label"		"距離之外"
-		"LongRangeBonusWeaponPowerMinRange_postfix"		"m"
+		"LongRangeBonusWeaponPowerMinRange_postfix"		"公尺"
 
 		"LongRangeBonusWeaponPower_prefix"				"{s:sign}"
 		"LongRangeBonusWeaponPower_label"				"子彈傷害"
@@ -983,7 +983,7 @@
 		"NonImbuedTechRangeMultiplier_postfix"			"%"
 
 		"ThrowRange_label"								"投擲範圍"
-		"ThrowRange_postfix"							"m"
+		"ThrowRange_postfix"							"公尺"
 
 		"TechRadiusMultiplier_prefix"					"{s:sign}"
 		"TechRadiusMultiplier_label"					"範圍"
@@ -999,10 +999,10 @@
 
 		"TechRangeAdditive_prefix"						"{s:sign}"
 		"TechRangeAdditive_label"						"技能範圍"
-		"TechRangeAdditive_postfix"						"m"
+		"TechRangeAdditive_postfix"						"公尺"
 
 		"WindUpTime_label"								"Windup Time"
-		"WindUpTime_postfix"								"s"
+		"WindUpTime_postfix"								"秒"
 
 		"HealthDrainedPerSecond_label"				"Health Drain"
 		"HealthDrainedPerSecond_postfix"				" per second"
@@ -1017,7 +1017,7 @@
 		"ZipLineSpeedPercent_postfix"					"%"
 		
 		"ZiplineJumpBonusDuration_label"					"Jump Off Duration"
-		"ZiplineJumpBonusDuration_postfix"					"s"
+		"ZiplineJumpBonusDuration_postfix"					"秒"
 
 		"ZiplineJumpBonusMoveSpeed_label"					"Jump Off Speed Bonus"
 		"ZiplineJumpBonusMoveSpeed_postfix"					"m/s"
@@ -1053,7 +1053,7 @@
 		"MaxStacks_label"								"最高層數"
 
 		"TimeToMaxStacks_label"							"Time To Max Stacks"
-		"TimeToMaxStacks_postfix"						"s"
+		"TimeToMaxStacks_postfix"						"秒"
 
 		"DamagePerHit_label"							"Damage Per Hit"
 
@@ -1071,27 +1071,27 @@
 		"SilenceDuration_label"							"Silence Duration"
 		"SilenceDuration_postfix"						" seconds"
 
-		"Range_postfix"									"m"
+		"Range_postfix"									"公尺"
 		"Range_label"									"Range"
 
 		"MinRange_label"								"最小距離"
-		"MinRange_postfix"								"m"
+		"MinRange_postfix"								"公尺"
 
 		"ConeRadius_label"							"Lightning Distance"
-		"ConeRadius_postfix"							"m"
+		"ConeRadius_postfix"							"公尺"
 		"ConeAngle_label"						"Cone Angle"
 		"ConeAngle_postfix"						" deg"
 
 		"ShockRadius_label"							"範圍"
-		"ShockRadius_postfix"						"m"
+		"ShockRadius_postfix"						"公尺"
 
 		"KnockDownRadius_label"						"Knockdown Radius"
-		"KnockDownRadius_postfix"						"m"
+		"KnockDownRadius_postfix"						"公尺"
 
-		"BurnDuration_postfix"							"s"
+		"BurnDuration_postfix"							"秒"
 		"BurnDuration_label"							"燃燒持續"
 
-		"AbilityCooldown_postfix"						"s"
+		"AbilityCooldown_postfix"						"秒"
 		"AbilityCooldown_label"						"冷卻時間"
 
 		"TechCooldown_postfix"						"%"
@@ -1103,27 +1103,27 @@
 		"HealingPercent_postfix"						"%"
 
 		"AbilityCooldownBetweenCharge_label"			"Charge Delay"
-		"AbilityCooldownBetweenCharge_postfix"			"s"
+		"AbilityCooldownBetweenCharge_postfix"			"秒"
 
-		"AbilityDuration_postfix"						"s"
+		"AbilityDuration_postfix"						"秒"
 		"AbilityDuration_label"						"持續"
 
-		"TetherDuration_postfix"						"s"
+		"TetherDuration_postfix"						"秒"
 		"TetherDuration_label"						"拴繩持續"
 
-		"TetherRadius_postfix"						"m"
+		"TetherRadius_postfix"						"公尺"
 		"TetherRadius_label"						"Tether Radius"
 
-		"AbilityCastRange_postfix"						"m"
+		"AbilityCastRange_postfix"						"公尺"
 		"AbilityCastRange_label"						"施法距離"
 
-		"AbilityCastRangeMinimum_postfix"				"m"
+		"AbilityCastRangeMinimum_postfix"				"公尺"
 		"AbilityCastRangeMinimum_label"					"Range Minimum"
 
-		"AbilityChannelTime_postfix"					"s"
+		"AbilityChannelTime_postfix"					"秒"
 		"AbilityChannelTime_label"					"持續施法時間"
 
-		"AbilityCastDelay_postfix"					"s"
+		"AbilityCastDelay_postfix"					"秒"
 		"AbilityCastDelay_label"					"Cast Delay"
 
 		"AbilityCharges_label"						"充能"
@@ -1142,36 +1142,36 @@
 		"ImbuedBonusDuration_label"						"選定技能額外持續"
 		"ImbuedBonusDuration_postfix"					"%"
 
-		"MissCooldown_postfix"							"s"
+		"MissCooldown_postfix"							"秒"
 		"MissCooldown_label"							"Cooldown on miss"
 
 		"ShockDelay_label"							"眩暈前延遲"
-		"ShockDelay_postfix"							"s"
+		"ShockDelay_postfix"							"秒"
 
 		"ArmTime_label"									"部署時間"
-		"ArmTime_postfix"								"s"
+		"ArmTime_postfix"								"秒"
 
 		"ExplodeDelay_label"							"爆炸延遲"
-		"ExplodeDelay_postfix"							"s"
+		"ExplodeDelay_postfix"							"秒"
 		
 		"BuildUpPercentPerHit_label"					"每次擊中堆疊量"
 		"BuildUpPercentPerHit_postfix"					"%"
 
 		"FreezeBuildUpTime_label"						"凍結堆疊持續"
-		"FreezeBuildUpTime_postfix"						"s"
+		"FreezeBuildUpTime_postfix"						"秒"
 
 		"CritStackInterval_label"						"Crit Charge Delay"
-		"CritStackInterval_postfix"						"s"
+		"CritStackInterval_postfix"						"秒"
 
 		"TurretLifetime_label"						"存在時間"
-		"TurretLifetime_postfix"						"s"
+		"TurretLifetime_postfix"						"秒"
 
 		"CritCoatingDamagePercent_prefix"				"{s:sign}"
 		"CritCoatingDamagePercent_label"				"Crit Coating Crit Bonus"
 		"CritCoatingDamagePercent_postfix"				"%"
 
 		"ExplosionCoatingRadius_label"				"Explosion Coating Radius"
-		"ExplosionCoatingRadius_postfix"				"m"
+		"ExplosionCoatingRadius_postfix"				"公尺"
 
 		"SlowCoatingProcChance_label"					"Slowing Coating Chance"
 		"SlowCoatingProcChance_postfix"					"%"
@@ -1183,7 +1183,7 @@
 		"SlowCoatingDuration_postfix"					""
 
 		"MaxLifetime_label"							"存在時間"
-		"MaxLifetime_postfix"							"s"
+		"MaxLifetime_postfix"							"秒"
 
 		"ZipLineArrowLifetime_label"					"Arrow Flight Time"
 		"ZipLineArrowLifetime_postfix"					""
@@ -1204,7 +1204,7 @@
 		"DistanceBuff_label"							"Increase at Max Range"
 
 		"FullDistance_label"							"Max Range: "
-		"FullDistance_postfix"							"m"
+		"FullDistance_postfix"							"公尺"
 
 		"ProcDamage_label"								"魂力傷害"
 		"ProcDamage_postfix"							""
@@ -1224,7 +1224,7 @@
 		"DeathTaxHeal_label"							"Health Per Kill"
 
 		"ChainRadius_label"							"彈射範圍"
-		"ChainRadius_postfix"							"m"
+		"ChainRadius_postfix"							"公尺"
 		
 		"LaunchDamage_postfix"							""
 		"LaunchDamage_label"							"Knockback Damage"
@@ -1233,16 +1233,16 @@
 		"ImpaleDamage_label"							"Impale Damage"
 
 		"ImpaleDuration_label"						"Impale Duration"
-		"ImpaleDuration_postfix"						"s"
+		"ImpaleDuration_postfix"						"秒"
 
 		"ExplosionRadius_label"						"爆炸範圍"
-		"ExplosionRadius_postfix"						"m"
+		"ExplosionRadius_postfix"						"公尺"
 
 		"MinExplosionRadius_label"					"最小爆炸範圍"
-		"MinExplosionRadius_postfix"					"m"
+		"MinExplosionRadius_postfix"					"公尺"
 
 		"MaxExplosionRadius_label"					"最大爆炸範圍"
-		"MaxExplosionRadius_postfix"					"m"
+		"MaxExplosionRadius_postfix"					"公尺"
 
 		"ExplosionDamage_label"						"爆炸傷害"
 		"ExplosionDamage_postfix"						""
@@ -1260,17 +1260,17 @@
 		"EMPBuildupPercentPerShot_postfix"				"%"
 
 		"InvisFadeToDuration_label"						"隱身時間"
-		"InvisFadeToDuration_postfix"						"s"
+		"InvisFadeToDuration_postfix"						"秒"
 
 		"InvisMoveSpeedMod_prefix"					"{s:sign}"
 		"InvisMoveSpeedMod_postfix"					"m/s"
 		"InvisMoveSpeedMod_label"					"隱身疾跑速度"
 
 		"MeleeAttackLength_label"						"Melee Range"
-		"MeleeAttackLength_postfix"						"m"
+		"MeleeAttackLength_postfix"						"公尺"
 
 		"ArmingDuration_label"						"延時"
-		"ArmingDuration_postfix"						"s"
+		"ArmingDuration_postfix"						"秒"
 
 		"AirJumpVerticalSpeedPercent_prefix"			"{s:sign}"
 		"AirJumpVerticalSpeedPercent_label"			"Air Jump Vertical Speed"
@@ -1283,7 +1283,7 @@
 		"ReflectDamage_postfix"							"%"
 
 		"ImmobilizeDuration_label"					"束縛持續"
-		"ImmobilizeDuration_postfix"					"s"
+		"ImmobilizeDuration_postfix"					"秒"
 
 		"AirControlPercent_label"					"Air Control"
 		"AirControlPercent_prefix"							"{s:sign}"
@@ -1313,13 +1313,13 @@
 		"TechCleaveTargetCap_postfix"					""
 		
 		"TechCleaveRadius_label"						"Cleave Radius"
-		"TechCleaveRadius_postfix"						"m"
+		"TechCleaveRadius_postfix"						"公尺"
 
 		"InitialRadius_label"							"初始範圍"
-		"InitialRadius_postfix"							"m"
+		"InitialRadius_postfix"							"公尺"
 
 		"BlurVisionRange_label"							"Blur Vision Range"
-		"BlurVisionRange_postfix"						"m"
+		"BlurVisionRange_postfix"						"公尺"
 		
 		"ExplosiveShotRadiusPercent_label"				"Explosive Shot Radius Increase"
 		"ExplosiveShotRadiusPercent_postfix"			"%"
@@ -1330,47 +1330,47 @@
 		"FireRatePerCharge_postfix"						"%"
 		
 		"ChargeDuration_label"							"Charge Duration"
-		"ChargeDuration_postfix"						"s"
+		"ChargeDuration_postfix"						"秒"
 
 		"MaxCharges_label"								"Max Charges"
 
 		"ExtraBladeDamage_label"						"Extra Damage per Charge"
 
 		"WaveStunDuration_label"						"Disarm/EMP Duration"
-		"WaveStunDuration_postfix"						"s"
+		"WaveStunDuration_postfix"						"秒"
 
 		"WaveLifetime_label"							"Projectile Lifetime"
-		"WaveLifetime_postfix"							"s"
+		"WaveLifetime_postfix"							"秒"
 
 		"LockedRadius_label"							"Chain Length"
-		"LockedRadius_postfix"							"m"
+		"LockedRadius_postfix"							"公尺"
 
 		"BoostDuration_label"							"Ally Move Speed Duration"
-		"BoostDuration_postfix"							"s"
+		"BoostDuration_postfix"							"秒"
 
 		"ShieldPercentage_label"						"Shield Max Health %"
 		"ShieldPercentage_postfix"						"% Max Health"
 
 		"ShieldDuration_label"							"Shield Duration"
-		"ShieldDuration_postfix"						"s"
+		"ShieldDuration_postfix"						"秒"
 
 		"SlowRadius_label"								"Slow Radius"
-		"SlowRadius_postfix"							"m"
+		"SlowRadius_postfix"							"公尺"
 		
 		"SmokeDuration_label"							"Smoke Duration"
-		"SmokeDuration_postfix"							"s"
+		"SmokeDuration_postfix"							"秒"
 
 		"SmokeRadius_label"								"Smoke Radius"
-		"SmokeRadius_postfix"							"m"
+		"SmokeRadius_postfix"							"公尺"
 
 		"ChainDuration_label"							"連結持續"
-		"ChainDuration_postfix"							"s"
+		"ChainDuration_postfix"							"秒"
 
 		"InfectDuration_label"							"Infect Duration"
-		"InfectDuration_postfix"						"s"
+		"InfectDuration_postfix"						"秒"
 
 		"CloudDuration_label"							"Cloud Lifetime"
-		"CloudDuration_postfix"							"s"
+		"CloudDuration_postfix"							"秒"
 
 		"TimeSlowPercent_label"							"Time Slow"
 		"TimeSlowPercent_postfix"						"%"
@@ -1395,7 +1395,7 @@
 		"InfectionBonusDPS_label"						"Infection Bonus DPS"
 
 		"DecoyLifetime_prefix"							""
-		"DecoyLifetime_postfix"							"s"
+		"DecoyLifetime_postfix"							"秒"
 		"DecoyLifetime_label"							"Decoy Lifetime"
 
 		"Health_prefix"									""
@@ -1407,7 +1407,7 @@
 		"Grenades_label"					"Extra Bombs"
 
 		"SearchRadius_label"				"Search Radius"
-		"SearchRadius_postfix"				"m"
+		"SearchRadius_postfix"				"公尺"
 
 		"GrenadesPerVolley_label"			"Bombs Per Volley"
 
@@ -1415,10 +1415,10 @@
 		"BulletArmorPenetration_postfix"	""
 
 		"RampDuration_label"						"Ramp Duration"
-		"RampDuration_postfix"						"s"
+		"RampDuration_postfix"						"秒"
 
 		"EndDuration_label"							"Final Duration"
-		"EndDuration_postfix"						"s"
+		"EndDuration_postfix"						"秒"
 
 		"FinalSlow_label"							"Slowest Speed"		
 		"FinalSlow_postfix"							"m/s"		
@@ -1428,20 +1428,20 @@
 		"WeaponPowerPerStack_postfix"				"%"
 		"DamageToStack_label"						"傷害疊加一層"
 		"DamageDuration_label"						"持續"
-		"DamageDuration_postfix"						"s"
+		"DamageDuration_postfix"						"秒"
 
 		"RegenWhileInvisible_label"				"Health Regen while Invisible"
 		"RegenWhileInvisible_prefix"			"+"
 		"RegenWhileInvisible_postfix"			""
 
 		"DamageRadius_label"						"Damage Radius"
-		"DamageRadius_postfix"						"m"
+		"DamageRadius_postfix"						"公尺"
 
 		"RestoreDelay_label"							"Restore Delay"
-		"RestoreDelay_postfix"							"s"
+		"RestoreDelay_postfix"							"秒"
 
 		"RegenerationRate_label"					"Restore Time"
-		"RegenerationRate_postfix"					"s"
+		"RegenerationRate_postfix"					"秒"
 
 		"BulletShieldMaxHealth_prefix"				"{s:sign}"
 		"BulletShieldMaxHealth_label"				"子彈護盾生命值"
@@ -1463,7 +1463,7 @@
 		"MaxDPS_label"						"最高每秒傷害"
 		"DamageOnHit_label"					"Damage on Hit"
 		"ProcCooldown_label"					"最高頻率"
-		"ProcCooldown_postfix"				"s"
+		"ProcCooldown_postfix"				"秒"
 
 		"WeaponPowerPerEnemy_label"			"Courage per Enemy"
 		"WeaponPowerPerEnemy_prefix"			"+"
@@ -1473,7 +1473,7 @@
 		"FireRatePerEnemy_postfix"			"%"
 
 		"AssaultDuration_label"				"Air Attack Duration"
-		"AssaultDuration_postfix"				"s"
+		"AssaultDuration_postfix"				"秒"
 
 		"AssaultFireRate_label"				"Air Attack Fire Rate"
 		"AssaultFireRate_prefix"				"{s:sign}"
@@ -1486,7 +1486,7 @@
 		"ActiveBonusFireRate_label"			"射速"
 		"ActiveBonusFireRate_postfix"		"%"
 		"SurgeDelay_label"					"延遲"
-		"SurgeDelay_postfix"				"s"
+		"SurgeDelay_postfix"				"秒"
 
 		"upgrade_fervor/modifier_fervor/modifier_fervor_damage_stack"	"狂熱層數"
 		"upgrade_fervor/modifier_fervor/modifier_fervor_bonuses"	"狂熱獎勵"
@@ -1504,11 +1504,11 @@
 		"TechDamagePercent_Label"	"傷害"
 		"TechDamagePercent_Postfix"	"%"
 		"DelayDuration_Label"	"延遲時間"
-		"DelayDuration_Postfix"	"s"
+		"DelayDuration_Postfix"	"秒"
 		"MinimumDamage_Label"	"最小傷害"
 
 		"EMPDuration_label"				"減益持續"
-		"EMPDuration_postfix"			"s"
+		"EMPDuration_postfix"			"秒"
 
 		"BonusBulletDamageToEMPTargets_label" "對沉默目標敵人子彈傷害"
 		"BonusBulletDamageToEMPTargets_prefix" "+"
@@ -1525,17 +1525,17 @@
 
 		"RespawnBonusHealth_label"							"重生額外生命值"
 		"RespawnBonusHealthDuration_label"					"重生額外生命值持續"
-		"RespawnBonusHealthDuration_postfix"				"s"
+		"RespawnBonusHealthDuration_postfix"				"秒"
 		"upgrade_rebirth/respawn_bonus_health_modifier"		"重生額外生命值"
 
 		"DeathImmunityDuration_label"				"死亡免疫持續"
-		"DeathImmunityDuration_postfix"			"s"
+		"DeathImmunityDuration_postfix"			"秒"
 		"DeathImmunityPulseRateMultiplier_label"		"脈衝頻率"
 		"DeathImmunityPulseRateMultiplier_postfix"	"x"
 		"modifier_cheat_death_immunity"			"死亡免疫"
 
 		"StasisRadius_label"				"範圍"
-		"StasisRadius_postfix"				"m"
+		"StasisRadius_postfix"				"公尺"
 
 		"upgrade_quarantine/modifier_citadel_quarantine"	"隔離"
 
@@ -1556,10 +1556,10 @@
 		"modifier_upgrade_siphon_buff"		"虹吸"
 		"modifier_upgrade_siphon_debuff"		"生命值竊取"
 		"SiphonRadius_label"					"啟用範圍"
-		"SiphonRadius_postfix"				"m"
+		"SiphonRadius_postfix"				"公尺"
 
 		"TechResistDuration_label"			"持續"
-		"TechResistDuration_postfix"			"s"
+		"TechResistDuration_postfix"			"秒"
 
 		"BleedTechResist_label"				"魂力抗性"
 		"BleedTechResist_prefix"				"{s:sign}"
@@ -1567,17 +1567,17 @@
 
 		"StackProcDamage_label"			"爆發傷害"
 		"StackDuration_label"				"疊加持續"
-		"StackDuration_postfix"			"s"
+		"StackDuration_postfix"			"秒"
 
 		"HeadShotBonusDamage_prefix"		"{s:sign}"
 		"HeadShotBonusDamage_label"			"爆頭額外傷害"
 		"HeadShotDebuffDuration_label"		"持續"
-		"HeadShotDebuffDuration_postfix"	"s"
+		"HeadShotDebuffDuration_postfix"	"秒"
 		"HeadShotCooldown_label"			"冷卻時間"
-		"HeadShotCooldown_postfix"			"s"
+		"HeadShotCooldown_postfix"			"秒"
 		"upgrade_leveler/headshot_cooldown_modifier"	"爆頭額外冷卻時間"
 		"ActiveChainDuration_label"			"連結持續"
-		"ActiveChainDuration_postfix"		"s"
+		"ActiveChainDuration_postfix"		"秒"
 		"ActiveBulletArmorReduction_label"	"子彈抗性減少"
 
 		"modifier_galvanic_storm"				"Galvanic 風暴"
@@ -1586,10 +1586,10 @@
 		"BuildupDamage_label"					"疊加後傷害"
 		
 		"ShockBuildupDuration_label"			"電擊疊加持續"
-		"ShockBuildupDuration_postfix"		"s"
+		"ShockBuildupDuration_postfix"		"秒"
 
 		"GalvanicProcDuration_label"			"減少移速持續"
-		"GalvanicProcDuration_postfix"		"s"
+		"GalvanicProcDuration_postfix"		"秒"
 
 		"FireRateSlow_label"					"減少射速"
 		"FireRateSlow_prefix"					""
@@ -1610,13 +1610,13 @@
 		"BonusDamagePerHero_postfix"			"%"
 
 		"DebuffDelay_label"					"減益延遲"
-		"DebuffDelay_postfix"					"s"
+		"DebuffDelay_postfix"					"秒"
 
 		"ArmorLossPerHit_label"				"每次命中失去抗性"
 		"ArmorLossPerHit_postfix"				"%"
 
 		"StackLossFrequency_label"			"抗性失去頻率"
-		"StackLossFrequency_postfix"			"s"
+		"StackLossFrequency_postfix"			"秒"
 
 		"MaxBulletResist_label"				"最大子彈抗性"
 		"MaxBulletResist_postfix"				"%"
@@ -1642,7 +1642,7 @@
 		"modifier_power_shard_bonus"		"回聲加成"
 
 		"BonusDuration_label"				"加成持續"
-		"BonusDuration_postfix"			"s"
+		"BonusDuration_postfix"			"秒"
 		"superior_stamina_buff"			"額外魂力"
 
 		"HighGroundBonusWeaponPower_prefix"	"{s:sign}"
@@ -1661,7 +1661,7 @@
 		"ImbuedTechPower_label"						"選定技能額外魂力"
 
 		"MovementSpeedBonusDuration_label"			 "移速持續"
-		"MovementSpeedBonusDuration_postfix"		"s"
+		"MovementSpeedBonusDuration_postfix"		"秒"
 
 		"EnemyLifeThreshold_label"					"閾值"
 		"EnemyLifeThreshold_postfix"					"%"
@@ -1699,23 +1699,23 @@
 
 		"ActiveBulletShieldHealth_label"		"活力護盾生命值"
 		"ActiveBulletShieldDuration_label"		"活力護盾持續"
-		"ActiveBulletShieldDuration_postfix"		"s"
+		"ActiveBulletShieldDuration_postfix"		"秒"
 		"PassiveShieldCooldown_label"			"冷卻時間"
-		"PassiveShieldCooldown_postfix"			"s"
+		"PassiveShieldCooldown_postfix"			"秒"
 		"active_bullet_shield"					"子彈護盾"
 
 		"SlamDownRadius_label"					"踩踏範圍"
-		"SlamDownRadius_postfix"				"m"
+		"SlamDownRadius_postfix"				"公尺"
 
 		"StealDuration_label"					"生命竊取持續"
-		"StealDuration_postfix"					"s"
+		"StealDuration_postfix"					"秒"
 
 		"VeilCross_conditional"					"面紗行者"
 		"modifier_veil_walker_triggered"			"面紗行者射速"
 		"modifier_veil_walker_stealth"			"面紗行者隱身"
 
 		"InvisDuration_label"						"隱形時間"
-		"InvisDuration_postfix"					"s"
+		"InvisDuration_postfix"					"秒"
 
 		"SlideScale_label"						"滑行距離"
 		"SlideScale_postfix"						"%"
@@ -1748,14 +1748,14 @@
 		"BulletShieldOnCast_label"						"子彈護盾"
 		"TechShieldOnCast_label"						"魂力護盾"
 		"BulletShieldDuration_label"					"持續"
-		"BulletShieldDuration_postfix"					"s"
+		"BulletShieldDuration_postfix"					"秒"
 
 		
 		"BloodPoolDPS_label"							"血池每秒傷害"
 		"BloodPoolDuration_label"						"血池持續"
-		"BloodPoolDuration_postfix"						"s"
+		"BloodPoolDuration_postfix"						"秒"
 		"BloodPoolRadius_label"							"血池範圍"
-		"BloodPoolRadius_postfix"						"m"
+		"BloodPoolRadius_postfix"						"公尺"
 
 		"LowHealthThreshold_label"						"生命閾值"
 		"LowHealthThreshold_postfix"					"%"
@@ -1766,11 +1766,11 @@
 		"LowHealthWeaponPowerPercent_postfix"			"%"
 
 		"BuildupDuration_label"							"疊加衰減時間"
-		"BuildupDuration_postfix"						"s"
+		"BuildupDuration_postfix"						"秒"
 		"BuildupExpire_label"							"疊加衰減"
-		"BuildupExpire_postfix"							"s"
+		"BuildupExpire_postfix"							"秒"
 		"BuildupDecayDelay_label"						"疊加衰減時間"
-		"BuildupDecayDelay_postfix"						"s"
+		"BuildupDecayDelay_postfix"						"秒"
 		//"BuildupRate_label"							"每擊中疊加"
 		//"BuildupRate_postfix"							""
 		"BuildupPerShot_label"							"每擊中疊加"
@@ -1793,7 +1793,7 @@
 		"MaxClipBonus_label"				"最大彈匣加成"
 
 		"SummonDuration_label"					"召喚持續"
-		"SummonDuration_postfix" 				"s"
+		"SummonDuration_postfix" 				"秒"
 		//-----------------------------------------------------------------------------
 		// END Ability Properties desc
 		//-----------------------------------------------------------------------------

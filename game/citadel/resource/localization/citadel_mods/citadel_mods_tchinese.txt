@@ -28,7 +28,7 @@
 		"AmmoPerSoul_label"					"每個魂靈球彈藥"
 		"SpiritPowerPerSoul_label"			"每個魂靈球魂力"
 		"AmmoScavengerDuration_label"			"持續時間"
-		"AmmoScavengerDuration_postfix"		"s"
+		"AmmoScavengerDuration_postfix"		"秒"
 
 		//Stabilizer
 		"upgrade_stabilizer_desc"		"Removes the <span class=\"highlight\">movement speed penalty</span> while shooting, and increases <span class=\"highlight\">bullet speed</span>."
@@ -45,7 +45,7 @@
 		"BuffDamageMult_label"							"電擊倍率"
 		"BuffDamageMult_postfix"							"x"
 		"GalvanicBuffDuration_label"						"持續"
-		"GalvanicBuffDuration_postfix"					"s"
+		"GalvanicBuffDuration_postfix"					"秒"
 
 		//Fire Rate
 		"upgrade_attack_speed_1_desc"	"增加你的 <span class=\"highlight\">射速</span>。"
@@ -91,7 +91,7 @@
 		"Detained"	"Detained"
 		"detention_immune"		"Detention Immune"
 		"ImmunityDuration_label"		"Immunity Duration"
-		"ImmunityDuration_postfix"	"s"
+		"ImmunityDuration_postfix"	"秒"
 
 		//Leveler
 		"upgrade_leveler_active_desc"	"Applies a <span class=\"highlight\">tether</span> to the target and reduces the <span class=\"highlight\">bullet resist</span> of both <span class=\"highlight\">you and them</span>."
@@ -122,10 +122,10 @@
 		//Warp Stone
 		"upgrade_warp_stone_desc"	"使用後向瞄準的地方<span class=\"highlight\">傳送</span> 一小段距離，獲得額外 <span class=\"highlight\">物理抗性</span>。"
 		"WarpStoneRange_label"		"傳送距離"
-		"WarpStoneRange_postfix"		"m"
+		"WarpStoneRange_postfix"		"公尺"
 		"modifier_warp_stone_caster"	"傳送符石"
 		"CasterBuffDuration_label"	"增益持續時間"
-		"CasterBuffDuration_postfix"	"s"
+		"CasterBuffDuration_postfix"	"秒"
 		"CasterSlowPercent_label"		"自我減速"
 		"CasterSlowPercent_postfix"	"%"
 
@@ -176,7 +176,7 @@
 		"RicochetDamagePercent_label"					"跳彈傷害"
 		"RicochetDamagePercent_postfix"					"%"
 		"RicochetRadius_label"							"跳彈範圍"
-		"RicochetRadius_postfix"							"m"
+		"RicochetRadius_postfix"							"公尺"
 
 		//Height Advantage
 		"upgrade_height_advantage_desc"	"Gain additional <span class=\"highlight_weapon\">{s:HighGroundBonusWeaponPower}% Weapon Damage</span> when attacking targets that are <span class=\"highlight\">below you</span>."
@@ -277,7 +277,7 @@
 		"BonusReloadSpeed_label"						"Reload Time"
 		"BonusReloadSpeed_Postfix"						"%"		
 		"OverdriveClipDuration_label"					"Clip Duration"
-		"OverdriveClipDuration_Postfix"					"s"		
+		"OverdriveClipDuration_Postfix"					"秒"		
 		"modifier_item_weapon_power_for_health"		"Overdrive"
 
 		//Burst Fire Actuator
@@ -297,7 +297,7 @@
 		"BonusMeleeSpeed_prefix"						"+"
 		"BonusMeleeSpeed_postfix"						"%"
 		"DisarmDuration_label"							"持續時間"
-		"DisarmDuration_postfix"						"s"
+		"DisarmDuration_postfix"						"秒"
 
 		//Belt-Fed Magazine
 		"upgrade_belt_fed_magazine_desc"				"你的武器配備了一個<span class=\"highlight\">更大容量的彈鏈</span>，但這需要<span class=\"isNegative\">一段預熱時間</span>，初始射速較慢，隨著預熱時間的推移射速會逐漸提升。"
@@ -341,7 +341,7 @@
 		"BaseAttackDamagePercentAtMaxDuration_label"		"最大增加傷害"
 		"BaseAttackDamagePercentAtMaxDuration_postfix"		"%"
 		"ShootDurationForMax_label"						"最大傷害所需時間"
-		"ShootDurationForMax_postfix"							"s"
+		"ShootDurationForMax_postfix"							"秒"
 		
 		//Escalating Resilience
 		"upgrade_reinforcing_casings_desc"    "擊中敵方英雄時暫時獲得可疊加的 <span class=\"highlight\">物理抗性</span> 。 <span class=\"highlight\">每次射擊擊中可以獲得一層。</span>"
@@ -351,7 +351,7 @@
 		"BulletResistPerStack_label"				"每層可獲得物理抗性"
 		"BulletResistPerStack_postfix"			"%"
 		"BulletResistDuration_label"				"每層持續時間"
-		"BulletResistDuration_postfix"			"s"
+		"BulletResistDuration_postfix"			"秒"
 
 		//Lucky Shot
 		"upgrade_critshot_desc"				"你的子彈有機率造成 <span class=\"highlight\">額外傷害</span> 以及 <span class=\"highlight\">減少移速</span> 。"
@@ -388,7 +388,7 @@
 		"upgrade_escalating_exposure_desc"	"當對目標敵方造成 <span class=\"highlight\">魂力傷害</span> 時 施加 <span class=\"highlight\">一層魂力傷害增幅</span> 增加你對他們造成的魂力傷害。第一次施加惡化暴露觸發二次。"
 		"upgrade_escalating_exposure/modifier_proc_watcher/modifier_debuff"		"減少魂力抗性"
 		"EscalatingExposureProcCooldown_label"	"每個單位最高觸發頻率"
-		"EscalatingExposureProcCooldown_postfix"	"s"
+		"EscalatingExposureProcCooldown_postfix"	"秒"
 		"EscalatingExposureTechArmorDamageReduction_label"	"魂力傷害減少魂力抗性"
 		"EscalatingExposureTechArmorDamageReduction_postfix"	"%"
 
@@ -474,16 +474,16 @@
 		"MagicAmp_label"						"抗性減少"
 		"MagicAmp_postfix"					"%"
 		"WitheringWhipDisarmDuration_label"	"繳械持續時間"
-		"WitheringWhipDisarmDuration_postfix"	"s"
+		"WitheringWhipDisarmDuration_postfix"	"秒"
 		"SpiritPower_label"					"魂力"
 		"SpiritPower_prefix"					"+"
 
 		//Ethereal Shift
 		"upgrade_self_bubble_desc"			"使用後在持續時間內<span class=\"highlight\">無敵</span>，在此期間，你不能移動或執行任何操作。當效果結束 你會獲得<span class=\"highlight\">裝填彈匣</span>以及獲得 <span class=\"highlight\">額外魂力</span>。"
 		"ShiftingVeilDuration_label"			"無敵持續"
-		"ShiftingVeilDuration_postfix"		"s"
+		"ShiftingVeilDuration_postfix"		"秒"
 		"BonusSpiritDuration_label"			"魂力加成持續時間"
-		"BonusSpiritDuration_postfix"			"s"
+		"BonusSpiritDuration_postfix"			"秒"
 		"modifier_shifting_veil_buff"			"飄渺護罩"
 		"shifting_veil_bonus_spirit"			"額外魂力"
 		"modifier_citadel_bubble"				"飄渺護罩"
@@ -641,7 +641,7 @@
 		"SaviorBulletShieldHealth_label"		"子彈護盾" 
 		"SaviorMagicShieldHealth_label"		"魂力護盾"
 		"BuffDuration_label"					"持續時間"
-		"BuffDuration_postfix"				"s"
+		"BuffDuration_postfix"				"秒"
 
 		//Restorative Locket
 		"upgrade_restorative_locket_passive_desc"		"當敵人在距離你 {s:Radius}m 範圍內使用技能時，儲存一個恢復層數。"
@@ -736,14 +736,14 @@
 		//Rebirth
 		"upgrade_personal_rejuvenator_desc"		"Respawns the hero at the spot they died."
 		"RespawnDelay_label"							"Respawn Delay"
-		"RespawnDelay_postfix"						"s"
+		"RespawnDelay_postfix"						"秒"
 
 		//Phantom Strike
 		"upgrade_phantom_strike_desc"			"選定一個敵方英雄目標，使用後<span class=\"highlight\">傳送</span>敵人目標跟前，造成 <span class=\"highlight\">魂力傷害</span>並且施加<span class=\"highlight\">減少移速和繳械</span>。"
 		"BarrierDuration_label"					"護盾持續"
-		"BarrierDuration_postfix"				"s"
+		"BarrierDuration_postfix"				"秒"
 		"PhantomStrikeDebuffDuration_label"		"繳械和減速持續"
-		"PhantomStrikeDebuffDuration_postfix"		"s"
+		"PhantomStrikeDebuffDuration_postfix"		"秒"
 		"modifier_phantom_strike_bulletshield"		"子彈護盾"
 
 		//Soul Rebirth
@@ -769,7 +769,7 @@
 		//Metal Skin
 		"upgrade_metal_skin_desc"						"使用後在持續時間內<span class=\"highlight\">對近戰傷害和子彈傷害免疫</span>"
 		"AbilityApplyDelay_label"						"持續時間"
-		"AbilityApplyDelay_postfix"						"s"
+		"AbilityApplyDelay_postfix"						"秒"
 		"modifier_citadel_metal_skin"								"金屬皮膚"
 
 		//Regenerative Armor
@@ -847,11 +847,11 @@
 		"AmbushBonusFireRate_label"					"影襲 射速"
 		"AmbushBonusFireRate_postfix"					"%"
 		"AmbushDuration_label"						"影襲 持續時間"
-		"AmbushDuration_postfix"						"s"
+		"AmbushDuration_postfix"						"秒"
 		"StealthDuration_label"						"隱身 持續時間"
-		"StealthDuration_postfix"						"s"
+		"StealthDuration_postfix"						"秒"
 		"SpottedRadius_label"						"破隱距離"
-		"SpottedRadius_postfix"						"m"
+		"SpottedRadius_postfix"						"公尺"
 		"modifier_aoe_smoke_bomb"					"煙霧"
 		"upgrade_aoe_smoke_bomb/modifier_invis"														"隱身中"
 
@@ -883,7 +883,7 @@
 		"upgrade_disarm_desc"			"Fires a projectile which reduces the <span class=\"highlight\">Fire Rate</span> of the target and <span class=\"highlight\">steals Spirit</span>."
 		"SpiritSteal_label"				"Spirit Power Steal"
 		"SpiritStealDuration_label"		"Spirit Power Steal Duration"
-		"SpiritStealDuration_postfix"	"s"
+		"SpiritStealDuration_postfix"	"秒"
 		"modifier_citadel_active_disarm_spirit_steal"	"Drain Will"
 
 		//Reactive Barrier
@@ -892,7 +892,7 @@
 		"VexBarrierBulletMaxHealth_label"	"子彈護盾生命值"
 		"VexBarrierTechMaxHealth_label"		"魂力護盾生命值"
 		"VexBarrierShieldDuration_label"    "持續時間"
-		"VexBarrierShieldDuration_postfix"	"s"
+		"VexBarrierShieldDuration_postfix"	"秒"
 
 
 
