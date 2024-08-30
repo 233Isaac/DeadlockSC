@@ -1631,7 +1631,7 @@
 		"citadel_settings_abilitieskeybinds"			"技能按鍵綁定"
 		"citadel_settings_itemkeybinds"					"物品按鍵綁定"
 		"citadel_settings_movementkeybinds"				"動作按鍵綁定"
-		"citadel_settings_misckeybinds"					"雜項按鍵綁定"
+		"citadel_settings_misckeybinds"					"其他按鍵綁定"
 		"citadel_settings_communicationkeybinds"		"溝通按鍵綁定"
 		"citadel_settings_spectatorkeybinds"			"觀眾按鍵綁定"
 		"citadel_settings_replaykeybinds"				"回訪按鍵綁定"
