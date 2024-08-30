@@ -1607,6 +1607,8 @@
 		"citadel_settings_videodefaults"				"恢復預設設置"
 		"citadel_settings_enable_console"				"啟用控制台"
 		"citadel_settings_enable_console_tooltip"		"如果你有像 -dev 或 -console 這樣的啟動選項來啟用控制台，它們會覆蓋此設置。"
+		"citadel_settings_streamer_mode"				"實況主模式"
+        "citadel_settings_streamer_mode_tooltip"		"開啟此選項以隱藏遊戲內及儀表板上的玩家名稱。此模式不會隱藏個人檔案卡上的玩家名稱。"
 		"citadel_camera_pitch_inverted"					"反轉滑鼠游標"
 		"citadel_camera_zoom_is_toggle"					"切換縮放"
 		"citadel_enable_ping_indicator"					"啟用 HUD 信號指示器"
