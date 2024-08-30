@@ -434,7 +434,7 @@
 		"CooldownReductionOnChargedAbilities_prefix" "+"
 
 		//Alchemical Fire
-		"upgrade_thermal_detonator_desc"		"使用後丟出一個接觸到物體就會爆炸的燒瓶,創造一個會造成傷害並且 <span class=\"highlight\">每秒增加傷害</span> 和 <span class=\"highlight\">增幅子彈傷害</span>的區域，<br>對非玩家單位傷害只有{s:NonHeroReductionPercent}%。"
+		"upgrade_thermal_detonator_desc"		"投擲一個瓶子，接觸時爆炸，對範圍內其中的敵人每秒造成不斷增加的<span class="highlight">魂力傷害</span>，並使其承受來自您隊伍的額外<span class="highlight">子彈傷害</span>。<br><br>對非英雄目標的每秒傷害減少{s:NonHeroReductionPercent}% 。"
 		"BonusBaseWeaponDamageTaken_prefix"		"+"
 		"BonusBaseWeaponDamageTaken_label"		"子彈傷害增幅"
 		"BonusBaseWeaponDamageTaken_postfix"	"%"
@@ -469,17 +469,17 @@
 		"upgrade_containment_desc"			"選定一個敵方英雄目標，使用後對敵方英雄目標造成<span class=\"highlight\">魂力傷害</span> 並且 <span class=\"highlight\">減少移速</span> ,同時 <span class=\"highlight\">沉默敵方英雄的移動技能</span>.<br>不影響目標的耐力使用。"
 
 		//Withering Whip
-		"upgrade_withering_whip_desc"		"選定一個敵方英雄目標，使用後在持續時間內繳械敵方英雄目標，並降低目標的的<span class=\"highlight\">物理抗性</span>。"
-		"modifier_withering_whip_debuff"		"繳械"
-		"MagicAmp_label"						"抗性減少"
+		"upgrade_withering_whip_desc"		"鎖定一名敵人以施加<span class="highlight">減少射速</span>效果並降低其<span class="highlight">子彈抗性</span>。"
+		"modifier_withering_whip_debuff"	"減少射速"
+		"MagicAmp_label"					"抗性減少"
 		"MagicAmp_postfix"					"%"
-		"WitheringWhipDisarmDuration_label"	"繳械持續時間"
+		"WitheringWhipDisarmDuration_label"	"持續時間"
 		"WitheringWhipDisarmDuration_postfix"	"秒"
 		"SpiritPower_label"					"魂力"
 		"SpiritPower_prefix"					"+"
 
 		//Ethereal Shift
-		"upgrade_self_bubble_desc"			"使用後在持續時間內<span class=\"highlight\">無敵</span>，在此期間，你不能移動或執行任何操作。當效果結束 你會獲得<span class=\"highlight\">裝填彈匣</span>以及獲得 <span class=\"highlight\">額外魂力</span>。<br>按下 [{s:in_mantle}] 提早取消."
+		"upgrade_self_bubble_desc"			"使用後在持續時間內<span class=\"highlight\">無敵</span>，在此期間，你不能移動或執行任何操作。當效果結束 你會獲得<span class=\"highlight\">裝填彈匣</span>以及獲得 <span class=\"highlight\">額外魂力</span>。<br>按下 [{s:in_mantle}] 提早取消"
 		"ShiftingVeilDuration_label"			"無敵持續"
 		"ShiftingVeilDuration_postfix"		"秒"
 		"BonusSpiritDuration_label"			"魂力加成持續時間"
