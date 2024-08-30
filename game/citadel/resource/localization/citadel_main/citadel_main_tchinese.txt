@@ -1658,6 +1658,8 @@
 		"citadel_settings_crosshair_pip_opacity"			"線不透明度"
 		"citadel_settings_crosshair_dot_opacity"			"點不透明度"
 		"citadel_settings_crosshair_dot_outline_opacity"	"點輪廓不透明度"
+		
+        "citadel_settings_crosshair_defaults"				"準星設定回到預設"
 
 
 		"citadel_settings_rendering"					"渲染"
