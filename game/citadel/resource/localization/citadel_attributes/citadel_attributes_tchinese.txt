@@ -869,7 +869,7 @@
 		"LocalTechArmorReduction_label"				"Magic Resist"
 		"LocalTechArmorReduction_postfix"				"%"
 
-		"BulletResistOnActive_label"					"OnActive - Bullet Resist"
+		"BulletResistOnActive_label"					"啟用時 - 子彈抗性"
 		"BulletResistOnActive_prefix"					"{s:sign}"
 		"BulletResistOnActive_postfix"					"%"
 
