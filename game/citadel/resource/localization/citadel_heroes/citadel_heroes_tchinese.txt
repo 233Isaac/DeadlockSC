@@ -99,8 +99,8 @@
 		"citadel_weapon_cadence_set_desc"	"連發 4 發子彈，將水晶碎片嵌入目標體內。 1 秒後，碎片會碎裂並再次造成子彈傷害。如果鑲嵌了 5 塊或更多碎片，碎裂傷害會翻倍。"
 
 		"cadence_ability_anthem"						"聖歌"
-		"cadence_ability_anthem_quip"					"引領衝鋒，激勵附近盟友並提供武器加成"
-		"cadence_ability_anthem_desc"				"使用後，爆發為一首激勵人心的歌曲！你和任何進入範圍的盟友立即獲得大容量彈匣，並且重裝彈匣，並且擁有直到歌曲結束之前的射速加成。"
+		"cadence_ability_anthem_quip"					"引領衝鋒，激勵附近友方英雄並提供武器加成"
+		"cadence_ability_anthem_desc"				"使用後，爆發為一首激勵人心的歌曲！你和任何進入範圍的友方英雄立即獲得大容量彈匣，並且重裝彈匣，並且擁有直到歌曲結束之前的射速加成。"
 		
 		"modifier_cadence_anthem_buff"				"Cadence 聖歌"
 		"modifier_cadence_anthem_aoe"					"歌唱聖歌"
@@ -814,7 +814,7 @@
 
 		"ability_icepath"					"寒冰路徑"
 		"ability_icepath_quip"				"在漂浮的冰道上飛馳"
-		"ability_icepath_desc"				"使用後{s:hero_name}製造一條漂浮的<span class=\"highlight\">寒冰路徑</span>，為他和他的盟友提供移動加成。會在持續時間內獲得{s:SlowResistancePercent}%減速抗性，敵人也可以在寒冰路徑上行走。<br>在冰雪路徑中，按下[{s:key_innate_1}] / [{s:key_duck}]可以向上或向下移動。"
+		"ability_icepath_desc"				"使用後{s:hero_name}製造一條漂浮的<span class=\"highlight\">寒冰路徑</span>，為他和他的友方英雄提供移動加成。會在持續時間內獲得{s:SlowResistancePercent}%減速抗性，敵人也可以在寒冰路徑上行走。<br>在冰雪路徑中，按下[{s:key_innate_1}] / [{s:key_duck}]可以向上或向下移動。"
 		"ability_icepath_t3_desc"			"技能啟用後 每創建一公尺冰徑路徑可獲得{s:BonusSpiritMeter}魂力 最大為{s:BonusSpiritMax}"
 		"SprintSpeedBonus_label"				"疾跑速度"
 		"SprintSpeedBonus_prefix"				"+"
@@ -830,7 +830,7 @@
 
 		"ability_ice_dome"				"凍結庇護"
 		"ability_ice_dome_quip"			"創造一個堅不可摧的治療穹頂"
-		"ability_ice_dome_desc"			"{s:hero_name} 凍結周圍的空氣，在自己周圍形成一個<span class=\"highlight\">堅不可摧的穹頂</span>。在穹頂中，盟友會<span class=\"highlight\">迅速恢復健康</span>，對敵方目標施加<span class=\"highlight\">減少移速</span>。"
+		"ability_ice_dome_desc"			"{s:hero_name} 凍結周圍的空氣，在自己周圍形成一個<span class=\"highlight\">堅不可摧的穹頂</span>。在穹頂中，友方英雄會<span class=\"highlight\">迅速恢復健康</span>，對敵方目標施加<span class=\"highlight\">減少移速</span>。"
 		"ability_ice_dome_t1_desc"		"<span class=\"highlight\">減少範圍內敵方目標{s:FireRateSlow}%</span>射速"
 		"ability_ice_dome_t3_desc"		"<span class=\"highlight\">在凍結庇護內增加{s:BonusHealthRegen}</span> 生命恢復-並且可以被魂力增幅"
 		"ability_ice_dome/modifier_ice_dome/modifier_debuff"						"凍結庇護"
@@ -843,7 +843,7 @@
 		//-----------------------------------------------------------------------------
 		"citadel_ability_uppercut"				"爆炸上勾拳"
 		"citadel_ability_uppercut_quip"			"把周圍單位從你身邊推開"
-		"citadel_ability_uppercut_desc"			"使用後對附近的單位造成<span class=\"highlight\">輕近戰傷害</span>，並將其擊退，在落點造成<span class=\"highlight\">範圍傷害</span。不會對盟友造成傷害。"
+		"citadel_ability_uppercut_desc"			"使用後對附近的單位造成<span class=\"highlight\">輕近戰傷害</span>，並將其擊退，在落點造成<span class=\"highlight\">範圍傷害</span。不會對友方英雄造成傷害。"
 		"citadel_ability_uppercut_t2_desc"		"在上勾拳命中敵方英雄時獲得<span class=\"highlight\">快速射擊，2倍雷射範圍，以及增加{s:BuffBaseWeaponPct}%子彈傷害</span>持續{s:UppercutBuffOnHit}s"
 		"citadel_ability_uppercut_t3_desc"		"當上勾拳擊中敵方英雄時<span class=\"highlight\">將鉤子冷卻刷新到0</span>以及立即回復<span class=\"highlight\">{s:ClipSizeBonus}%彈藥</span>到你當前彈匣"
 		"modifier_citadel_enemy_uppercutted"	"上勾拳!"
@@ -1406,7 +1406,7 @@
 
 		"citadel_ability_tengu_airlift"				"空投"
 		"citadel_ability_tengu_airlift_quip"		"高空死亡  飛行並向敵人投擲炸彈（或友方英雄）"
-		"citadel_ability_tengu_airlift_desc"		"與友方英雄或炸彈一起飛行。投下友方英雄或炸彈會引發<span class=\"highlight\">大範圍爆炸</span>，並造成<span class=\"highlight\">移動減速</span>效果。{s:hero_name}和友方英雄在飛行結束時會獲得子彈護盾。<br>在被抬升期間，友方英雄獲得子彈抗性但無法攻擊，友方英雄造成的傷害{s:AllyOutgoingDamagePercent}%。對盟友使用空投時施放速度更快。<br>[{s:iv_attack}] 加速飛行速度。<br>[{s:iv_attack2}] 投下盟友/炸彈。"
+		"citadel_ability_tengu_airlift_desc"		"與友方英雄或炸彈一起飛行。投下友方英雄或炸彈會引發<span class=\"highlight\">大範圍爆炸</span>，並造成<span class=\"highlight\">移動減速</span>效果。{s:hero_name}和友方英雄在飛行結束時會獲得子彈護盾。<br>在被抬升期間，友方英雄獲得子彈抗性但無法攻擊，友方英雄造成的傷害{s:AllyOutgoingDamagePercent}%。對友方英雄使用空投時施放速度更快。<br>[{s:iv_attack}] 加速飛行速度。<br>[{s:iv_attack2}] 投下友方英雄/炸彈。"
 		"citadel_ability_tengu_airlift_t1_desc"		"增加<span class=\"highlight\">{s:AirDropBulletArmorReduction}%</span>子彈抗性持續<span class=\"highlight\">{s:AirDropDebuff02Duration}秒</span>"
 		"citadel_ability_tengu_airlift_t2_desc"		"<span class=\"highlight\">+{s:AirDropBulletShield}</span>子彈護盾"
 		"citadel_ability_tengu_airlift_t3_desc"		"對命中的敵人施加 <span class=\"highlight\">沉默</span> 效果，持續時間為 <span class=\"highlight\">{s:AirDropSilenceDuration} 秒</span>。"
