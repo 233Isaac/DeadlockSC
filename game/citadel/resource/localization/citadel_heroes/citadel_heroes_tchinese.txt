@@ -1405,8 +1405,8 @@
 		"citadel_ability_tengu_dragonsfire_t3_desc"	"<span class=\"highlight\">+{s:AbilityDuration}秒</span> Duration and <span class=\"highlight\">+{s:FlyingBulletResist}</span> Flying Bullet Resist"
 
 		"citadel_ability_tengu_airlift"				"空投"
-		"citadel_ability_tengu_airlift_quip"		"高空死亡  飛行並向敵人投擲炸彈（或友軍）"
-		"citadel_ability_tengu_airlift_desc"		"與友方英雄或炸彈一起飛行。投下你的盟友或炸彈會引發<span class=\"highlight\">大範圍爆炸</span>，並造成<span class=\"highlight\">移動減速</span>效果。{s:hero_name}和友方英雄在飛行結束時會獲得子彈護盾。<br>在被抬升期間，友方英雄獲得子彈抗性但無法攻擊，並造成{s:AllyOutgoingDamagePercent}%的傷害。對盟友使用空投時施放速度更快。<br>[{s:iv_attack}] 加速飛行速度。<br>[{s:iv_attack2}] 投下盟友/炸彈。"
+		"citadel_ability_tengu_airlift_quip"		"高空死亡  飛行並向敵人投擲炸彈（或友方英雄）"
+		"citadel_ability_tengu_airlift_desc"		"與友方英雄或炸彈一起飛行。投下友方英雄或炸彈會引發<span class=\"highlight\">大範圍爆炸</span>，並造成<span class=\"highlight\">移動減速</span>效果。{s:hero_name}和友方英雄在飛行結束時會獲得子彈護盾。<br>在被抬升期間，友方英雄獲得子彈抗性但無法攻擊，並造成{s:AllyOutgoingDamagePercent}%的傷害。對盟友使用空投時施放速度更快。<br>[{s:iv_attack}] 加速飛行速度。<br>[{s:iv_attack2}] 投下盟友/炸彈。"
 		"citadel_ability_tengu_airlift_t1_desc"		"增加<span class=\"highlight\">{s:AirDropBulletArmorReduction}%</span>子彈抗性持續<span class=\"highlight\">{s:AirDropDebuff02Duration}秒</span>"
 		"citadel_ability_tengu_airlift_t2_desc"		"<span class=\"highlight\">+{s:AirDropBulletShield}</span>子彈護盾"
 		"citadel_ability_tengu_airlift_t3_desc"		"對命中的敵人施加 <span class=\"highlight\">沉默</span> 效果，持續時間為 <span class=\"highlight\">{s:AirDropSilenceDuration} 秒</span>。"
