@@ -2021,10 +2021,11 @@
 
 
 		"Citadel_FlexSlot_Title"						"額外槽位已解鎖"
-		"Citadel_FlexSlotUnlockedLane"					"你已啟用一個額外槽位,摧毀"
-		"Citadel_FlexSlotUnlockedGenerator"				"你已啟用一個額外槽位,首次摧毀"
-		//"Citadel_FlexSlotUnlockedTier3"				"你已啟用一個額外槽位,摧毀"
-		"Citadel_FlexSlotUnlockedAllTier2"				"你已啟用一個額外槽位,摧毀全部"
+		"Citadel_FlexSlotUnlockedAllTier1"				"你已啟用一個額外槽位，摧毀全部"
+		"Citadel_FlexSlotUnlockedLane"					"你已啟用一個額外槽位，摧毀"
+		"Citadel_FlexSlotUnlockedGenerator"				"你已啟用一個額外槽位，首次摧毀"
+		//"Citadel_FlexSlotUnlockedTier3"				"你已啟用一個額外槽位，摧毀"
+		"Citadel_FlexSlotUnlockedAllTier2"				"你已啟用一個額外槽位，摧毀全部"
 
 		"team_msg_TitanDefeated_Title"		"守護神已摧毀"
 		"team_msg_YourTitanDefeated_Desc"	"你的守護神已經被摧毀"
@@ -2140,6 +2141,7 @@
 		"ModIconTooltip_UnlockGenerators"			"首次摧毀敵方神龕後解鎖"	
 		//"ModIconTooltip_UnlockTier3"				"摧毀敵方守護神的第一形態後解鎖"
 		"ModIconTooltip_UnlockAllTier2"				"摧毀敵方所有步行者後解鎖"
+		"ModIconTooltip_UnlockAllTier1"				"摧毀敵方所有守護神後解鎖"
 
 		"HeroesPageTitle"							"英雄"
 		"HeroesPageActionText"						"選擇英雄查看詳情"
