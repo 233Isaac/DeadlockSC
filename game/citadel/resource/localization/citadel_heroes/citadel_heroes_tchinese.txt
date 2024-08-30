@@ -876,10 +876,9 @@
 		"BeamWidth_label"						"雷射寬度"
 		"BeamWidth_postfix"						"公尺"
 		
-
 		"citadel_ability_hook"					"彈射鉤爪"
 		"citadel_ability_hook_quip"				"將目標拉到你身邊"
-		"citadel_ability_hook_desc"				"使用後發射一個鉤爪，當鉤爪擊中的第一個敵人或友方英雄<span class=\"highlight\">鉤住並將目標將拉置在你的面前</span>， 如果目標是敵人，則會造成傷害。"
+		"citadel_ability_hook_desc"				"發射一個鉤爪，<span class="highlight">抓住並拉回</span>擊中的第一個敵方英雄，造成傷害。目標將被放置在您面對的位置。<br>使用 [{s:key_alt_cast}] 施放以鎖定友方英雄。"
 		"citadel_ability_hook_t1_desc"			"對鉤住的敵人造成 <span class=\"highlight\">{s:BulletAmp}% 更高的子彈傷害</span>，持續 {s:BulletAmpDuration}s"
 		"BulletShieldOnHook_label"				"子彈護盾"
 		"BulletShieldOnHook_postfix"				"HP"
@@ -888,6 +887,7 @@
 		"modifier_hook_bonus_movespeed"			"鉤爪速度"
 		"hook_modifier_slow"					"鉤爪減少移速"
 		"hook_bullet_shield"						"子彈護盾"
+
 		//-----------------------------------------------------------------------------
 		// Grey Talon (previous names: Archer / Orion)
 		// hero_archer
