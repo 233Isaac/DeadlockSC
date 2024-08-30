@@ -594,7 +594,7 @@
 		"modifier_acolytes_glove_triggered"		"魂力猛擊"
 
 		//Melee Charge
-		"upgrade_melee_charge_desc"				"增加你的近戰重擊衝鋒距離。對敵人進行<span class=\"highlight\">近戰重擊後</span>，武器會立即<span class=\"highlight\">重新裝填</span>。"
+		"upgrade_melee_charge_desc"				"增加你的<span class="highlight">重型近戰</span>衝鋒距離。當你對敵人進行<span class="highlight">重型近戰</span>攻擊時，你的武器將<span class="highlight">立即重新裝填</span>。"
 
 		//Charmed Wraps
 		"upgrade_charmed_wraps_desc"			"Your abilities get their <span class=\"highlight\">cooldowns reduced</span> when you perform a <span class=\"highlight\">heavy melee</span> attack against a hero (or <span class=\"highlight\">two light melee</span> attacks within {s:LightMeleeTimeWindow}s)."
