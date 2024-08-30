@@ -438,17 +438,17 @@
 		"CooldownReductionOnChargedAbilities_postfix" "%"
 		"CooldownReductionOnChargedAbilities_prefix" "+"
 
-		//Alchemical Fire
-		"upgrade_thermal_detonator_desc"		"投擲一個瓶子，接觸時爆炸，對範圍內其中的敵人每秒造成不斷增加的<span class="highlight">魂力傷害</span>，並使其承受來自您隊伍的額外<span class="highlight">子彈傷害</span>。<br><br>對非英雄目標的每秒傷害減少{s:NonHeroReductionPercent}% 。"
-		"BonusBaseWeaponDamageTaken_prefix"		"+"
-		"BonusBaseWeaponDamageTaken_label"		"子彈傷害增幅"
-		"BonusBaseWeaponDamageTaken_postfix"	"%"
-
+        //Alchemical Fire
+        "upgrade_thermal_detonator_desc"		"投擲一個瓶子，接觸時爆炸，對範圍內其中的敵人每秒造成不斷增加的<span class=\"highlight\">魂力傷害</span>，並使其承受來自您隊伍的額外<span class=\"highlight\">子彈傷害</span>。<br><br>對非英雄目標的每秒傷害減少{s:NonHeroReductionPercent}% 。"
+        "BonusBaseWeaponDamageTaken_prefix"		"+"
+        "BonusBaseWeaponDamageTaken_label"		"子彈傷害增幅"
+        "BonusBaseWeaponDamageTaken_postfix"	"%"
+		
 		//Fleetfoot
-		"upgrade_fleetfoot_boots_active_desc"	"使用後在持續時間內獲得 <span class=\"highlight\">額外移動速度</span> 和 <span class=\"highlight\">增加基礎彈匣容量</span> 。"
-		"upgrade_fleetfoot_boots_passive_desc"	"移除射擊時 <span class=\"highlight\">移動速度懲罰</span> 。"
-		"modifier_fleetfoot_boots"				"機動步行"
-
+        "upgrade_fleetfoot_boots_active_desc"	"獲得額外的 <span class=\"highlight\">移動速度</span>和<span class=\"highlight\">彈藥</span>。"
+        "upgrade_fleetfoot_boots_passive_desc"	"移除射擊時的<span class=\"highlight\">移動速度</span>懲罰。"
+        "modifier_fleetfoot_boots"				"機動步行"
+        
 		//Kinetic Dash
 		"upgrade_kinetic_sash_desc"		"每隔一段時間，你的下一次 <span class=\"highlight\">衝刺跳躍</span> 不消耗額外耐力，並且獲得 <span class=\"highlight\">射擊速度</span> 和 <span class=\"highlight\">暫時額外基礎彈藥</span> 直到你下次裝填。 或持續 {s:AbilityDuration} 秒。"
 		"modifier_kinetic_sash_triggered"	"動感衝刺"
@@ -474,7 +474,7 @@
 		"upgrade_containment_desc"			"選定一個敵方英雄目標，使用後對敵方英雄目標造成<span class=\"highlight\">魂力傷害</span> 並且 <span class=\"highlight\">減少移速</span> ,同時 <span class=\"highlight\">沉默敵方英雄的移動技能</span>.<br>不影響目標的耐力使用。"
 
 		//Withering Whip
-		"upgrade_withering_whip_desc"		"鎖定一名敵人以施加<span class="highlight">減少射速</span>效果並降低其<span class="highlight">子彈抗性</span>。"
+		"upgrade_withering_whip_desc"		"鎖定一名敵人以施加<span class=\"highlight\">減少射速</span>效果並降低其<span class=\"highlight\">子彈抗性</span>。"
 		"modifier_withering_whip_debuff"	"減少射速"
 		"MagicAmp_label"					"抗性減少"
 		"MagicAmp_postfix"					"%"
@@ -484,7 +484,7 @@
 		"SpiritPower_prefix"					"+"
 
 		//Ethereal Shift
-		"upgrade_self_bubble_desc"			"使用後在持續時間內<span class=\"highlight\">無敵</span>，在此期間，你不能移動或執行任何操作。當效果結束 你會獲得<span class=\"highlight\">裝填彈匣</span>以及獲得 <span class=\"highlight\">額外魂力</span>。<br>按下 [{s:in_mantle}] 提早取消"
+		"upgrade_self_bubble_desc"	"使用後在持續時間內<span class=\"highlight\">無敵</span>，在此期間，你不能移動或執行任何操作。當效果結束時，你會獲得<span class=\"highlight\">裝填彈匣</span>以及<span class=\"highlight\">額外魂力</span>。<br>按下 [{s:in_mantle}] 提早取消"
 		"ShiftingVeilDuration_label"			"無敵持續"
 		"ShiftingVeilDuration_postfix"		"秒"
 		"BonusSpiritDuration_label"			"魂力加成持續時間"
@@ -594,7 +594,7 @@
 		"modifier_acolytes_glove_triggered"		"魂力猛擊"
 
 		//Melee Charge
-		"upgrade_melee_charge_desc"				"增加你的<span class="highlight">重型近戰</span>衝鋒距離。當你對敵人進行<span class="highlight">重型近戰</span>攻擊時，你的武器將<span class="highlight">立即重新裝填</span>。"
+		"upgrade_melee_charge_desc"	"增加你的<span class=\"highlight\">重型近戰</span>衝鋒距離。當你對敵人進行<span class=\"highlight\">重型近戰</span>攻擊時，你的武器將<span class=\"highlight\">立即重新裝填</span>。"
 
 		//Charmed Wraps
 		"upgrade_charmed_wraps_desc"			"Your abilities get their <span class=\"highlight\">cooldowns reduced</span> when you perform a <span class=\"highlight\">heavy melee</span> attack against a hero (or <span class=\"highlight\">two light melee</span> attacks within {s:LightMeleeTimeWindow}s)."
