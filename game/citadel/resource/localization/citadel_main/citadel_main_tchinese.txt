@@ -2366,6 +2366,7 @@
 		"AbilityButtonHint_HatTrickFire"			"射擊"
 		"AbilityButtonHint_HatTrickCancel"			"返回"
 		"AbilityButtonHint_MeleeRejuvinator"		"近戰重擊來擊碎復生晶石"
+         "AbilityButtonHint_ClimbRope"				"按住爬繩"
 		
 
 		"AbilityButtonHint_HoldToAltVoidSphere"			"按住給予隊友"
