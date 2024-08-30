@@ -479,7 +479,7 @@
 		"SpiritPower_prefix"					"+"
 
 		//Ethereal Shift
-		"upgrade_self_bubble_desc"			"使用後在持續時間內<span class=\"highlight\">無敵</span>，在此期間，你不能移動或執行任何操作。當效果結束 你會獲得<span class=\"highlight\">裝填彈匣</span>以及獲得 <span class=\"highlight\">額外魂力</span>。"
+		"upgrade_self_bubble_desc"			"使用後在持續時間內<span class=\"highlight\">無敵</span>，在此期間，你不能移動或執行任何操作。當效果結束 你會獲得<span class=\"highlight\">裝填彈匣</span>以及獲得 <span class=\"highlight\">額外魂力</span>。<br>按下 [{s:in_mantle}] 提早取消."
 		"ShiftingVeilDuration_label"			"無敵持續"
 		"ShiftingVeilDuration_postfix"		"秒"
 		"BonusSpiritDuration_label"			"魂力加成持續時間"
