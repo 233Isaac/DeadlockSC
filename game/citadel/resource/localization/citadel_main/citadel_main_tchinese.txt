@@ -1639,7 +1639,7 @@
 		"citadel_settings_misckeybinds"					"其他按鍵綁定"
 		"citadel_settings_communicationkeybinds"		"溝通按鍵綁定"
 		"citadel_settings_spectatorkeybinds"			"觀眾按鍵綁定"
-		"citadel_settings_replaykeybinds"				"回訪按鍵綁定"
+		"citadel_settings_replaykeybinds"				"重播按鍵綁定"
 		"citadel_settings_ping_wheel_contextual"		"使用相關信號輪盤槽位"
 		"citadel_settings_ping_wheel_contextual_desc"	"相關信號槽位在遊戲期間會根據當前相關信號變化"
 		"citadel_settings_ui_language"					"語言："
