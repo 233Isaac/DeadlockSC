@@ -1799,6 +1799,7 @@
 		"citadel_keybind_chat_team"						"隊伍聊天"
 		"citadel_keybind_mouse_wheel"					"交流輪盤"
 		"citadel_keybind_held_item"						"格擋近戰/放下所持物品"
+        "citadel_keybind_cancel_ability"				"取消技能"
 		"citadel_keybind_teleport_to_objective"			"傳送"
 		"citadel_keybind_spec_next_target"				"觀賽 下一個目標"
 		"citadel_keybind_spec_prev_target"				"觀賽 前一個目標"
