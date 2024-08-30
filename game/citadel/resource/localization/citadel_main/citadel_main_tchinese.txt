@@ -820,6 +820,10 @@
 		"Citadel_Party_Context_CopyCode"							"複製隊伍代碼"
 		"Citadel_Party_Context_ShowCode"							"顯示隊伍代碼"
 		"Citadel_Party_Context_HideCode"							"隱藏隊伍代碼"
+        "Citadel_Party_SentInvite"									"邀請已送出"
+        "Citadel_Party_Leave"										"離開隊伍"
+        "Citadel_Party_Report"										"回報"
+        "Citadel_Party_Reported"									"已回報"
 
 		"Citadel_Main_EarlyDevBuild"								"早期測試版"
 		"Citadel_Main_ViewProfile"									"查看檔案"
