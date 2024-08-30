@@ -208,6 +208,11 @@
 		"upgrade_sharpshooter_desc"				"當目標在你的 <span class=\"highlight\">遠距離</span> 時，對該目標造成 <span class=\"highlight\">額外子彈傷害</span> 。"
 		"upgrade_sharpshooter_headshots_desc"	"每隔一段時間 <span class=\"highlight\">爆頭</span> 造成額外傷害。"
 
+		//Headhunter
+		"upgrade_headhunter_desc"	"命中爆頭會造成額外傷害，治療您部分最大生命值，並短暫提升移動速度。"
+		"HealPercentPerHeadshot_label"		"每次爆頭治療"
+		"HealPercentPerHeadshot_postfix"	"%"
+
 		//Crippling Headshot
 		"upgrade_banshee_slugs_headshots_desc"	"<span class=\"highlight\">爆頭</span> 會減少目標 <span class=\"highlight\">子彈以及魂力抗性</span>."
 		"BulletResistReduction_label"		"物理抗性減少"

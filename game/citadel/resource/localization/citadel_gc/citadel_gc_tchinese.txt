@@ -310,6 +310,7 @@
 		"upgrade_close_quarter_combat"	    	"抵近射擊"
 		"upgrade_headshot_booster"		       	"爆頭增強"
 		"upgrade_sharpshooter"					"神射手"
+        "upgrade_headhunter"					"獵首"
 		"upgrade_banshee_slugs"					"致殘爆頭"
 		"upgrade_berserker"				        "狂戰士"
 		"upgrade_fervor"		            	"狂暴"
