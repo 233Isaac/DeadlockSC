@@ -684,7 +684,7 @@
 		"upgrade_cheat_death_unkillable_passive"	"When the owner would take otherwise lethal damage, they instead become <span class=\"highlight\">temporarily death immune</span>. While death immune, the rate of the damage pulse is greatly increased."
 
 		//Healing Booster
-		"upgrade_healing_booster_desc"				"提高你<span class=\"highlight\">{s:HealAmpRegenPercent}%</span>的<span class=\"highlight_armor\">治療效果</span> ."
+		"upgrade_healing_booster_desc"		"提高你的<span class=\"highlight\">治療</span>效果<span class=\"highlight\">{s:HealAmpRegenPercent}%</span>，並提高你對<span class=\"highlight\">治療減少</span>的抗性<span class=\"highlight\">{s:DegenResistance}%</span>。"
 
 		//Extra Health
 		"upgrade_health_desc"							"Increase <span class=\"highlight\">health</span>."
