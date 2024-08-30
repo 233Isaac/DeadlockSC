@@ -1554,6 +1554,7 @@
 		"citadel_settings_about"						"關於"
 		"citadel_settings_hotkeys"						"快捷鍵"
 		"citadel_settings_chatwheel"					"聊天輪盤"
+        "chat_wheel_options"							"輪盤選項"
 		"citadel_settings_volume"						"音量"
 		"citadel_settings_voice"						"語音設置"
 		"citadel_settings_game"							"遊戲"
