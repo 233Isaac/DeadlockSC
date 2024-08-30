@@ -450,7 +450,7 @@
 		"ability_flame_dash"			"火焰疾跑"
 		"ability_flame_dash_quip"		"勇往直前，留下一串火焰足跡"
 		"ability_flame_dash_desc"		"使用後向前疾跑獲得<span class=\"highlight\">額外移速</span>並且留下火焰路徑<span class=\"highlight\">燃燒敵方目標</span>。<br>按住[{s:iv_attack}]使疾跑更快."
-		"ability_flame_dash_t1_desc"	"<span class=\"highlight\">減少{s:FireRateSlow}%射速-持續</span>{s:FlameDashDebuffDuration}秒"
+		"ability_flame_dash_t1_desc"	"<span class=\"highlight\">減少{s:FireRateSlow}%射速持續</span>{s:FlameDashDebuffDuration}秒"
 		"modifier_flamedash"			"火焰疾跑"
 		"ability_flame_dash_cancel_trigger"	"取消火焰疾跑"
 
