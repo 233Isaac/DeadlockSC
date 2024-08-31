@@ -971,7 +971,7 @@
         "ability_astro_rifle_t1_desc"				"命中時施加 <span class=\"highlight\">{s:SlowPercent}% 的減速</span>，每層持續 {s:SlowDurationPerStack} 秒"
         "ability_astro_rifle_t3_desc"				"<span class=\"highlight\">+{s:Damage}</span> 傷害，提升傷害倍率"
         "ability_astro_rifle_desc_debuff"			"傷害脆弱"
-        "modifier_astro_rifle_slow"					"移動減速"
+        "modifier_astro_rifle_slow"					"減少移速"
         "DamageAmplificationPerStack_prefix"		"{s:sign}"
         "DamageAmplificationPerStack_label"			"每層的額外傷害"
         "DamageAmplificationPerStack_postfix"		"%"
