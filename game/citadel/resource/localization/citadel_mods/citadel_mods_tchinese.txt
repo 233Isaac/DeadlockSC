@@ -622,7 +622,9 @@
 		"modifier_summon_magiccarpet"			"召喚魔毯"
 		"MagicCarpetMoveSpeed_prefix"			"+"
 		"MagicCarpetMoveSpeed_label"			"額外飛行速度"
-		"MagicCarpetMoveSpeed_postfix"			"m/s"
+		"MagicCarpetMoveSpeed_postfix"			"公尺/秒"
+		"MagicCarpetShieldDuration_label"		"護盾持續時間"
+		"MagicCarpetShieldDuration_postfix"		"秒"
 
 		//-----------------------------------------------------------------------------
 		// Upgrades: Armor
