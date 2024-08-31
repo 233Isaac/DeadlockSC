@@ -2200,6 +2200,7 @@
 		"MyRosterPartyHighSkillRange"				"你的隊伍中的玩家水平差距過大。這將使你的隊伍在配隊時更加困難。"
 
 		"MyRosterPartyReadyCount"					"{d:party_ready_count}/{d:party_player_count} 就緒"
+		"MyRosterPartyMemberRoster"					"隊伍中已有人選擇此英雄:"
 
 		//-----------------------------------------------------------------------------
 		// SANDBOX - DEMO CONTROLS
