@@ -9,7 +9,7 @@
 
 ### 使用方法:
 
-1. [點此下載](https://github.com/cycleapple/DeadlockTC/releases/download/v1.1.0/Deadlock.zip)
+1. [點此下載](https://github.com/cycleapple/DeadlockTC/releases/download/v1.2.0/Deadlock_Updater.zip)
 2. 解壓縮`Deadlock繁體漢化更新器`資料夾 (建議要有資料夾包起來，因為會產生其他檔案)
 3. 打開 `Deadlock繁體漢化更新器.exe`
 4. 點擊 `自動偵測路徑`
