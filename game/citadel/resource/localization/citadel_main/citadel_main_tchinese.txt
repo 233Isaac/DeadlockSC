@@ -2165,7 +2165,7 @@
 		"ModIconTooltip_UnlockGenerators"			"首次摧毀敵方神龕後解鎖"	
 		//"ModIconTooltip_UnlockTier3"				"摧毀敵方守護神的第一形態後解鎖"
 		"ModIconTooltip_UnlockAllTier2"				"摧毀敵方所有步行者後解鎖"
-		"ModIconTooltip_UnlockAllTier1"				"摧毀敵方所有守護神後解鎖"
+		"ModIconTooltip_UnlockAllTier1"				"摧毀敵方所有守衛者後解鎖"
 
 		"HeroesPageTitle"							"英雄"
 		"HeroesPageActionText"						"選擇英雄查看詳情"
