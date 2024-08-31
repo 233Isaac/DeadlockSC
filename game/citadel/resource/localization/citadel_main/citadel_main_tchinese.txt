@@ -426,6 +426,9 @@
 
 		"Citadel_Play_BotsOfflineTitle"				"機器人暫時離線"
 		"Citadel_Play_BotsOfflineText"				"機器人暫時失效，請稍後再查看。"
+		"BotMatchWarning_Title"						"BOT對戰 - 比賽時間較長警告"
+        "BotMatchWarning_EarlyGame"					"BOT非常適合練習對戰，但在隊伍配合和推進目標方面表現不佳。"
+        "BotMatchWarning_LateGame"					"這些比賽往往比一般比賽持續更長時間——你需要主動出擊才能擊敗他們的守護者！"
 
 		// Book
 		"Citadel_Book_NotEnoughXP"							"這一章需要 {d:unlock_cost} 來解鎖，但你只有 {d:available_unlocks} 可用。玩更多比賽以獲得更多解鎖。"
