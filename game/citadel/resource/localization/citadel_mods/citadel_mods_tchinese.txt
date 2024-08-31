@@ -781,10 +781,14 @@
 		"upgrade_regenerative_armor_desc"	"Gain a short burst of health regeneration when taking bullet damage from heroes"
 
 		//Combat Barrier
-		"upgrade_regenerating_bullet_shield_desc"	"當你有<span class=\"highlight\">子彈護盾</span>時，會獲得額外<span class=\"highlight\">子彈傷害</span>."
-		"BonusBaseWeaponDamageWithShield_label"		"有子彈護盾時子彈傷害"
-		"BonusBaseWeaponDamageWithShield_postfix"	"%"
-		"BonusBaseWeaponDamageWithShield_prefix"	"+"
+        "upgrade_regenerating_bullet_shield_desc"	"當你擁有<span class=\"highlight\">子彈護盾</span>時，獲得<span class=\"highlight\">子彈傷害</span>和<span class=\"highlight\">射速</span>加成。"
+        "BonusBaseWeaponDamageWithShield_label"		"持有護盾時的子彈傷害"
+        "BonusBaseWeaponDamageWithShield_postfix"	"%"
+        "BonusBaseWeaponDamageWithShield_prefix"	"+"
+        "FireRateWhenShielded_label"				"持有護盾時的射速"
+        "FireRateWhenShielded_postfix"				"%"
+        "FireRateWhenShielded_prefix"				"+"
+
 
 		//Enchanter's Barrier
 		"upgrade_magic_shield_desc"		"當你有<span class=\"highlight\">魂力護盾</span>時，會獲得額外<span class=\"highlight\">魂力傷害</span>."
