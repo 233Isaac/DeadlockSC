@@ -791,9 +791,13 @@
 
 
 		//Enchanter's Barrier
-		"upgrade_magic_shield_desc"		"當你有<span class=\"highlight\">魂力護盾</span>時，會獲得額外<span class=\"highlight\">魂力傷害</span>."
-		"BonusSpiritWithMagicShield_label"		"有魂力護盾時魂力傷害"
-		"BonusSpiritWithMagicShield_prefix"		"+"
+        "upgrade_magic_shield_desc"		"當你擁有<span class=\"highlight\">靈魂護盾</span>時，獲得額外的<span class=\"highlight\">魂力</span>和<span class=\"highlight\">減少冷卻</span>。"
+        "BonusSpiritWithMagicShield_label"		"持有護盾時的魂力"
+        "BonusSpiritWithMagicShield_prefix"		"+"
+        "CooldownReductionWithShield_label"		"持有護盾時的減少冷卻"
+        "CooldownReductionWithShield_prefix"	"+"
+        "CooldownReductionWithShield_postfix"	"%"
+
 
 		//Aerial Assault
 		"upgrade_aerial_assault_active"		"<span class=\"highlight\">Launch straight up</span> high into the air. While in the air you will pause your aerial movement for {s:AssaultDuration}s</span>.  During this time you gain <span class=\"highlight\">+{s:AssaultLifestealPercent}% bullet lifesteal</span>, <span class=\"highlight\">unlimited clip</span>, <span class=\"highlight\">+{s:AssaultFireRate}% fire rate</span>, and bullets that <span class=\"highlight\">explode</span> in a {s:ExplodeRadius}m radius."
