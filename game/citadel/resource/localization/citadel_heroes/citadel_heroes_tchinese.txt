@@ -723,7 +723,7 @@
 		"citadel_ability_lash_down_strike"			"震地猛擊"
 		"citadel_ability_lash_down_strike_quip"		"猛擊地面，傷害敵人"
 		"citadel_ability_lash_down_strike_desc"		"用力震擊腳下的地面，<span class=\"highlight\">傷害前方的敵人</span>，如果你在空中施展地面打擊，你會迅速向地面俯衝。超過25m會減少增加的幅度。"
-		"StompDamagePerMeterPrimary_label"			"每米傷害增幅"
+		"StompDamagePerMeterPrimary_label"			"每公尺傷害增幅"
 		"citadel_ability_lash_down_strike_t2_desc"	"被擊中的敵人會被<span class=\"highlight\">彈到空中</span>並受到減少移速{s:EnemySlowPct}%持續<span class=\"highlight\">{s:SlowDuration}秒</span>"
 		"citadel_ability_lash_down_strike_t3_desc"	"<span class=\"highlight\">每米傷害增幅</span>+110%以及增加範圍"
 		
@@ -887,6 +887,101 @@
 		"modifier_hook_bonus_movespeed"			"鉤爪速度"
 		"hook_modifier_slow"					"鉤爪減少移速"
 		"hook_bullet_shield"						"子彈護盾"
+		
+		
+		
+        //-----------------------------------------------------------------------------
+        // Astro
+        //-----------------------------------------------------------------------------
+        "ability_explosive_barrel"					"火藥桶"
+        "ability_explosive_barrel_quip"				"投擲一個會在被射中時爆炸的桶子"
+        "ability_explosive_barrel_desc"				"放置一個桶子，當<span class=\"highlight\">被射中</span>時或通過<span class=\"highlight\">近戰攻擊</span>或<span class=\"highlight\">彈跳墊</span>發射後著陸時爆炸。桶子在爆炸前有一個最短啟動時間。"
+        "ability_explosive_barrel_t3_desc"			"{s:AbilityCooldown} 冷卻時間<br>無啟動時間"
+        "BarrelLifetime_label"						"桶子存續時間"
+        "BarrelLifetime_postfix"					"秒"
+        //MinExplodeTime_label						"最短爆炸時間"
+        //MinExplodeTime_postfix					"秒"
+        "MirvOnExplode_label"						"迷你炸彈"
+        "MirvExplodeTime_label"						"迷你炸彈引信"
+        "MirvExplodeTime_postfix"					"秒"
+        "MirvRadius_label"							"迷你炸彈半徑"
+        "MirvRadius_postfix"						"公尺"
+        //MirvDamagePercent_label					"迷你炸彈傷害"
+        "BarrelDamage_label"						"爆炸傷害"
+        "BarrelDamageRadius_label"					"爆炸半徑"
+        "BarrelDamageRadius_postfix"				"公尺"
+        
+        "ability_hat_trick"						    "帽子戲法"
+        "ability_hat_trick_quip"					"投擲她的帽子來攻擊並揭示敵人"
+        "ability_hat_trick_desc"					"投擲她的<span class=\"highlight\">帽子</span>來攻擊敵人，<span class=\"highlight\">減速</span>並通過牆壁<span class=\"highlight\">揭示</span>他們。"
+        
+        "ability_bounce_pad"						"彈跳墊"
+        "ability_bounce_pad_quip"					"送你和其他人飛上天"
+        "ability_bounce_pad_desc"					"在世界中放置一個彈跳墊，<span class=\"highlight\">送你和其他英雄飛上天</span>。你著陸時會震擊地面，對附近的敵人<span class=\"highlight\">造成傷害</span>。"
+        "ability_bounce_pad_t1_desc"				"你和盟友在著陸時獲得 {s:SpeedOnLand}m/s 的移動速度加成，持續 {s:SpeedOnLandDuration} 秒"
+        "ability_bounce_pad_t2_desc"				"<span class=\"highlight\">+{s:StompDamage}</span> 震擊傷害並提升傷害倍率"
+        "ability_bounce_pad_t3_desc"				"<span class=\"highlight\">+{s:StompStunDuration} 秒</span>震擊後暈眩敵人"
+        "StompDamage_label"							"震擊傷害"
+        "StompStunDuration_postfix"					"秒"
+        "StompStunDuration_label"					"暈眩時間"
+        "StompRadius_label"							"震擊半徑"
+        "StompRadius_postfix"						"公尺"
+        //"MinAirTimeForStomp_label"				"震擊所需的最短空中時間"
+        //"MinAirTimeForStomp_postfix"				"秒"
+        "ability_bounce_pad/speed_on_land"			"移動速度"
+        
+        "citadel_ability_running_decoy"				"誘餌"
+        "citadel_ability_running_decoy_desc"		"{s:hero_name} 創造一個臨時的誘餌，誘餌會朝目標位置跑去並射擊任何附近的敵人。"
+        "modifier_decoy_self_buff"					"誘餌激活中"
+        "citadel_ability_running_decoy_t1_desc"		"誘餌激活期間移動速度<span class=\"highlight\">+{s:MoveSpeedMod} m/s</span>"
+        "citadel_ability_running_decoy_t2_desc"		"Astro 在誘餌受到的傷害中<span class=\"highlight\">治療 {s:HealOnCloneDamage}%</span>"
+        
+        "ability_head_stomp"						"震擊頭部"
+        "ability_head_stomp_desc"					"{s:hero_name} 在空中時有更多的移動控制能力，並在獲得足夠的空中速度後能夠彈跳敵人頭部。震擊敵人的頭部會使其暈眩。"
+        
+        "citadel_trick_shot"						"流星"
+        "citadel_trick_shot_desc"					"拋出一顆流星，會向附近的敵人發射減速子彈。射擊流星會增加其射速（敵人可以射擊流星來減慢它的射速）。武器升級將應用於流星。"
+        "TrickShotTargetCount_label"				"每次射擊的目標數量"
+        
+        "BulletSlowDuration_label"					"減速時間"
+        "BulletSlowDuration_postfix"				"秒"
+        
+        "ability_target_practice"					"靶場練習"
+        "ability_target_practice_quip"				"集中射擊目標以獲得優勢"
+        "ability_target_practice_desc"				"激活後，你的下一次槍擊會選擇一個敵方英雄作為目標。對其進行<span class=\"highlight\">{s:ShotsToProc} 次</span>射擊以造成爆發的靈魂傷害。每次爆頭都會增加爆發傷害"
+        "ability_target_practice_t3_desc"			"你的子彈會在{s:DebuffDuration}秒內<span class=\"highlight\">降低目標的子彈抗性 {s:BulletArmorReduction}%</span>"
+        "BonusPerHeadshot_label"					"每次爆頭的加成"
+        "BonusPerHeadshot_prefix"					"+"
+        "BonusPerHeadshot_postfix"					"%"
+        
+        "modifier_target_practice"					"靶場練習"
+        "target_practice_buildup"					"目標累積"
+        "CooldownReductionOnProc_label"				"應用時的冷卻縮減"
+        "CooldownReductionOnProc_postfix"			"秒"
+        "TargetPracticeDuration_label"				"靶場練習持續時間"
+        "TargetPracticeDuration_postfix"			"秒"
+        "ShotsToProc_label"							"所需射擊次數"
+        "DamageOnBuildup_label"						"累積傷害"
+        "modifier_target_practice_debuff"			"破甲"
+        "modifier_target_practice_slow"				"減速"
+        
+        "ability_astro_rifle"						"神槍手"
+        "ability_astro_rifle_quip"					"精確射擊，傷害逐漸增加"
+        "ability_astro_rifle_desc"					"裝備一把步槍，對命中的英雄造成靈魂傷害，並給予 {s:hero_name} 對其的堆疊傷害加成。"
+        "ability_astro_rifle_t1_desc"				"命中時施加 <span class=\"highlight\">{s:SlowPercent}% 的減速</span>，每層持續 {s:SlowDurationPerStack} 秒"
+        "ability_astro_rifle_t3_desc"				"<span class=\"highlight\">+{s:Damage}</span> 傷害，提升傷害倍率"
+        "ability_astro_rifle_desc_debuff"			"傷害脆弱"
+        "modifier_astro_rifle_slow"					"移動減速"
+        "DamageAmplificationPerStack_prefix"		"{s:sign}"
+        "DamageAmplificationPerStack_label"			"每層的額外傷害"
+        "DamageAmplificationPerStack_postfix"		"%"
+        
+        "ability_gravity_lasso"					"靈魂套索"
+        "ability_gravity_lasso_quip"				"抓住一個敵人並拖在你身後"
+        "ability_gravity_lasso_desc"				"用你的套索<span class=\"highlight\">抓住一個敵人</span>，並拖在你身後。敵人會被<span class=\"highlight\">暈眩</span>，而 Astro 在使用套索時會稍微減速。<br><br> 在第一次使用彈跳墊期間，套索的持續時間將暫停 {s:BouncePadExtendDuration} 秒。"
+        "modifier_astro_lasso_tether"				"套索鎖定"
+        "ability_gravity_lasso_t3_desc"			"可以套住目標區域內
+
 
 		//-----------------------------------------------------------------------------
 		// Grey Talon (previous names: Archer / Orion)
