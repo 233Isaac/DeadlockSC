@@ -153,7 +153,7 @@
 		
 		"citadel_ability_fissure_wall"			"無光之牆"
 		"citadel_ability_fissure_wall_quip"		"召喚一堵牆來阻擋你的敵方目標"
-		"citadel_ability_fissure_wall_desc"		"使用後，創建一堵牆<span class=\"highlight\">將地形一分為二</span>。創建後會對牆附近附近敵方目標<span class=\"highlight\">造成傷害和施加減少移速</span>，<br>創建後使用[{s:iv_attack}]或者[{s:in_ability3}]來將牆壁解除"
+		"citadel_ability_fissure_wall_desc"		"使用後，產生一堵牆<span class=\"highlight\">將地形一分為二</span>。產生後會對牆附近附近敵方目標<span class=\"highlight\">造成傷害和施加減少移速</span>，<br>產生後使用[{s:iv_attack}]或者[{s:in_ability3}]來將牆壁解除"
 		"citadel_ability_fissure_wall_t1_desc"	"擊中對後對目標<span class=\"highlight\">移除{s:StaminaReduction}點耐力</span>並且{s:hero_name}對目標的造成的傷害增幅<span class=\"highlight\">{s:BonusDamagePercent}%</span>持續{s:DebuffDuration}秒"
 		"citadel_ability_fissure_wall_t3_desc"	"擊中對敵方目標施加<span class=\"highlight\">{s:WallStunDuration}秒眩暈</span>"
 		"citadel_ability_fissure_wall_trigger"	"無光之牆"
@@ -266,8 +266,8 @@
 		// Paradox (previous name: Chrono)
 		//-----------------------------------------------------------------------------
 		"citadel_ability_chrono_time_wall"		"時光之牆"
-		"citadel_ability_chrono_time_wall_quip"	"創建一堵牆，大大減緩敵方單投射物速度"
-		"citadel_ability_chrono_time_wall_desc"	"使用後在自身前方創建一堵<span class=\"highlight\">時光之牆</span>，讓所有接觸到它的敵方目標的<span class=\"highlight\">投射物和子彈</span>暫時停滯。 碰到牆壁的敵方目標會受到按<span class=\"highlight\">最大生命值百分比的傷害</span>，並短暫減少移速。"
+		"citadel_ability_chrono_time_wall_quip"	"產生一堵牆，大大減緩敵方單投射物速度"
+		"citadel_ability_chrono_time_wall_desc"	"使用後在自身前方產生一堵<span class=\"highlight\">時光之牆</span>，讓所有接觸到它的敵方目標的<span class=\"highlight\">投射物和子彈</span>暫時停滯。 碰到牆壁的敵方目標會受到按<span class=\"highlight\">最大生命值百分比的傷害</span>，並短暫減少移速。"
 		"TargetGameplayTimeScale_label"			"尺寸"
 		"TargetGameplayTimeScale_postfix"			"%"
 		"TimeWallWidth_label"						"寬度"
@@ -356,9 +356,9 @@
 		"SpellLifestealNonHero_postfix"			"%"
 
 		"citadel_ability_chrono_sphere"			"紀元之球"
-		"citadel_ability_chrono_sphere_quip"		"創建一個減速時間的漩渦"
-		"citadel_ability_chrono_sphere_desc"		" {s:hero_name}創建一個時間漩渦，<span class=\"highlight\">減緩敵方目標的時間流速</span>。在漩渦中，敵方目標也會受到<span class=\"highlight\">沉默</span>減益效果。"
-		"citadel_ability_chrono_sphere_t3_desc"	"創建時，時間漩渦會<span class=\"highlight\">將所有敵方目標拉到它的中心。</span>"
+		"citadel_ability_chrono_sphere_quip"		"產生一個減速時間的漩渦"
+		"citadel_ability_chrono_sphere_desc"		" {s:hero_name}產生一個時間漩渦，<span class=\"highlight\">減緩敵方目標的時間流速</span>。在漩渦中，敵方目標也會受到<span class=\"highlight\">沉默</span>減益效果。"
+		"citadel_ability_chrono_sphere_t3_desc"	"產生時，時間漩渦會<span class=\"highlight\">將所有敵方目標拉到它的中心。</span>"
 		"modifier_chrono_sphere_friendly"			"加速時間"
 		"SphereRadius_label"						"球體範圍"
 		"FriendlyTimeBoost_label"					"時間加速"
@@ -815,7 +815,7 @@
 		"ability_icepath"					"寒冰路徑"
 		"ability_icepath_quip"				"在漂浮的冰道上飛馳"
 		"ability_icepath_desc"				"使用後{s:hero_name}製造一條漂浮的<span class=\"highlight\">寒冰路徑</span>，為他和他的友方英雄提供移動加成。會在持續時間內獲得{s:SlowResistancePercent}%減速抗性，敵人也可以在寒冰路徑上行走。<br>在冰雪路徑中，按下[{s:key_innate_1}] / [{s:key_duck}]可以向上或向下移動。"
-		"ability_icepath_t3_desc"			"技能啟用後 每創建一公尺冰徑路徑可獲得{s:BonusSpiritMeter}魂力 最大為{s:BonusSpiritMax}"
+		"ability_icepath_t3_desc"			"技能啟用後 每產生一公尺冰徑路徑可獲得{s:BonusSpiritMeter}魂力 最大為{s:BonusSpiritMax}"
 		"SprintSpeedBonus_label"				"疾跑速度"
 		"SprintSpeedBonus_prefix"				"+"
 		"SprintSpeedBonus_postfix"			"m/s"
@@ -1051,7 +1051,7 @@
 
 		"ability_life_drain"				"吸魂巫術"
 		"ability_life_drain_quip"			"汲取敵人的生命值"
-		"ability_life_drain_desc"			"選定一個敵方目標，使用後創建一個連結，持續<span class=\“highlight\”>吸取敵人的生命值</span>，目標必須在視線範圍內，並且在最大射程內才能消耗生命值。消耗期間，你可以射擊和使用其他技能，但是減半移速。按下 [{s:in_ability2}] 提前取消吸取。"
+		"ability_life_drain_desc"			"選定一個敵方目標，使用後產生一個連結，持續<span class=\“highlight\”>吸取敵人的生命值</span>，目標必須在視線範圍內，並且在最大射程內才能消耗生命值。消耗期間，你可以射擊和使用其他技能，但是減半移速。按下 [{s:in_ability2}] 提前取消吸取。"
 		"ability_life_drain/modifier_life_drain" "生命吸取"
 		"ability_life_drain/modifier_life_drain_caster" "生命吸取"
 		"modifier_life_drain_silence"		"沉默"
