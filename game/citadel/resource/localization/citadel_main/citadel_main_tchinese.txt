@@ -1672,6 +1672,7 @@
 		"citadel_settings_language_change_title"		"需要重啟"
 		"citadel_settings_language_change_body"			"重啟 Deadlock 用戶端以套用語言更改。"
 
+        "citadel_confirm_reset_crosshair"					"你確定要把準星重設回預設狀態嗎?"
 		"citadel_settings_crosshair"						"準星"
 		"citadel_settings_crosshair_size"					"大小"
 		"citadel_settings_crosshair_pip_gap"				"間隙"
@@ -1870,7 +1871,7 @@
 		"citadel_keybind_push_to_talk"					"按下說話"
 		"citadel_keybind_push_to_talk_party"			"隊伍說話按鍵"
 		"citadel_reset_keybind"							"想重設按鍵綁定?"
-		"citadel_confirm_reset_keybindings"				"你確定你想要把你的按鍵綁定重設回預設狀態嗎?"
+		"citadel_confirm_reset_keybindings"				"你確定要把按鍵綁定重設回預設狀態嗎?"
 		"citadel_switch_camera_teammate_1"				"觀察 隊友 1"
 		"citadel_switch_camera_teammate_2"				"觀察 隊友 2"
 		"citadel_switch_camera_teammate_3"				"觀察 隊友 3"
