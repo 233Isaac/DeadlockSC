@@ -1497,7 +1497,7 @@
 
 		"citadel_hint_zoom"			"按住 <span class=\"hintTextEmphasis\">[{s:iv_attack2}]</span> 瞄準。"
 		"citadel_hint_slide"		"在斜坡上移動時 <span class=\"hintTextEmphasis\">[{s:duck}]</span> 來滑鏟。"
-		"citadel_hint_zipline"		"按住 <span class=\"hintTextEmphasis\">[{s:in_mantle}]</span> 來挑上移動滑索。"
+		"citadel_hint_zipline"		"按住 <span class=\"hintTextEmphasis\">[{s:in_mantle}]</span> 來跳上移動滑索。"
 		"citadel_hint_mantle"		"按住 <span class=\"hintTextEmphasis\">[{s:in_mantle}]</span> 來越過障礙物。"
 		"citadel_hint_ladder"		"按 <span class=\"hintTextEmphasis\">[{s:in_mantle}]</span>+<span class=\"hintTextEmphasis\">[{s:key_forward}]</span> 跳上梯子。"
 		"citadel_hint_buy_items"		"回到基地或商店來購買 <span class=\"hintTextEmphasis\">模組</span>"
@@ -2231,7 +2231,7 @@
 		"HeroTesting_FullHealth"					"設定滿血"
 		"HeroTesting_KillHero"						"擊殺英雄"
 		"HeroTesting_AllPerks"						"技能全升"
-		"HeroTesting_SpawnCamp"						"刷新中立"
+		"HeroTesting_SpawnCamp"						"刷新野怪"
 		"HeroTesting_GameRules"						"遊戲規則"
 		"HeroTesting_NoDeath"						"無 死亡"
 		"HeroTesting_NoCooldown"					"無 冷卻"
