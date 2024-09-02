@@ -64,7 +64,7 @@
 		"GameUI_Disconnect_SteamInUse"				"此Steam帳號正在用於另外的地點"
 		"GameUI_Disconnect_SteamOwnership"			"此Steam帳號未擁有此遊戲。\n請使用正確的Steam帳戶登入"
 		"GameUI_Disconnect_SteamVAC"				"被安全伺服器施加VAC封鎖"
-		"GameUI_Disconnect_SteamTimeOut"			"Valve Anti-Cheat 質詢超時。請確認沒有使用任何干擾VAC運行的程式，並確認Steam已經正確安裝。"
+		"GameUI_Disconnect_SteamTimeOut"			"Valve Anti-Cheat 驗證逾時。請確認沒有使用任何干擾VAC運行的程式，並確認Steam已經正確安裝。"
 		"GameUI_Disconnect_SteamDropped"			"Steam認證失敗。你必須連接到Steam以確保與遊戲伺服器的初始連接。"
 		"GameUI_Disconnect_SteamTicket"				"無效的 STEAM 用戶身份門票"
 		"GameUI_Disconnect_NoSpectators"			"比賽不允許觀戰"
