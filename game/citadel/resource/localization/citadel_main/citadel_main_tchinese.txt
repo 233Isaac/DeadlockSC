@@ -666,18 +666,18 @@
 		"Citadel_Hud_KillFeedSuperNeutral"							"神廟守衛"
 		"Citadel_Hud_KillFeedNeutral"								"中立魔物 #{i:unit_num}"
 		"Citadel_Hud_KillFeedSentry"								"安全炮台"
-		"Citadel_Hud_KillFeedGuardian"								"守衛者"
-		"Citadel_Hud_KillFeedBarracksBoss"							"基地守衛者"
+		"Citadel_Hud_KillFeedGuardian"								"守護者"
+		"Citadel_Hud_KillFeedBarracksBoss"							"基地守護者"
 		"Citadel_Hud_KillFeedWalker"								"步行者"
 		"Citadel_Hud_KillFeedAllWalkers"							"敵方步行者"
 		"Citadel_Hud_KillFeedShieldName"							"神龕"
 		"Citadel_Hud_KillFeedTitan"									"守護神"
-		"Citadel_Hud_KillFeedEnemyGuardian"							"敵方守衛者"
+		"Citadel_Hud_KillFeedEnemyGuardian"							"敵方守護者"
 		"Citadel_Hud_KillFeedEnemyWalker"							"敵方步行者"
-		"Citadel_Hud_KillFeedEnemyBarracksGuardian"					"敵方基地守衛者"
-		"Citadel_Hud_KillFeedFriendlyBarracksGuardian"				"友方基地守衛者"
+		"Citadel_Hud_KillFeedEnemyBarracksGuardian"					"敵方基地守護者"
+		"Citadel_Hud_KillFeedFriendlyBarracksGuardian"				"友方基地守護者"
 		"Citadel_Hud_KillFeedEnemyTitan"							"敵方神龕"
-		"Citadel_Hud_KillFeedFriendlyGuardian"						"友方守衛者"
+		"Citadel_Hud_KillFeedFriendlyGuardian"						"友方守護者"
 		"Citadel_Hud_KillFeedFriendlyWalker"						"友方步行者"
 		"Citadel_Hud_KillFeedFriendlyTitan"							"友方守護神"
 		"Citadel_Hud_KillFeedFriendlyShield"						"友方神龕"
@@ -687,10 +687,10 @@
 
 		"Objective_MidBoss"											"Mid-Boss"
 
-		"Objective_Friendly_T1"									"友方守衛者"
-		"Objective_Enemy_T1"									"敵方守衛者"
-		"Objective_Team1_T1"									"琥珀守衛者"
-		"Objective_Team2_T1"									"藍晶守衛者"
+		"Objective_Friendly_T1"									"友方守護者"
+		"Objective_Enemy_T1"									"敵方守護者"
+		"Objective_Team1_T1"									"琥珀守護者"
+		"Objective_Team2_T1"									"藍晶守護者"
 
 		"Objective_Friendly_T2"									"友方步行者"
 		"Objective_Enemy_T2"									"敵方步行者"
@@ -752,8 +752,8 @@
 
 		"Citadel_AttackerClass_CLASS_TROOPER"						"蠟燭兵"
 		"Citadel_AttackerClass_CLASS_TROOPER_NEUTRAL"				"中立魔物"
-		"Citadel_AttackerClass_CLASS_TROOPER_BOSS"					"守衛者"
-		"Citadel_AttackerClass_CLASS_BOSS_BARRACKS"					"基地守衛者"
+		"Citadel_AttackerClass_CLASS_TROOPER_BOSS"					"守護者"
+		"Citadel_AttackerClass_CLASS_BOSS_BARRACKS"					"基地守護者"
 		"Citadel_AttackerClass_CLASS_BOSS_TIER_2"					"步行者"
 		"Citadel_AttackerClass_CLASS_BOSS_TIER_3"					"守護神"
 		"Citadel_AttackerClass_CLASS_SUPER_NEUTRAL"					"神廟守衛"
@@ -1207,9 +1207,9 @@
 		"Citadel_LaneStats_LastHits"					"補刀"
 		"Citadel_LaneStats_Denies"						"反補"
 		"Citadel_LaneStats_PlayerDamage"				"玩家傷害"
-		"Citadel_LaneStats_Tier1"						"守衛者摧毀時間"
+		"Citadel_LaneStats_Tier1"						"守護者摧毀時間"
 		"Citadel_LaneStats_Tier2"						"步行者摧毀時間"
-		"Citadel_LaneStats_Guardians"					"基地守衛者摧毀時間"
+		"Citadel_LaneStats_Guardians"					"基地守護者摧毀時間"
 
 		"Citadel_WatchPage_FilterByHeroDefault"			"按英雄篩選"
 		"Citadel_WatchPage_SearchMatchID"				"使用比賽 ID 搜索"
@@ -1350,7 +1350,7 @@
 
 
 		// Unit names
-		"guardian_unit"							"守衛者"
+		"guardian_unit"							"守護者"
 		"walker_unit"							"步行者"
 		"titan_unit"							"守護神"
 
@@ -1951,7 +1951,7 @@
 		"guide_upgrades_killing_guardians_desc"		"摧毀敵人的防禦單位可為團隊中的每個人賺取技能點數（AP）。<br><br>你可以通過按住<span class='keybind'>[TAB]</span>來升級技能。"
 
 		"guide_upgrades_going_home_header"			"商店"
-		"guide_upgrades_going_home_desc"			"當你有魂靈可以使用時，請回到基地購物和治療。購買強大的模組，這些模組可以增加你的屬性並賦予你額外的能力。<br><br>每個守衛者旁邊都有一個商店，如果該商店周圍的守護神被摧毀，那麼商店也會被關閉。"
+		"guide_upgrades_going_home_desc"			"當你有魂靈可以使用時，請回到基地購物和治療。購買強大的模組，這些模組可以增加你的屬性並賦予你額外的能力。<br><br>每個守護者旁邊都有一個商店，如果該商店周圍的守護神被摧毀，那麼商店也會被關閉。"
 
 		"guide_upgrades_upgrade_abilities_header"	"升級技能"
 		"guide_upgrades_upgrade_abilities_desc"		"消耗技能點數來升級你的技能。<br><br>技能有三個升級等級。"
@@ -2171,7 +2171,7 @@
 		"ModIconTooltip_UnlockGenerators"			"首次摧毀敵方神龕後解鎖"	
 		//"ModIconTooltip_UnlockTier3"				"摧毀敵方守護神的第一形態後解鎖"
 		"ModIconTooltip_UnlockAllTier2"				"摧毀敵方所有步行者後解鎖"
-		"ModIconTooltip_UnlockAllTier1"				"摧毀敵方所有守衛者後解鎖"
+		"ModIconTooltip_UnlockAllTier1"				"摧毀敵方所有守護者後解鎖"
 
 		"HeroesPageTitle"							"英雄"
 		"HeroesPageActionText"						"選擇英雄查看詳情"
@@ -2288,7 +2288,7 @@
 		"ReportCard_AbilitiesUpgraded_Desc"			"通過按住 [{s:key_extra_info}]來升級技能"
 		"ReportCard_AbilitiesUpgraded_Progress"		"<span class=\"yourscore\">{i:abilitiesUpgraded}</span> / {i:abilitiesUpgradedNextGoal}"
 
-		"ReportCard_GuardianDamage"					"守衛者傷害"
+		"ReportCard_GuardianDamage"					"守護者傷害"
 		"ReportCard_GuardianDamage_Desc"			"你對敵方建築造成的傷害"
 		"ReportCard_GuardianDamage_Progress"		"<span class=\"yourscore\">{i:guardianDamage}</span> / {i:guardianDamageNextGoal}"
 		"ReportCard_DamageTaken"					"承受傷害"
