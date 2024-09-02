@@ -2023,8 +2023,8 @@
 		"hud_spectating"					"正在觀戰"
 		"hud_change_camera"					"更換視角"
         "hud_spectate_next_prev"			"下一個 / 前一個"
-        "hud_spectate_fly_down"				"往上飛"
-        "hud_spectate_fly_up"				"往下飛"
+        "hud_spectate_fly_down"				"往上升"
+        "hud_spectate_fly_up"				"往下降"
         "hud_spectate_change_team"			"更換隊伍"
         "hud_spectate_count"				"{d:spectatorCount} 觀戰者"
 
