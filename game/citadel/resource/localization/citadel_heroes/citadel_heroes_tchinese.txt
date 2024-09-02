@@ -860,7 +860,7 @@
 
 		"citadel_ability_sticky_bomb"			"黏彈"
 		"citadel_ability_sticky_bomb_quip"		"在敵人身上安放定時爆炸的炸彈"
-		"citadel_ability_sticky_bomb_desc"		"使用後給附近的單個目標身上附加黏彈，在短暫的延遲後造成<span class=\"highlight\">爆炸傷害</span>。<br>每擊中一名敵方英雄，即可獲得<span class=\"highlight\">+{s:BonusDamagePctPerPlayerHit}% 永久的炸彈傷害加成</span>。"
+		"citadel_ability_sticky_bomb_desc"		"使用後給附近的單個目標身上附加黏彈，在短暫的延遲後造成<span class=\"highlight\">爆炸傷害</span>。<br>每擊中一名敵方英雄，即可獲得<span class=\"highlight\">+{s:BonusDamagePctPerPlayerHit}% 永久的炸彈傷害加成</span>。<br>搭配自我施法組合鍵 [{s:key_alt_cast}] 對自身施放。"
 		"modifier_citadel_sticky_bomb_attached"	"炸彈安到你身上了"
 		"citadel_ability_sticky_bomb_t3_desc"	"當目標敵人受到黏彈效果後同時附加<span class=\"highlight\">繳械</span>持續<span class=\"highlight\">{s:DebuffDuration}秒</span>"
 		"StunTargetOnExplode_label"				"持續"
@@ -878,7 +878,7 @@
 		
 		"citadel_ability_hook"					"彈射鉤爪"
 		"citadel_ability_hook_quip"				"將目標拉到你身邊"
-		"citadel_ability_hook_desc"             "發射一個鉤爪，<span class=\"highlight\">抓住並拉回</span>擊中的第一個敵方英雄，造成傷害。目標將被放置在您面對的位置。<br>使用 [{s:key_alt_cast}] 施放以鎖定友方英雄。"
+		"citadel_ability_hook_desc"             "發射一個鉤爪，<span class=\"highlight\">抓住並拉回</span>擊中的第一個敵方英雄，造成傷害。目標將被放置在您面對的位置。<br>搭配自我施法組合鍵 [{s:key_alt_cast}] 施放以鎖定友方英雄。"
 		"citadel_ability_hook_t1_desc"			"對鉤住的敵人造成 <span class=\"highlight\">{s:BulletAmp}% 更高的子彈傷害</span>，持續 {s:BulletAmpDuration}秒"
 		"BulletShieldOnHook_label"				"子彈護盾"
 		"BulletShieldOnHook_postfix"				"HP"
