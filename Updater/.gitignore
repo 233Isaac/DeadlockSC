@@ -1,0 +1,47 @@
+# Ignore virtual environment
+.venv/
+env/
+ENV/
+venv/
+
+# Ignore Python bytecode
+*.py[cod]
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyd
+*.pyo
+
+# Ignore PyInstaller files
+*.spec
+*.log
+build/
+dist/
+
+# Ignore IDE specific files (PyCharm, VSCode, etc.)
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore distribution/package files
+*.egg
+*.egg-info/
+.eggs/
+MANIFEST
+
+# Ignore pipenv
+Pipfile.lock
+
+# Ignore any other temporary files
+*.log
+*.tmp
+*.temp
