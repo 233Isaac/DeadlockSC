@@ -530,15 +530,15 @@
 		"SlowProcChance_label"						"減少移速機率"
 		"SlowProcChance_postfix"						"%"
 
-		"SlowDuration_label"							"減少移速持續"
+		"SlowDuration_label"							"減少移速持續時間"
 		"SlowDuration_postfix"							"秒"
 
 		"PoisonDamage_label"							"Poison Damage"
-		"PoisonDuration_label"							"持續"
+		"PoisonDuration_label"							"持續時間"
 		"PoisonDuration_postfix"							"秒"
 
 
-		"DebuffDuration_label"						"減益持續"
+		"DebuffDuration_label"						"減益持續時間"
 		"DebuffDuration_postfix"						"秒"
 
 		"DotHealthPercent_label"						"流血傷害"
@@ -598,7 +598,7 @@
 		"ActiveStatusResistancePercent_postfix"			"%"
 		"ActiveStatusResistancePercent_label"			"減益狀態抗性"
 
-		"StatusResistanceDuration_label"				"持續"
+		"StatusResistanceDuration_label"				"持續時間"
 		"StatusResistanceDuration_postfix"				"秒"
 
 		"CleavePercentage_prefix"						"{s:sign}"
@@ -1106,7 +1106,7 @@
 		"AbilityCooldownBetweenCharge_postfix"			"秒"
 
 		"AbilityDuration_postfix"						"秒"
-		"AbilityDuration_label"						"持續"
+		"AbilityDuration_label"						"持續時間"
 
 		"TetherDuration_postfix"						"秒"
 		"TetherDuration_label"						"拴繩持續"
@@ -1427,7 +1427,7 @@
 		"WeaponPowerPerStack_label"					"每層子彈傷害"
 		"WeaponPowerPerStack_postfix"				"%"
 		"DamageToStack_label"						"傷害疊加一層"
-		"DamageDuration_label"						"持續"
+		"DamageDuration_label"						"持續時間"
 		"DamageDuration_postfix"						"秒"
 
 		"RegenWhileInvisible_label"				"Health Regen while Invisible"
@@ -1507,7 +1507,7 @@
 		"DelayDuration_Postfix"	"秒"
 		"MinimumDamage_Label"	"最小傷害"
 
-		"EMPDuration_label"				"減益持續"
+		"EMPDuration_label"				"減益持續時間"
 		"EMPDuration_postfix"			"秒"
 
 		"BonusBulletDamageToEMPTargets_label" "對沉默目標敵人子彈傷害"
@@ -1558,7 +1558,7 @@
 		"SiphonRadius_label"					"啟用範圍"
 		"SiphonRadius_postfix"				"公尺"
 
-		"TechResistDuration_label"			"持續"
+		"TechResistDuration_label"			"持續時間"
 		"TechResistDuration_postfix"			"秒"
 
 		"BleedTechResist_label"				"魂力抗性"
@@ -1571,7 +1571,7 @@
 
 		"HeadShotBonusDamage_prefix"		"{s:sign}"
 		"HeadShotBonusDamage_label"			"爆頭額外傷害"
-		"HeadShotDebuffDuration_label"		"持續"
+		"HeadShotDebuffDuration_label"		"持續時間"
 		"HeadShotDebuffDuration_postfix"	"秒"
 		"HeadShotCooldown_label"			"冷卻時間"
 		"HeadShotCooldown_postfix"			"秒"
@@ -1588,7 +1588,7 @@
 		"ShockBuildupDuration_label"			"電擊疊加持續"
 		"ShockBuildupDuration_postfix"		"秒"
 
-		"GalvanicProcDuration_label"			"減少移速持續"
+		"GalvanicProcDuration_label"			"減少移速持續時間"
 		"GalvanicProcDuration_postfix"		"秒"
 
 		"FireRateSlow_label"					"減少射速"
@@ -1707,7 +1707,7 @@
 		"SlamDownRadius_label"					"踩踏範圍"
 		"SlamDownRadius_postfix"				"公尺"
 
-		"StealDuration_label"					"生命竊取持續"
+		"StealDuration_label"					"生命竊取持續時間"
 		"StealDuration_postfix"					"秒"
 
 		"VeilCross_conditional"					"面紗行者"
@@ -1747,7 +1747,7 @@
 
 		"BulletShieldOnCast_label"						"子彈護盾"
 		"TechShieldOnCast_label"						"魂力護盾"
-		"BulletShieldDuration_label"					"持續"
+		"BulletShieldDuration_label"					"持續時間"
 		"BulletShieldDuration_postfix"					"秒"
 
 		

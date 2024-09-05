@@ -923,7 +923,7 @@
         "ability_bounce_pad_t3_desc"			"<span class=\"highlight\">+{s:StompStunDuration}s Stun</span> on Stomp"
         "StompDamage_label"			"震擊傷害"
         "StompStunDuration_postfix"					"s"
-        "StompStunDuration_label"					"Duration"
+        "StompStunDuration_label"					"持續"
         "StompRadius_label"						"Stomp Radius"
         "StompRadius_postfix"						"m"
         //"MinAirTimeForStomp_label"					"Min Air Time for Stomp"
