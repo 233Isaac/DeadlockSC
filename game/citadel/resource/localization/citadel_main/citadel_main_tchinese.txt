@@ -943,7 +943,7 @@
 		"Citadel_PartyFindMatch_OpenInvitesTitle"				"待處理的邀請"
 		"Citadel_PartyFindMatch_OpenInvitesBody"				"你有尚未接受的隊伍邀請。你想取消這些邀請並繼續嗎？"
 		"Citadel_PartyFindMatch_SoloPartyTitle"					"單人隊伍"
-		"Citadel_PartyFindMatch_SoloPartyBody"					"你的隊伍現在只有你一個人。邀請一些朋友或者離開隊伍自行遊玩。"
+		"Citadel_PartyFindMatch_SoloPartyBody"					"你是隊伍中唯一的成員。邀請一些朋友一起遊玩，或退出隊伍單獨進行遊戲。"
 		"Citadel_PartyFindMatch_SoloParty_Leave"				"離開隊伍並遊玩"
 		"Citadel_PartyFindMatch_SoloParty_Wait"					"正在等待好友"
 		"Citadel_PartyFindMatch_DevContinue"					"DEV - 繼續"
