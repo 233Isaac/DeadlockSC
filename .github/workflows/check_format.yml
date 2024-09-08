@@ -18,7 +18,7 @@ jobs:
       - name: Find all localization .txt files
         run: |
           # Find all .txt files in the correct localization folder and its subdirectories
-          find ./DeadlockTC/game/citadel/resource/localization -name "*.txt"
+          find ./game/citadel/resource/localization -name "*.txt"
 
       - name: Check localization format
         run: |
