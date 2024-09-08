@@ -1797,7 +1797,7 @@
         "hero_gigawatt_playstyle"       "Seven在小規模戰鬥中變得更強，等待著出擊的時機。然後，他就會像風暴一樣捲入戰鬥，用層層疊疊的閃電擊打敵人。"
         "hero_haze_playstyle"           "當 Haze 盯住一個目標時，她可以在交火中保持自己的優勢。她更喜歡製造單方交火，先衝刺傷害，然後近距離攻擊毫無防備的目標。"
         "hero_hornet_playstyle"         "Vindicta 的機動性很強，她可以在空中時與獵物交戰，挑起獵物的傷口並慢慢放掉它們的血。當她出現在地圖上時，任何距離上受傷的敵人都會害怕被她狙殺。"
-        "hero_inferno_playstyle"        "Infernus 有許多方法可以在一段時間內造成傷害，在撲殺敵人之前灼燒敵人。由於 Infernus 的速度極快，他的敵人根本無法衝刺。"
+        "hero_inferno_playstyle"        "Infernus 有許多方式可以造成持續傷害，在獵殺之前將敵人燃燒殆盡。由於 Infernus 速度極快，敵人無法逃離他的火焰。"
         "hero_kali_playstyle"           "Kali 的迴旋鏢具有很強的殺傷力，但如果他在迴旋鏢的過程中沒有抓住鏢刃，其效果就會大打折扣。"
         "hero_kelvin_playstyle"         "及時治療和正確分割團戰戰場是輕鬆獲勝還是慘敗的關鍵。在敵人身邊滑行減少移速為 Kelvin 的團隊提供了機動優勢。"
         "hero_lash_playstyle"           "Lash幾乎不給敵人喘息的機會，要麼從遠處飛來與毫無防備的敵人展開戰鬥，要麼在敵人試圖逃跑時緊追不捨。"
