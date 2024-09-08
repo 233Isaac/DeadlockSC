@@ -16,16 +16,14 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Find all localization .txt files
-        working-directory: game
         run: |
-          # Find all .txt files in the localization folder and its subdirectories
-          find ./resource/localization -name "*.txt"
+          # Find all .txt files in the correct localization folder and its subdirectories
+          find ./DeadlockTC/game/citadel/resource/localization -name "*.txt"
 
       - name: Check localization format
-        working-directory: game
         run: |
           # Check each .txt file found in the localization folder
-          find ./resource/localization -name "*.txt" | while read file; do
+          find ./game/citadel/resource/localization -name "*.txt" | while read file; do
             echo "Checking format of $file"
             if ! grep -qP "^\s*(//.*|\"[a-zA-Z0-9_]+\"\s*\"[^\"]+\")\s*$" "$file"; then
               echo "$file is incorrectly formatted. Make sure every line follows \"key\" \"value\" pattern or is a comment starting with //."
