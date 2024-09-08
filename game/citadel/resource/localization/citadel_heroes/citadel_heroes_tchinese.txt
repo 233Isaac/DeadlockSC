@@ -1804,7 +1804,7 @@
         "hero_krill_playstyle"			"通過鑽地，Mo & Krill 幾乎可以攻擊到任何人；一旦它們靠近，結果可能是毀滅性的。"
         "hero_nano_playstyle"           "（變動中）就像所有優秀的政客一樣，nano讓人們相互對立，讓他們為她做骯髒的勾當，然後她再突然出現，聲稱一切都歸功於她。"
         "hero_orion_playstyle"			"作為一名狡猾的掠食者，Grey Talon將致命的精準度、陷阱和巧妙的走位結合起來，擊倒最難纏的對手。"
-        "hero_shiv_playstyle"           "shiv 對公平競爭毫無興趣，這就是為什麼他在潛入殺敵之前，要依靠 “打了就跑 ”的戰術來削弱敵人。"
+        "hero_shiv_playstyle"           "Shiv 對於公平競爭毫無興趣，這就是為什麼他依賴打帶跑戰術來削弱敵人，然後再伺機擊殺。"
         "hero_tempest_playstyle"        "就像小孩子不知道電視是怎麼工作的一樣，沒人知道Tempest是怎麼殺死你的。 是特斯拉線圈嗎？ 你沒看到特斯拉線圈  不管怎樣，你死了，Tempest在笑。"
         "hero_viscous_playstyle"        "Viscous 透過巧妙的衝刺和策略性地使用治療手段，使他能夠抵禦敵人最猛烈的攻擊，從而令對手苦不堪言。"
         "hero_warden_playstyle"         "Warden從前線衝鋒陷陣，阻礙對手有效作戰。但Warden認為自己勇敢，其他人卻認為他魯莽，如果他不小心，很容易就會陷入困境。"
