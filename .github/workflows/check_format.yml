@@ -15,13 +15,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Find all localization .txt files
+        run: |
+          # Find all .txt files in the localization folder and its subdirectories
+          find ./game/resource/localization -name "*.txt"
+
       - name: Check localization format
         run: |
-          # Ensure localization.txt exists and isn't malformed
-          if ! grep -qP "^\s*(//.*|\"[a-zA-Z0-9_]+\"\s*\"[^\"]+\")\s*$" localization.txt; then
-            echo "Localization file is incorrectly formatted. Make sure every line follows \"key\" \"value\" pattern or is a comment starting with //."
-            exit 1
-          fi
+          # Check each .txt file found in the localization folder
+          find ./game/resource/localization -name "*.txt" | while read file; do
+            echo "Checking format of $file"
+            if ! grep -qP "^\s*(//.*|\"[a-zA-Z0-9_]+\"\s*\"[^\"]+\")\s*$" "$file"; then
+              echo "$file is incorrectly formatted. Make sure every line follows \"key\" \"value\" pattern or is a comment starting with //."
+              exit 1
+            fi
+          done
 
       - name: Format check passed
-        run: echo "Localization file format is correct!"
+        run: echo "All localization files are correctly formatted!"
