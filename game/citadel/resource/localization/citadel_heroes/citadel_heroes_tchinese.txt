@@ -1807,7 +1807,7 @@
         "hero_shiv_playstyle"           "Shiv 對於公平競爭毫無興趣，這就是為什麼他依賴打帶跑戰術來削弱敵人，然後再伺機擊殺。"
         "hero_tempest_playstyle"        "就像小孩子不知道電視是怎麼工作的一樣，沒人知道Tempest是怎麼殺死你的。 是特斯拉線圈嗎？ 你沒看到特斯拉線圈  不管怎樣，你死了，Tempest在笑。"
         "hero_viscous_playstyle"        "Viscous 透過巧妙的衝刺和策略性地使用治療手段，使他能夠抵禦敵人最猛烈的攻擊，從而令對手苦不堪言。"
-        "hero_warden_playstyle"         "Warden從前線衝鋒陷陣，阻礙對手有效作戰。但Warden認為自己勇敢，其他人卻認為他魯莽，如果他不小心，很容易就會陷入困境。"
+        "hero_warden_playstyle"         "Warden 以身作則，衝鋒陷陣，阻礙對手有效作戰。然而，Warden 所認為的勇敢，別人卻視為魯莽。如果他不小心的話，很容易就會陷入險境。"
         "hero_wraith_playstyle"         "擅長一對一戰鬥的 Wraith 會孤立目標，以無情的效率消滅他們。"
         "hero_yamato_playstyle"         "Yamato 使用精準的攻擊來消滅對手。然而，這種破壞性的攻擊往往會讓她暴露，因此她需要讓每一擊都擊中。"
         "hero_spade_playstyle"          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
